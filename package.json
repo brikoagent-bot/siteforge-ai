@@ -1,0 +1,10 @@
+{
+  "name": "siteforge-ai",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node voice-agent/sms-webhook.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
