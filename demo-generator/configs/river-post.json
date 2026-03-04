@@ -1,0 +1,37 @@
+{
+  "business_name": "River & Post",
+  "category": "restaurant",
+  "address": "New American restaurant",
+  "phone": "",
+  "email": "contact@river-post.com",
+  "rating": 4.4,
+  "review_count": 9999,
+  "reviews": [
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Fresh Ingredients, Bold Flavors",
+  "description": "River & Post brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.300Z",
+  "maps_url": "https://www.google.com/maps/place/River+%26+Post/data=!4m7!3m6!1s0x88e5b7772f9ca7ff:0x3ba88d786662cb0b!8m2!3d30.3141243!4d-81.6780187!16s%2Fg%2F11fxz39cv5!19sChIJ_6ecL3e35YgRC8tiZniNqDs?authuser=0&hl=en&rclk=1",
+  "slug": "river-post"
+}

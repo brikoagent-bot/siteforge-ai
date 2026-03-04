@@ -1,0 +1,37 @@
+{
+  "business_name": "Le Salon Mia",
+  "category": "salon",
+  "address": "4008 Fiesta Plaza",
+  "phone": "",
+  "email": "contact@le-salon-mia.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "Le Salon Mia is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.292Z",
+  "maps_url": "https://www.google.com/maps/place/Le+Salon+Mia/data=!4m7!3m6!1s0x88c2c3a63951069b:0x3f7683138d50ae88!8m2!3d27.9744395!4d-82.4862142!16s%2Fg%2F11t6lm2837!19sChIJmwZROabDwogRiK5QjRODdj8?authuser=0&hl=en&rclk=1",
+  "slug": "le-salon-mia"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Your Raleigh Dentist",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@your-raleigh-dentist.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Creating Confident Smiles",
+  "description": "Your Raleigh Dentist provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.307Z",
+  "maps_url": "https://www.google.com/maps/place/Your+Raleigh+Dentist/data=!4m7!3m6!1s0x89ac8bbe6af283f7:0x418ce3060ec24a3b!8m2!3d35.663177!4d-78.69999!16s%2Fg%2F11ky6x1zrm!19sChIJ94Pyar6LrIkRO0rCDgbjjEE?authuser=0&hl=en&rclk=1",
+  "slug": "your-raleigh-dentist"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Prohibition Proper Barbershop - Speakeasy Hair and Beard Experience",
+  "category": "barbershop",
+  "address": "606 Fesslers Ln suite 100",
+  "phone": "",
+  "email": "contact@prohibition-proper-barbershop-speakeasy-hair-and-beard-exper.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a barber who actually listens. The attention to detail is unmatched.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "The Art of the Perfect Cut",
+  "description": "Prohibition Proper Barbershop - Speakeasy Hair and Beard Experience is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.303Z",
+  "maps_url": "https://www.google.com/maps/place/Prohibition+Proper+Barbershop+-+Speakeasy+Hair+and+Beard+Experience/data=!4m7!3m6!1s0x886467c7ad2b5fd7:0x1b575a18986759f1!8m2!3d36.1439349!4d-86.7440355!16s%2Fg%2F11fw6f_xwt!19sChIJ118rrcdnZIgR8VlnmBhaVxs?authuser=0&hl=en&rclk=1",
+  "slug": "prohibition-proper-barbershop-speakeasy-hair-and-beard-exper"
+}

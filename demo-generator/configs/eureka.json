@@ -1,0 +1,37 @@
+{
+  "business_name": "Eureka!",
+  "category": "restaurant",
+  "address": "American restaurant",
+  "phone": "",
+  "email": "contact@eureka.com",
+  "rating": 4.4,
+  "review_count": 9999,
+  "reviews": [
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "A Culinary Experience Like No Other",
+  "description": "Eureka! brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.300Z",
+  "maps_url": "https://www.google.com/maps/place/Eureka!/data=!4m7!3m6!1s0x8644b5a77a69d217:0x5767e994aa3248a8!8m2!3d30.2678427!4d-97.7412401!16s%2Fg%2F11btww44m0!19sChIJF9Jpeqe1RIYRqEgyqpTpZ1c?authuser=0&hl=en&rclk=1",
+  "slug": "eureka"
+}

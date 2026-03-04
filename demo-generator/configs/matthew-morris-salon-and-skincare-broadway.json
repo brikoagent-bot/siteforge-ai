@@ -1,0 +1,37 @@
+{
+  "business_name": "Matthew Morris Salon and Skincare - Broadway",
+  "category": "salon",
+  "address": "13 S Broadway",
+  "phone": "(104) 988-2376",
+  "email": "contact@matthew-morris-salon-and-skincare-broadway.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Matthew Morris Salon and Skincare - Broadway is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.297Z",
+  "maps_url": "https://www.google.com/maps/place/Matthew+Morris+Salon+and+Skincare+-+Broadway/data=!4m7!3m6!1s0x876c7f20f6191073:0x9977242fa1ac73d8!8m2!3d39.7163403!4d-104.9882376!16s%2Fg%2F1xg5t4zq!19sChIJcxAZ9iB_bIcR2HOsoS8kd5k?authuser=0&hl=en&rclk=1",
+  "slug": "matthew-morris-salon-and-skincare-broadway"
+}

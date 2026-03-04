@@ -1,0 +1,37 @@
+{
+  "business_name": "Flyy City Barbershop",
+  "category": "barbershop",
+  "address": "752 W Flagler St Ste 103",
+  "phone": "",
+  "email": "contact@flyy-city-barbershop.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Where Tradition Meets Modern Grooming",
+  "description": "Flyy City Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.066Z",
+  "maps_url": "https://www.google.com/maps/place/Flyy+City+Barbershop/data=!4m7!3m6!1s0x88d9b7ba94067c77:0xf721cd93cacede5f!8m2!3d25.7733457!4d-80.2071682!16s%2Fg%2F11v41g59qk!19sChIJd3wGlLq32YgRX97OypPNIfc?authuser=0&hl=en&rclk=1",
+  "slug": "flyy-city-barbershop"
+}

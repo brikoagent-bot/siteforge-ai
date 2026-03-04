@@ -1,0 +1,37 @@
+{
+  "business_name": "The Capital Grille",
+  "category": "restaurant",
+  "address": "Fine dining restaurant",
+  "phone": "",
+  "email": "contact@the-capital-grille.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Where Every Meal Is a Celebration",
+  "description": "The Capital Grille brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.070Z",
+  "maps_url": "https://www.google.com/maps/place/The+Capital+Grille/data=!4m7!3m6!1s0x8856a0253c5570df:0x7808cd162055e4c3!8m2!3d35.228212!4d-80.841984!16s%2Fg%2F1tfx5lxf!19sChIJ33BVPCWgVogRw-RVIBbNCHg?authuser=0&hl=en&rclk=1",
+  "slug": "the-capital-grille"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Roaring Fork",
+  "category": "restaurant",
+  "address": "American restaurant",
+  "phone": "",
+  "email": "contact@roaring-fork.com",
+  "rating": 4.5,
+  "review_count": 9999,
+  "reviews": [
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Where Every Meal Is a Celebration",
+  "description": "Roaring Fork brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.300Z",
+  "maps_url": "https://www.google.com/maps/place/Roaring+Fork/data=!4m7!3m6!1s0x8644b509e15979d5:0xce6e982ebf5ebae2!8m2!3d30.2691083!4d-97.7421111!16s%2Fg%2F1td5m2fy!19sChIJ1XlZ4Qm1RIYR4rpevy6Ybs4?authuser=0&hl=en&rclk=1",
+  "slug": "roaring-fork"
+}

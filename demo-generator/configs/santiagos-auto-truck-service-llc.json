@@ -1,0 +1,37 @@
+{
+  "business_name": "Santiago's Auto & Truck Service, LLC.",
+  "category": "auto_repair",
+  "address": "120 W Hillsborough Ave",
+  "phone": "(813) 542-3469",
+  "email": "contact@santiagos-auto-truck-service-llc.com",
+  "rating": 4.4,
+  "review_count": 9999,
+  "reviews": [
+    "Honest mechanics are hard to find. These guys diagnosed the issue in 20 minutes and didn't try to upsell me.",
+    "Fast, fair, and thorough. They showed me exactly what was wrong and had me back on the road same day.",
+    "Been bringing both our cars here for two years. Consistent quality and they always go the extra mile."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Expert Care, Fair Prices",
+  "description": "Santiago's Auto & Truck Service, LLC. provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.310Z",
+  "maps_url": "https://www.google.com/maps/place/Santiago%27s+Auto+%26+Truck+Service,+LLC./data=!4m7!3m6!1s0x88c2c41c568f7bc3:0x60ac0b8881539d8e!8m2!3d27.9958513!4d-82.4614613!16s%2Fg%2F11f5bj5ch4!19sChIJw3uPVhzEwogRjp1TgYgLrGA?authuser=0&hl=en&rclk=1",
+  "slug": "santiagos-auto-truck-service-llc"
+}

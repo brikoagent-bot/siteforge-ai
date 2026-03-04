@@ -1,0 +1,37 @@
+{
+  "business_name": "Atlanta Sober Living",
+  "category": "general",
+  "address": "",
+  "phone": "(404) 991-3355",
+  "email": "",
+  "rating": "4.9",
+  "review_count": 77,
+  "reviews": [
+    "Best general in town. Atlanta Sober Living really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Atlanta Sober Living for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+  ],
+  "services": [
+    "Consultation",
+    "Custom Solutions",
+    "Maintenance & Support",
+    "Emergency Service",
+    "Free Estimates",
+    "Satisfaction Guaranteed"
+  ],
+  "tagline": "Your Local Experts",
+  "description": "Atlanta Sober Living provides professional general to the Atlanta area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Atlanta GA",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "atlanta-sober-living"
+}

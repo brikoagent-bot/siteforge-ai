@@ -1,0 +1,43 @@
+{
+  "business_name": "Uptown Cuts",
+  "category": "barbershop",
+  "address": "301 S College St #130",
+  "phone": "",
+  "email": "contact@uptown-cuts.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!",
+    "Friendly staff and top-notch service. Love this place!",
+    "Quality work at reasonable prices. Couldn't ask for more!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1200",
+    "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=800",
+    "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=800"
+  ],
+  "services": [
+    "Haircuts",
+    "Beard Trim",
+    "Hot Towel Shave",
+    "Hair Styling",
+    "Kids Cuts",
+    "Straight Razor Shave"
+  ],
+  "tagline": "Classic cuts, modern style",
+  "description": "More than just a haircut, Uptown Cuts delivers an experience. Our skilled barbers take pride in every detail, ensuring you leave looking and feeling your absolute best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/Uptown+Cuts/data=!4m7!3m6!1s0x8856a10049f5718b:0x9b791b8c6177fc!8m2!3d35.2239317!4d-80.8440388!16s%2Fg%2F11vsgqctyc!19sChIJi3H1SQChVogR_HdhjBt5mwA?authuser=0&hl=en&rclk=1",
+  "slug": "uptown-cuts"
+}

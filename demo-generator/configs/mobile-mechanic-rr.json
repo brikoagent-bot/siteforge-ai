@@ -1,0 +1,37 @@
+{
+  "business_name": "Mobile Mechanic R&R",
+  "category": "auto_repair",
+  "address": "2625 NW 22nd Ct",
+  "phone": "(305) 218-9761",
+  "email": "contact@mobile-mechanic-rr.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "Honest mechanics are hard to find. These guys diagnosed the issue in 20 minutes and didn't try to upsell me.",
+    "The diagnostic team found a problem two other shops missed. Saved me thousands in potential damage.",
+    "Been bringing both our cars here for two years. Consistent quality and they always go the extra mile."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Your Car Deserves the Best",
+  "description": "Mobile Mechanic R&R provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.070Z",
+  "maps_url": "https://www.google.com/maps/place/Mobile+Mechanic+R%26R/data=!4m7!3m6!1s0x88d9b7f803c3f2fd:0xd3588cc28ab54db6!8m2!3d25.8006936!4d-80.2325485!16s%2Fg%2F11sscszdz6!19sChIJ_fLDA_i32YgRtk21isKMWNM?authuser=0&hl=en&rclk=1",
+  "slug": "mobile-mechanic-rr"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Orlando Outdoor Living",
+  "category": "contractors",
+  "address": "",
+  "phone": "(407) 720-4774",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 153,
+  "reviews": [
+    "Best contractors in town. Orlando Outdoor Living really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Orlando Outdoor Living for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800",
+    "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800"
+  ],
+  "services": [
+    "General Construction",
+    "Home Remodeling",
+    "Kitchen & Bath Renovation",
+    "Roofing & Siding",
+    "Flooring Installation",
+    "Commercial Build-Outs"
+  ],
+  "tagline": "Quality Craftsmanship, Every Project",
+  "description": "Orlando Outdoor Living provides professional contractors to the Orlando area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Orlando FL",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "orlando-outdoor-living"
+}

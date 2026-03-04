@@ -1,0 +1,37 @@
+{
+  "business_name": "Holy Wild",
+  "category": "salon",
+  "address": "1000 E 5th St. Ste. 114",
+  "phone": "",
+  "email": "contact@holy-wild.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Where Beauty Meets Artistry",
+  "description": "Holy Wild is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.312Z",
+  "maps_url": "https://www.google.com/maps/place/Holy+Wild/data=!4m7!3m6!1s0x8644b5bf3a54955f:0x2e81ccd6fbb27191!8m2!3d30.2641148!4d-97.7323203!16s%2Fg%2F11jlgf_klh!19sChIJX5VUOr-1RIYRkXGy-9bMgS4?authuser=0&hl=en&rclk=1",
+  "slug": "holy-wild"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "J’s mobile auto repair",
+  "category": "auto_repair",
+  "address": "1010 W Vogel Ave",
+  "phone": "(112) 086-1961",
+  "email": "contact@js-mobile-auto-repair.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Honest mechanics are hard to find. These guys diagnosed the issue in 20 minutes and didn't try to upsell me.",
+    "Fast, fair, and thorough. They showed me exactly what was wrong and had me back on the road same day.",
+    "The diagnostic team found a problem two other shops missed. Saved me thousands in potential damage."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Your Car Deserves the Best",
+  "description": "J’s mobile auto repair provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.291Z",
+  "maps_url": "https://www.google.com/maps/place/J%E2%80%99s+mobile+auto+repair/data=!4m7!3m6!1s0x872b6dbd4b678feb:0xa5d3faed04215811!8m2!3d33.5732419!4d-112.0861961!16s%2Fg%2F11wg6zz2wx!19sChIJ649nS71tK4cREVghBO3606U?authuser=0&hl=en&rclk=1",
+  "slug": "js-mobile-auto-repair"
+}

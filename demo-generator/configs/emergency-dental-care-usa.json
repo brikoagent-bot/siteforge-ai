@@ -1,0 +1,37 @@
+{
+  "business_name": "Emergency Dental Care USA",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@emergency-dental-care-usa.com",
+  "rating": 4.6,
+  "review_count": 744,
+  "reviews": [
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Modern Dentistry, Compassionate Care",
+  "description": "Emergency Dental Care USA provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.315Z",
+  "maps_url": "https://www.google.com/maps/place/Emergency+Dental+Care+USA/data=!4m7!3m6!1s0x8640bddcf578cd5d:0xd1c632e249720e9b!8m2!3d29.6851576!4d-95.2784921!16s%2Fg%2F11g0dgyyfl!19sChIJXc149dy9QIYRmw5ySeIyxtE?authuser=0&hl=en&rclk=1",
+  "slug": "emergency-dental-care-usa"
+}

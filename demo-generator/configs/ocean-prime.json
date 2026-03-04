@@ -1,0 +1,37 @@
+{
+  "business_name": "Ocean Prime",
+  "category": "restaurant",
+  "address": "1465 Larimer St",
+  "phone": "(056) 727-0308",
+  "email": "contact@ocean-prime.com",
+  "rating": 4.6,
+  "review_count": 2587,
+  "reviews": [
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Taste the Difference",
+  "description": "Ocean Prime brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.314Z",
+  "maps_url": "https://www.google.com/maps/place/Ocean+Prime/data=!4m7!3m6!1s0x876c78c5159d3049:0x3375ad123c92f1f5!8m2!3d39.7482797!4d-104.998984!16s%2Fg%2F1ym82l9vr!19sChIJSTCdFcV4bIcR9fGSPBKtdTM?authuser=0&hl=en&rclk=1",
+  "slug": "ocean-prime"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "A Good Mechanic",
+  "category": "auto_repair",
+  "address": "San Antonio TX",
+  "phone": "(210) 614-1444",
+  "email": "contact@a-good-mechanic.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "Fast, fair, and thorough. They showed me exactly what was wrong and had me back on the road same day.",
+    "No-nonsense auto shop. Fair prices, quality work, and they actually explain what they're doing.",
+    "Honest mechanics are hard to find. These guys diagnosed the issue in 20 minutes and didn't try to upsell me."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Honest Service, Expert Repair",
+  "description": "A Good Mechanic provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.295Z",
+  "maps_url": "https://www.google.com/maps/place/A+Good+Mechanic/data=!4m7!3m6!1s0x865c6794ff2120d5:0x9b13c1e4c3b1d9b0!8m2!3d29.464073!4d-98.518079!16s%2Fg%2F11ktzvzml1!19sChIJ1SAh_5RnXIYRsNmxw-TBE5s?authuser=0&hl=en&rclk=1",
+  "slug": "a-good-mechanic"
+}

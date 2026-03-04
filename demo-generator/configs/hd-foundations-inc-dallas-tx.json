@@ -1,0 +1,37 @@
+{
+  "business_name": "HD Foundations, Inc. – Dallas TX",
+  "category": "contractors",
+  "address": "",
+  "phone": "(214) 537-4577",
+  "email": "",
+  "rating": "4.6",
+  "review_count": 188,
+  "reviews": [
+    "Best contractors in town. HD Foundations, Inc. – Dallas TX really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using HD Foundations, Inc. – Dallas TX for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800",
+    "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800"
+  ],
+  "services": [
+    "General Construction",
+    "Home Remodeling",
+    "Kitchen & Bath Renovation",
+    "Roofing & Siding",
+    "Flooring Installation",
+    "Commercial Build-Outs"
+  ],
+  "tagline": "Building Your Vision",
+  "description": "HD Foundations, Inc. – Dallas TX provides professional contractors to the Dallas area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Dallas TX",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "hd-foundations-inc-dallas-tx"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Jeffrey V. Jones, DDS",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@jeffrey-v-jones-dds.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Gentle Care for the Whole Family",
+  "description": "Jeffrey V. Jones, DDS provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.306Z",
+  "maps_url": "https://www.google.com/maps/place/Jeffrey+V.+Jones,+DDS/data=!4m7!3m6!1s0x864e98c5b2dad525:0xe36e0bfb5e418a43!8m2!3d32.7916026!4d-96.7781301!16s%2Fg%2F1vtqwh_6!19sChIJJdXassWYToYRQ4pBXvsLbuM?authuser=0&hl=en&rclk=1",
+  "slug": "jeffrey-v-jones-dds"
+}

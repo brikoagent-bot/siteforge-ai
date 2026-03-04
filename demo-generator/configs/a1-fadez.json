@@ -1,0 +1,37 @@
+{
+  "business_name": "A1 Fadez",
+  "category": "barbershop",
+  "address": "5221 Almeda Rd",
+  "phone": "",
+  "email": "contact@a1-fadez.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a barber who actually listens. The attention to detail is unmatched.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Where Tradition Meets Modern Grooming",
+  "description": "A1 Fadez is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.290Z",
+  "maps_url": "https://www.google.com/maps/place/A1+Fadez/data=!4m7!3m6!1s0x8640bffeeeb5dcb9:0xd02d23e54c812db2!8m2!3d29.722278!4d-95.37867!16s%2Fg%2F11lz4tcmq5!19sChIJudy17v6_QIYRsi2BTOUjLdA?authuser=0&hl=en&rclk=1",
+  "slug": "a1-fadez"
+}

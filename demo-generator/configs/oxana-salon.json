@@ -1,0 +1,37 @@
+{
+  "business_name": "Oxana Salon",
+  "category": "salon",
+  "address": "1100 8th Ave S",
+  "phone": "",
+  "email": "contact@oxana-salon.com",
+  "rating": 4.8,
+  "review_count": 1214,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Elevate Your Look",
+  "description": "Oxana Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.315Z",
+  "maps_url": "https://www.google.com/maps/place/Oxana+Salon/data=!4m7!3m6!1s0x8864669a593f3381:0xf98d33eabe903492!8m2!3d36.1433116!4d-86.7785056!16s%2Fg%2F1th7z23v!19sChIJgTM_WZpmZIgRkjSQvuozjfk?authuser=0&hl=en&rclk=1",
+  "slug": "oxana-salon"
+}

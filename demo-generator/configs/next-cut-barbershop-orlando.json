@@ -1,0 +1,37 @@
+{
+  "business_name": "Next Cut Barbershop Orlando",
+  "category": "barbershop",
+  "address": "1723 W Oak Ridge Rd",
+  "phone": "",
+  "email": "contact@next-cut-barbershop-orlando.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "Finally found a barber who actually listens. The attention to detail is unmatched."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Sharp Looks, Every Time",
+  "description": "Next Cut Barbershop Orlando is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.306Z",
+  "maps_url": "https://www.google.com/maps/place/Next+Cut+Barbershop+Orlando/data=!4m7!3m6!1s0x88e77c6a486d1f29:0x8c7acb87e78140d4!8m2!3d28.4731443!4d-81.4018887!16s%2Fg%2F11bzs452gp!19sChIJKR9tSGp854gR1ECB54fLeow?authuser=0&hl=en&rclk=1",
+  "slug": "next-cut-barbershop-orlando"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "North Pointe Dental of North Tampa",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@north-pointe-dental-of-north-tampa.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning.",
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Your Smile, Our Priority",
+  "description": "North Pointe Dental of North Tampa provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.301Z",
+  "maps_url": "https://www.google.com/maps/place/North+Pointe+Dental+of+North+Tampa/data=!4m7!3m6!1s0x88c2c7482b523b29:0xd6c2221e87931842!8m2!3d28.0695906!4d-82.4671153!16s%2Fg%2F1ts301h4!19sChIJKTtSK0jHwogRQhiThx4iwtY?authuser=0&hl=en&rclk=1",
+  "slug": "north-pointe-dental-of-north-tampa"
+}

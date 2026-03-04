@@ -1,0 +1,37 @@
+{
+  "business_name": "Mills Park Dental",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@mills-park-dental.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe.",
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly.",
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Where Dental Excellence Meets Comfort",
+  "description": "Mills Park Dental provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.306Z",
+  "maps_url": "https://www.google.com/maps/place/Mills+Park+Dental/data=!4m7!3m6!1s0x88e77a951bb9815b:0xb996fa0bea6c0d49!8m2!3d28.5630993!4d-81.3642288!16s%2Fg%2F1tfczm_p!19sChIJW4G5G5V654gRSQ1s6gv6lrk?authuser=0&hl=en&rclk=1",
+  "slug": "mills-park-dental"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Bloom Salon + Studio",
+  "category": "salon",
+  "address": "224 E Olmos Dr",
+  "phone": "",
+  "email": "contact@bloom-salon-studio.com",
+  "rating": 4.9,
+  "review_count": 50,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Elevate Your Look",
+  "description": "Bloom Salon + Studio is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.317Z",
+  "maps_url": "https://www.google.com/maps/place/Bloom+Salon+%2B+Studio/data=!4m7!3m6!1s0x865cf5733a4df58f:0x6f224a513f0e5cdc!8m2!3d29.4706018!4d-98.4908165!16s%2Fg%2F11h0mvlmqf!19sChIJj_VNOnP1XIYR3FwOP1FKIm8?authuser=0&hl=en&rclk=1",
+  "slug": "bloom-salon-studio"
+}

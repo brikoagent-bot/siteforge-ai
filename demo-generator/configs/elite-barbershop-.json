@@ -1,0 +1,37 @@
+{
+  "business_name": "Elite Barbershop | حلاق عربي هيوستن",
+  "category": "barbershop",
+  "address": "3330 Hillcroft St Suite F",
+  "phone": "",
+  "email": "contact@elite-barbershop-.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Finally found a barber who actually listens. The attention to detail is unmatched."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Where Tradition Meets Modern Grooming",
+  "description": "Elite Barbershop | حلاق عربي هيوستن is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.290Z",
+  "maps_url": "https://www.google.com/maps/place/Elite+Barbershop+%7C+%D8%AD%D9%84%D8%A7%D9%82+%D8%B9%D8%B1%D8%A8%D9%8A+%D9%87%D9%8A%D9%88%D8%B3%D8%AA%D9%86%E2%80%AD/data=!4m7!3m6!1s0x8640c3dceb110585:0xb8e96fb0175f99ff!8m2!3d29.7286316!4d-95.5017652!16s%2Fg%2F11vr_bs9dv!19sChIJhQUR69zDQIYR_5lfF7Bv6bg?authuser=0&hl=en&rclk=1",
+  "slug": "elite-barbershop-"
+}

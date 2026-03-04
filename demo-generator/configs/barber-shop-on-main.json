@@ -1,0 +1,37 @@
+{
+  "business_name": "Barber Shop On Main",
+  "category": "barbershop",
+  "address": "307 N Main Ave",
+  "phone": "",
+  "email": "contact@barber-shop-on-main.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Finally found a barber who actually listens. The attention to detail is unmatched."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Crafted Cuts, Timeless Style",
+  "description": "Barber Shop On Main is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.302Z",
+  "maps_url": "https://www.google.com/maps/place/Barber+Shop+On+Main/data=!4m7!3m6!1s0x865c5fdce26942cb:0x635da86e97f49468!8m2!3d29.427762!4d-98.4939679!16s%2Fg%2F11g0w1zwhf!19sChIJy0Jp4txfXIYRaJT0l26oXWM?authuser=0&hl=en&rclk=1",
+  "slug": "barber-shop-on-main"
+}

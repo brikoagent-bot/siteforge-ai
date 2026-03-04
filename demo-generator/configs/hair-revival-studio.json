@@ -1,0 +1,37 @@
+{
+  "business_name": "Hair Revival Studio",
+  "category": "salon",
+  "address": "2242 Monitor St #150",
+  "phone": "",
+  "email": "contact@hair-revival-studio.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Hair Revival Studio is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.311Z",
+  "maps_url": "https://www.google.com/maps/place/Hair+Revival+Studio/data=!4m7!3m6!1s0x864e9ec4a0ec5a81:0x8f9d33dff4fe6548!8m2!3d32.7984472!4d-96.8343664!16s%2Fg%2F11b6yc_hg6!19sChIJgVrsoMSeToYRSGX-9N8znY8?authuser=0&hl=en&rclk=1",
+  "slug": "hair-revival-studio"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Melrose & Mcqueen - Atlanta",
+  "category": "salon",
+  "address": "341 Elizabeth St NE Suite E",
+  "phone": "",
+  "email": "contact@melrose-mcqueen-atlanta.com",
+  "rating": 4.9,
+  "review_count": 1087,
+  "reviews": [
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Melrose & Mcqueen - Atlanta is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.074Z",
+  "maps_url": "https://www.google.com/maps/place/Melrose+%26+Mcqueen+-+Atlanta/data=!4m7!3m6!1s0x88f50403ee20f69d:0xfa2b5e6b583ae1f2!8m2!3d33.7637471!4d-84.358491!16s%2Fg%2F1tjrqtk2!19sChIJnfYg7gME9YgR8uE6WGteK_o?authuser=0&hl=en&rclk=1",
+  "slug": "melrose-mcqueen-atlanta"
+}

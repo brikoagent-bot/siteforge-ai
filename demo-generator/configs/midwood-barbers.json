@@ -1,0 +1,37 @@
+{
+  "business_name": "Midwood Barbers",
+  "category": "barbershop",
+  "address": "2915 The Plaza Suite A",
+  "phone": "",
+  "email": "contact@midwood-barbers.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Finally found a barber who actually listens. The attention to detail is unmatched.",
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Where Tradition Meets Modern Grooming",
+  "description": "Midwood Barbers is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.068Z",
+  "maps_url": "https://www.google.com/maps/place/Midwood+Barbers/data=!4m7!3m6!1s0x88541fd2251d4197:0xaf69d98b28a7b536!8m2!3d35.2377778!4d-80.800706!16s%2Fg%2F11hz6mmvpw!19sChIJl0EdJdIfVIgRNrWnKIvZaa8?authuser=0&hl=en&rclk=1",
+  "slug": "midwood-barbers"
+}

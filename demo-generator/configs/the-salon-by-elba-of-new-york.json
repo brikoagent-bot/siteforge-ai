@@ -1,0 +1,37 @@
+{
+  "business_name": "The Salon by Elba of New York",
+  "category": "salon",
+  "address": "4535 W Sahara Ave UNIT 115",
+  "phone": "",
+  "email": "contact@the-salon-by-elba-of-new-york.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "The Salon by Elba of New York is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.313Z",
+  "maps_url": "https://www.google.com/maps/place/The+Salon+by+Elba+of+New+York/data=!4m7!3m6!1s0x80c8c475349d0d87:0x9d9e60e49969e0b4!8m2!3d36.1441612!4d-115.202857!16s%2Fg%2F11bbyfbllk!19sChIJhw2dNHXEyIARtOBpmeRgnp0?authuser=0&hl=en&rclk=1",
+  "slug": "the-salon-by-elba-of-new-york"
+}

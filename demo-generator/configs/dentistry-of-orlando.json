@@ -1,0 +1,37 @@
+{
+  "business_name": "Dentistry Of Orlando",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@dentistry-of-orlando.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe.",
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Gentle Care for the Whole Family",
+  "description": "Dentistry Of Orlando provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.307Z",
+  "maps_url": "https://www.google.com/maps/place/Dentistry+Of+Orlando/data=!4m7!3m6!1s0x88e77da96c71de63:0x5f697da8bce5e93a!8m2!3d28.4744684!4d-81.3680938!16s%2Fg%2F11fkw8s94t!19sChIJY95xbKl954gROunlvKh9aV8?authuser=0&hl=en&rclk=1",
+  "slug": "dentistry-of-orlando"
+}

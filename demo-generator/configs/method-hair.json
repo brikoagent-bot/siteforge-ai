@@ -1,0 +1,37 @@
+{
+  "business_name": "Method Hair",
+  "category": "salon",
+  "address": "1800 E 4th St #103",
+  "phone": "(422) 593-9183",
+  "email": "contact@method-hair.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Elevate Your Look",
+  "description": "Method Hair is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.308Z",
+  "maps_url": "https://www.google.com/maps/place/Method+Hair/data=!4m7!3m6!1s0x8644b5b119ceb4cf:0xfd61e42259391839!8m2!3d30.2600338!4d-97.7234985!16s%2Fg%2F1xn_nscq!19sChIJz7TOGbG1RIYRORg5WSLkYf0?authuser=0&hl=en&rclk=1",
+  "slug": "method-hair"
+}

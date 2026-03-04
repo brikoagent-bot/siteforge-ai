@@ -1,0 +1,37 @@
+{
+  "business_name": "Rosa Sky",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "",
+  "email": "contact@rosa-sky.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Fresh Ingredients, Bold Flavors",
+  "description": "Rosa Sky brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.073Z",
+  "maps_url": "https://www.google.com/maps/place/Rosa+Sky/data=!4m7!3m6!1s0x88d9b76831e70ca7:0x769368b51385f8b3!8m2!3d25.7668472!4d-80.196175!16s%2Fg%2F11ptsllzd2!19sChIJpwznMWi32YgRs_iFE7Vok3Y?authuser=0&hl=en&rclk=1",
+  "slug": "rosa-sky"
+}

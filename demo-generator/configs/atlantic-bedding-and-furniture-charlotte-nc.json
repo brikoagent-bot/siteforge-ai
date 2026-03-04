@@ -1,0 +1,37 @@
+{
+  "business_name": "Atlantic Bedding and Furniture Charlotte NC",
+  "category": "home furniture",
+  "address": "",
+  "phone": "(704) 962-7301",
+  "email": "",
+  "rating": "4.6",
+  "review_count": 208,
+  "reviews": [
+    "Best home furniture in town. Atlantic Bedding and Furniture Charlotte NC really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Atlantic Bedding and Furniture Charlotte NC for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+    "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800"
+  ],
+  "services": [
+    "Kitchen Remodeling",
+    "Bathroom Renovation",
+    "Flooring",
+    "Painting",
+    "Deck & Patio",
+    "Basement Finishing"
+  ],
+  "tagline": "Quality Renovations, Lasting Results",
+  "description": "Atlantic Bedding and Furniture Charlotte NC provides professional home furniture to the Charlotte area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Charlotte NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "atlantic-bedding-and-furniture-charlotte-nc"
+}

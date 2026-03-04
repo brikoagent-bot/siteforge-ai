@@ -1,0 +1,37 @@
+{
+  "business_name": "The Local Barber and Shop",
+  "category": "barbershop",
+  "address": "5813 N 7th St #101",
+  "phone": "(112) 064-6842",
+  "email": "contact@the-local-barber-and-shop.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Your Style, Perfected",
+  "description": "The Local Barber and Shop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.293Z",
+  "maps_url": "https://www.google.com/maps/place/The+Local+Barber+and+Shop/data=!4m7!3m6!1s0x872b12b0dbae39b7:0x507296c50cc338d5!8m2!3d33.5220063!4d-112.0646842!16s%2Fg%2F11cn6blnjq!19sChIJtzmu27ASK4cR1TjDDMWWclA?authuser=0&hl=en&rclk=1",
+  "slug": "the-local-barber-and-shop"
+}

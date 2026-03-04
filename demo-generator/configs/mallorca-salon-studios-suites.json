@@ -1,0 +1,37 @@
+{
+  "business_name": "Mallorca Salon Studios & Suites",
+  "category": "salon",
+  "address": "2947 Thousand Oaks Dr #5",
+  "phone": "",
+  "email": "contact@mallorca-salon-studios-suites.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "Mallorca Salon Studios & Suites is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.289Z",
+  "maps_url": "https://www.google.com/maps/place/Mallorca+Salon+Studios+%26+Suites/data=!4m7!3m6!1s0x865c8b843080dfcd:0x45195f60312f938b!8m2!3d29.5787016!4d-98.4397155!16s%2Fg%2F11h_tmspxc!19sChIJzd-AMISLXIYRi5MvMWBfGUU?authuser=0&hl=en&rclk=1",
+  "slug": "mallorca-salon-studios-suites"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Smooshine",
+  "category": "salon",
+  "address": "3016 Guadalupe St B-100",
+  "phone": "",
+  "email": "contact@smooshine.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Smooshine is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.292Z",
+  "maps_url": "https://www.google.com/maps/place/Smooshine/data=!4m7!3m6!1s0x8644b5329d831119:0x27f9b58452f36435!8m2!3d30.2973862!4d-97.7417076!16s%2Fg%2F11sgj3kl6r!19sChIJGRGDnTK1RIYRNWTzUoS1-Sc?authuser=0&hl=en&rclk=1",
+  "slug": "smooshine"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Spice Charlotte",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "",
+  "email": "contact@spice-charlotte.com",
+  "rating": 4.5,
+  "review_count": 9999,
+  "reviews": [
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Taste the Difference",
+  "description": "Spice Charlotte brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.073Z",
+  "maps_url": "https://www.google.com/maps/place/Spice+Charlotte/data=!4m7!3m6!1s0x8856a1e4156db1a7:0x3160971dbe6acce2!8m2!3d35.2287162!4d-80.8367187!16s%2Fg%2F11tsk2wl2g!19sChIJp7FtFeShVogR4sxqvh2XYDE?authuser=0&hl=en&rclk=1",
+  "slug": "spice-charlotte"
+}

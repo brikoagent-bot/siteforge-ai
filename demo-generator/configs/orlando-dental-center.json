@@ -1,0 +1,37 @@
+{
+  "business_name": "Orlando Dental Center",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@orlando-dental-center.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Creating Confident Smiles",
+  "description": "Orlando Dental Center provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.306Z",
+  "maps_url": "https://www.google.com/maps/place/Orlando+Dental+Center/data=!4m7!3m6!1s0x88e77b62b49539b3:0x1aa0971c20faa0b8!8m2!3d28.4936507!4d-81.3728687!16s%2Fg%2F11c5648rkh!19sChIJszmVtGJ754gRuKD6IByXoBo?authuser=0&hl=en&rclk=1",
+  "slug": "orlando-dental-center"
+}

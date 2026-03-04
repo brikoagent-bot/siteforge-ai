@@ -1,0 +1,175 @@
+{
+  "leads": [
+    {
+      "name": "Arturo's Mobile Mechanic & Electrical Automotive Repair",
+      "phone": "(832) 808-1049",
+      "address": "",
+      "city": "Houston TX",
+      "category": "Car repair and maintenance service",
+      "rating": 4.4,
+      "maps_url": "https://www.google.com/maps/place/Arturo%27s+Mobile+Mechanic+%26+Electrical+Automotive+Repair/data=!4m7!3m6!1s0x8640a2a02ee4e0d3:0xeac8a9486e59dca0!8m2!3d29.7302195!4d-95.147922!16s%2Fg%2F11fd55zd1q!19sChIJ0-DkLqCiQIYRoNxZbkipyOo?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "AquaMan Mobile Mechanic Car Service - CARS PROGRAMMING",
+      "phone": "(832) 774-7884",
+      "address": "14938 Atmore Pl Dr",
+      "city": "Houston TX",
+      "category": "Mechanic",
+      "rating": 4.9,
+      "maps_url": "https://www.google.com/maps/place/AquaMan+Mobile+Mechanic+Car+Service+-+CARS+PROGRAMMING/data=!4m7!3m6!1s0x8640dfbe52cee2c3:0x7a96b2a7d327aaac!8m2!3d29.7279586!4d-95.6510127!16s%2Fg%2F11kq64j0nn!19sChIJw-LOUr7fQIYRrKon06eylno?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "Joe's Auto Repair",
+      "phone": "(713) 662-0428",
+      "address": "7040 Stella Link Rd",
+      "city": "Houston TX",
+      "category": "Auto repair shop",
+      "rating": 4.8,
+      "maps_url": "https://www.google.com/maps/place/Joe%27s+Auto+Repair/data=!4m7!3m6!1s0x8640c1b8ef2b6b15:0x93a6083d7eadc833!8m2!3d29.7013824!4d-95.4405602!16s%2Fg%2F11thc_jqvg!19sChIJFWsr77jBQIYRM8itfj0IppM?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "Motor City Auto Repair",
+      "phone": "(214) 565-5550",
+      "address": "2939 S Ervay St",
+      "city": "Dallas TX",
+      "category": "Auto repair shop",
+      "rating": 4.9,
+      "maps_url": "https://www.google.com/maps/place/Motor+City+Auto+Repair/data=!4m7!3m6!1s0x864e98f61572afa1:0x4cacca0b5df2004d!8m2!3d32.7619373!4d-96.7774268!16s%2Fg%2F11bz_3ydzv!19sChIJoa9yFfaYToYRTQDyXQvKrEw?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "Dallas Auto Service",
+      "phone": "(214) 330-5400",
+      "address": "4331 S Hampton Rd",
+      "city": "Dallas TX",
+      "category": "Auto machine shop",
+      "rating": 4.2,
+      "maps_url": "https://www.google.com/maps/place/Dallas+Auto+Service/data=!4m7!3m6!1s0x864e917f7208eb3f:0x14014002c91fb8df!8m2!3d32.6900674!4d-96.8575275!16s%2Fg%2F11h57s9jdf!19sChIJP-sIcn-RToYR37gfyQJAARQ?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "GBG Auto Repair & Inspection",
+      "phone": "(214) 370-0375",
+      "address": "110 N Peak St",
+      "city": "Dallas TX",
+      "category": "Auto repair shop",
+      "rating": 4.6,
+      "maps_url": "https://www.google.com/maps/place/GBG+Auto+Repair+%26+Inspection/data=!4m7!3m6!1s0x864e98b8c016d9f9:0xb56b9622a11e86cb!8m2!3d32.7905261!4d-96.7693961!16s%2Fg%2F1tdkmn12!19sChIJ-dkWwLiYToYRy4YeoSKWa7U?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "Naples Italian Ristorante & Pizza",
+      "phone": "(205) 321-3979",
+      "address": "Italian restaurant",
+      "city": "San Antonio TX",
+      "category": "Italian restaurant",
+      "rating": 4.6,
+      "maps_url": "https://www.google.com/maps/place/Naples+Italian+Ristorante+%26+Pizza/data=!4m7!3m6!1s0x865c6117725a3735:0x2a20532139796211!8m2!3d29.5922446!4d-98.5290164!16s%2Fg%2F11cks2gl_f!19sChIJNTdachdhXIYREWJ5OSFTICo?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "A Good Mechanic",
+      "phone": "(210) 614-1444",
+      "address": "",
+      "city": "San Antonio TX",
+      "category": "Mechanic",
+      "rating": 4.7,
+      "maps_url": "https://www.google.com/maps/place/A+Good+Mechanic/data=!4m7!3m6!1s0x865c6794ff2120d5:0x9b13c1e4c3b1d9b0!8m2!3d29.464073!4d-98.518079!16s%2Fg%2F11ktzvzml1!19sChIJ1SAh_5RnXIYRsNmxw-TBE5s?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "Allstar Auto",
+      "phone": "(210) 999-1788",
+      "address": "",
+      "city": "San Antonio TX",
+      "category": "Mechanic",
+      "rating": 4.6,
+      "maps_url": "https://www.google.com/maps/place/Allstar+Auto/data=!4m7!3m6!1s0x865c69e96715fbdb:0x157a1a9bed63aa99!8m2!3d29.5086986!4d-98.455441!16s%2Fg%2F1hhjw58dj!19sChIJ2_sVZ-lpXIYRmapj7ZsaehU?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "On The Road Again",
+      "phone": "(210) 360-0633",
+      "address": "4034 SW Military Dr",
+      "city": "San Antonio TX",
+      "category": "Auto repair shop",
+      "rating": 4.6,
+      "maps_url": "https://www.google.com/maps/place/On+The+Road+Again/data=!4m7!3m6!1s0x865c59237ea04af1:0xa4e4eac183fe849c!8m2!3d29.3588247!4d-98.5682295!16s%2Fg%2F11k50114kn!19sChIJ8UqgfiNZXIYRnIT-g8Hq5KQ?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "All Construction Services of Central Florida INC",
+      "phone": "(407) 516-3434",
+      "address": "HVAC contractor",
+      "city": "Orlando FL",
+      "category": "HVAC contractor",
+      "rating": 5.0,
+      "maps_url": "https://www.google.com/maps/place/All+Construction+Services+of+Central+Florida+INC/data=!4m7!3m6!1s0x474971b05d5d90a7:0x53e68f7975cfd639!8m2!3d29.0998359!4d-81.7760356!16s%2Fg%2F11rgddy1sw!19sChIJp5BdXbBxSUcROdbPdXmP5lM?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "The Official La Perla Barbershop llc",
+      "phone": "(602) 288-1154",
+      "address": "8311 N Armenia Ave",
+      "city": "Tampa FL",
+      "category": "Barber shop",
+      "rating": 4.9,
+      "maps_url": "https://www.google.com/maps/place/The+Official+La+Perla+Barbershop+llc/data=!4m7!3m6!1s0x88c2c137c5020c7d:0x9243e6022881154d!8m2!3d28.0241557!4d-82.4839963!16s%2Fg%2F12qfrd9x9!19sChIJfQwCxTfBwogRTRWBKALmQ5I?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "Santiago's Auto & Truck Service, LLC.",
+      "phone": "(813) 542-3469",
+      "address": "120 W Hillsborough Ave",
+      "city": "Tampa FL",
+      "category": "Mechanic",
+      "rating": 4.4,
+      "maps_url": "https://www.google.com/maps/place/Santiago%27s+Auto+%26+Truck+Service,+LLC./data=!4m7!3m6!1s0x88c2c41c568f7bc3:0x60ac0b8881539d8e!8m2!3d27.9958513!4d-82.4614613!16s%2Fg%2F11f5bj5ch4!19sChIJw3uPVhzEwogRjp1TgYgLrGA?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "Simple Mobile Mechanic Jacksonville",
+      "phone": "(912) 602-1933",
+      "address": "2695 Post St",
+      "city": "Jacksonville FL",
+      "category": "Auto repair shop",
+      "rating": 4.6,
+      "maps_url": "https://www.google.com/maps/place/Simple+Mobile+Mechanic+Jacksonville/data=!4m7!3m6!1s0x88e5b9a093b32ccb:0x3ea4fe40c219ddfc!8m2!3d30.3134843!4d-81.6952268!16s%2Fg%2F11wb04dxp5!19sChIJyyyzk6C55YgR_N0ZwkD-pD4?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "All Out Automotive & Transmission",
+      "phone": "(615) 866-9296",
+      "address": "2701 Cruzen St",
+      "city": "Nashville TN",
+      "category": "Car repair and maintenance service",
+      "rating": 4.9,
+      "maps_url": "https://www.google.com/maps/place/All+Out+Automotive+%26+Transmission/data=!4m7!3m6!1s0x88646673a3695a81:0x4d843c2d1ee6387e!8m2!3d36.1143977!4d-86.7533696!16s%2Fg%2F11f15c39yv!19sChIJgVppo3NmZIgRfjjmHi08hE0?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "Pro Auto Repair - Raleigh",
+      "phone": "(919) 803-5253",
+      "address": "2412 Paula St",
+      "city": "Raleigh NC",
+      "category": "Auto repair shop",
+      "rating": 4.9,
+      "maps_url": "https://www.google.com/maps/place/Pro+Auto+Repair+-+Raleigh/data=!4m7!3m6!1s0x89ac5f427e60bfe1:0xa62f8545baa9031b!8m2!3d35.8138214!4d-78.6247623!16s%2Fg%2F12mkzjgcp!19sChIJ4b9gfkJfrIkRGwOpukWFL6Y?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    },
+    {
+      "name": "Ruiz Salon",
+      "phone": "(512) 364-2904",
+      "address": "4301 Guadalupe St",
+      "city": "Austin TX",
+      "category": "Hair salon",
+      "rating": 4.7,
+      "maps_url": "https://www.google.com/maps/place/Ruiz+Salon/data=!4m7!3m6!1s0x8644b5123642904b:0x6c43f5ed5acc84bb!8m2!3d30.308773!4d-97.7340743!16s%2Fg%2F1vl5h52x!19sChIJS5BCNhK1RIYRu4TMWu31Q2w?authuser=0&hl=en&rclk=1",
+      "status": "ready_to_call"
+    }
+  ],
+  "count": 17
+}

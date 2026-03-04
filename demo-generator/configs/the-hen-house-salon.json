@@ -1,0 +1,37 @@
+{
+  "business_name": "The Hen House Salon",
+  "category": "salon",
+  "address": "1601 54th Ave N",
+  "phone": "(542) 736-2744",
+  "email": "contact@the-hen-house-salon.com",
+  "rating": 4.8,
+  "review_count": 48,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "The Art of Beautiful Hair",
+  "description": "The Hen House Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.316Z",
+  "maps_url": "https://www.google.com/maps/place/The+Hen+House+Salon/data=!4m7!3m6!1s0x886466ef11a15555:0x6c5427362744d9b1!8m2!3d36.1656965!4d-86.8545593!16s%2Fg%2F11gg9dj5x_!19sChIJVVWhEe9mZIgRsdlEJzYnVGw?authuser=0&hl=en&rclk=1",
+  "slug": "the-hen-house-salon"
+}

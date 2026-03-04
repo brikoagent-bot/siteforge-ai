@@ -1,0 +1,37 @@
+{
+  "business_name": "Affordable Locksmith Tampa | Locksmith Tampa",
+  "category": "locksmiths",
+  "address": "",
+  "phone": "(877) 409-0065",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 72,
+  "reviews": [
+    "Best locksmiths in town. Affordable Locksmith Tampa | Locksmith Tampa really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Affordable Locksmith Tampa | Locksmith Tampa for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800",
+    "https://images.unsplash.com/photo-1585153279622-e91f4276eced?w=800"
+  ],
+  "services": [
+    "Emergency Lockout",
+    "Lock Installation",
+    "Key Duplication",
+    "Commercial Security",
+    "Auto Locksmith",
+    "Safe Services"
+  ],
+  "tagline": "24/7 Emergency Service",
+  "description": "Affordable Locksmith Tampa | Locksmith Tampa provides professional locksmiths to the Tampa area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Tampa FL",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "affordable-locksmith-tampa-locksmith-tampa"
+}

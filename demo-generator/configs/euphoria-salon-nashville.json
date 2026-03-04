@@ -1,0 +1,37 @@
+{
+  "business_name": "Euphoria Salon Nashville",
+  "category": "salon",
+  "address": "2825 Dogwood Pl",
+  "phone": "",
+  "email": "contact@euphoria-salon-nashville.com",
+  "rating": 4.9,
+  "review_count": 236,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "Euphoria Salon Nashville is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.316Z",
+  "maps_url": "https://www.google.com/maps/place/Euphoria+Salon+Nashville/data=!4m7!3m6!1s0x886465c228c41f6f:0x25501eb87c2c113a!8m2!3d36.1141376!4d-86.7649289!16s%2Fg%2F1hc1272wc!19sChIJbx_EKMJlZIgROhEsfLgeUCU?authuser=0&hl=en&rclk=1",
+  "slug": "euphoria-salon-nashville"
+}

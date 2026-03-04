@@ -1,0 +1,37 @@
+{
+  "business_name": "Charles Proper & Co.",
+  "category": "salon",
+  "address": "128 E Park Ave Suite C",
+  "phone": "",
+  "email": "contact@charles-proper-co.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Where Beauty Meets Artistry",
+  "description": "Charles Proper & Co. is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.069Z",
+  "maps_url": "https://www.google.com/maps/place/Charles+Proper+%26+Co./data=!4m7!3m6!1s0x88569f7847b858dd:0x574840895cfa66b3!8m2!3d35.2139206!4d-80.8562514!16s%2Fg%2F11fkdtnz4t!19sChIJ3Vi4R3ifVogRs2b6XIlASFc?authuser=0&hl=en&rclk=1",
+  "slug": "charles-proper-co"
+}

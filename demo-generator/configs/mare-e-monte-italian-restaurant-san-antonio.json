@@ -1,0 +1,37 @@
+{
+  "business_name": "Mare E Monte Italian Restaurant (San Antonio)",
+  "category": "restaurant",
+  "address": "Italian restaurant",
+  "phone": "",
+  "email": "contact@mare-e-monte-italian-restaurant-san-antonio.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Flavors That Tell a Story",
+  "description": "Mare E Monte Italian Restaurant (San Antonio) brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.291Z",
+  "maps_url": "https://www.google.com/maps/place/Mare+E+Monte+Italian+Restaurant+%28San+Antonio%29/data=!4m7!3m6!1s0x865c672eace1e0cf:0x3a0a74a32219e0f9!8m2!3d29.5298961!4d-98.5930676!16s%2Fg%2F11y3rh4tl3!19sChIJz-DhrC5nXIYR-eAZIqN0Cjo?authuser=0&hl=en&rclk=1",
+  "slug": "mare-e-monte-italian-restaurant-san-antonio"
+}

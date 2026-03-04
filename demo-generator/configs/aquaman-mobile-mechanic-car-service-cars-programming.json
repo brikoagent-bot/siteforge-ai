@@ -1,0 +1,37 @@
+{
+  "business_name": "AquaMan Mobile Mechanic Car Service - CARS PROGRAMMING",
+  "category": "auto_repair",
+  "address": "14938 Atmore Pl Dr",
+  "phone": "(832) 774-7884",
+  "email": "contact@aquaman-mobile-mechanic-car-service-cars-programming.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Honest mechanics are hard to find. These guys diagnosed the issue in 20 minutes and didn't try to upsell me.",
+    "Fast, fair, and thorough. They showed me exactly what was wrong and had me back on the road same day.",
+    "The diagnostic team found a problem two other shops missed. Saved me thousands in potential damage."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Precision Auto Care You Can Trust",
+  "description": "AquaMan Mobile Mechanic Car Service - CARS PROGRAMMING provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.290Z",
+  "maps_url": "https://www.google.com/maps/place/AquaMan+Mobile+Mechanic+Car+Service+-+CARS+PROGRAMMING/data=!4m7!3m6!1s0x8640dfbe52cee2c3:0x7a96b2a7d327aaac!8m2!3d29.7279586!4d-95.6510127!16s%2Fg%2F11kq64j0nn!19sChIJw-LOUr7fQIYRrKon06eylno?authuser=0&hl=en&rclk=1",
+  "slug": "aquaman-mobile-mechanic-car-service-cars-programming"
+}

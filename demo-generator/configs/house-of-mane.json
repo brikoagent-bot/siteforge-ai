@@ -1,0 +1,37 @@
+{
+  "business_name": "House of Mane",
+  "category": "salon",
+  "address": "58 NW 27th St",
+  "phone": "",
+  "email": "contact@house-of-mane.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Elevate Your Look",
+  "description": "House of Mane is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.067Z",
+  "maps_url": "https://www.google.com/maps/place/House+of+Mane/data=!4m7!3m6!1s0x88d9b7e6890e9b73:0xc6f04257103fd577!8m2!3d25.8020611!4d-80.1963656!16s%2Fg%2F11nfz7wb_f!19sChIJc5sOiea32YgRd9U_EFdC8MY?authuser=0&hl=en&rclk=1",
+  "slug": "house-of-mane"
+}

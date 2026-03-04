@@ -1,0 +1,37 @@
+{
+  "business_name": "AZ Family Dental - Phoenix",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "(112) 098-0994",
+  "email": "contact@az-family-dental-phoenix.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Gentle Care for the Whole Family",
+  "description": "AZ Family Dental - Phoenix provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.306Z",
+  "maps_url": "https://www.google.com/maps/place/AZ+Family+Dental+-+Phoenix/data=!4m7!3m6!1s0x872b6f824cd363c7:0x9cc16cc43d054852!8m2!3d33.611569!4d-112.0980994!16s%2Fg%2F11k3h4rm43!19sChIJx2PTTIJvK4cRUkgFPcRswZw?authuser=0&hl=en&rclk=1",
+  "slug": "az-family-dental-phoenix"
+}

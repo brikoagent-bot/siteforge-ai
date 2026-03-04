@@ -1,0 +1,37 @@
+{
+  "business_name": "Southern National",
+  "category": "restaurant",
+  "address": "American restaurant",
+  "phone": "",
+  "email": "contact@southern-national.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Where Every Meal Is a Celebration",
+  "description": "Southern National brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.073Z",
+  "maps_url": "https://www.google.com/maps/place/Southern+National/data=!4m7!3m6!1s0x88f503c04a4252c5:0x135acd00c9d92206!8m2!3d33.7369382!4d-84.385398!16s%2Fg%2F11sw11tbld!19sChIJxVJCSsAD9YgRBiLZyQDNWhM?authuser=0&hl=en&rclk=1",
+  "slug": "southern-national"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Osteria Ester",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "",
+  "email": "contact@osteria-ester.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Where Every Meal Is a Celebration",
+  "description": "Osteria Ester brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.298Z",
+  "maps_url": "https://www.google.com/maps/place/Osteria+Ester/data=!4m7!3m6!1s0x88e77bd4266dcbaf:0xde5426b6a7b6492b!8m2!3d28.5424463!4d-81.368726!16s%2Fg%2F11mkcswg_h!19sChIJr8ttJtR754gRK0m2p7YmVN4?authuser=0&hl=en&rclk=1",
+  "slug": "osteria-ester"
+}

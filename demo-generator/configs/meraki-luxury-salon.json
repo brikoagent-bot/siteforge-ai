@@ -1,0 +1,43 @@
+{
+  "business_name": "Meraki Luxury Salon",
+  "category": "salon",
+  "address": "715 Providence Rd g3",
+  "phone": "(471) 144-3685",
+  "email": "contact@meraki-luxury-salon.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!",
+    "Friendly staff and top-notch service. Love this place!",
+    "Quality work at reasonable prices. Couldn't ask for more!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "10am-5pm"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200",
+    "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=800",
+    "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?w=800"
+  ],
+  "services": [
+    "Haircuts & Styling",
+    "Hair Color",
+    "Highlights",
+    "Blowouts",
+    "Hair Treatments",
+    "Special Occasion Styling"
+  ],
+  "tagline": "Your style, our passion",
+  "description": "At Meraki Luxury Salon, we believe great hair can change your day. Our passionate team listens to your needs and delivers personalized service that leaves you looking and feeling amazing.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/Meraki+Luxury+Salon/data=!4m7!3m6!1s0x88569f4711443685:0x3992e4fa15cf0d38!8m2!3d35.2002745!4d-80.8246734!16s%2Fg%2F11j4mst58l!19sChIJhTZEEUefVogROA3PFfrkkjk?authuser=0&hl=en&rclk=1",
+  "slug": "meraki-luxury-salon"
+}

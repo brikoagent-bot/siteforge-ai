@@ -1,0 +1,37 @@
+{
+  "business_name": "New Hope Dental Care - Raleigh Dentist",
+  "category": "general",
+  "address": "4551 New Bern Avenue Suite 195 Raleigh, NC 27610, Raleigh, NC, 27610",
+  "phone": "(919) 231-6024",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 181,
+  "reviews": [
+    "Best general in town. New Hope Dental Care - Raleigh Dentist really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using New Hope Dental Care - Raleigh Dentist for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+  ],
+  "services": [
+    "Consultation",
+    "Custom Solutions",
+    "Maintenance & Support",
+    "Emergency Service",
+    "Free Estimates",
+    "Satisfaction Guaranteed"
+  ],
+  "tagline": "Excellence in Every Detail",
+  "description": "New Hope Dental Care - Raleigh Dentist provides professional general to the Raleigh area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Raleigh NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "new-hope-dental-care-raleigh-dentist"
+}

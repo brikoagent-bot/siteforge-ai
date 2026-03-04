@@ -1,0 +1,37 @@
+{
+  "business_name": "Professional Massage Las Vegas",
+  "category": "spa services",
+  "address": "",
+  "phone": "(702) 623-2719",
+  "email": "",
+  "rating": "4.6",
+  "review_count": 176,
+  "reviews": [
+    "Best spa services in town. Professional Massage Las Vegas really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Professional Massage Las Vegas for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800",
+    "https://images.unsplash.com/photo-1540555700478-4be289fbec6e?w=800"
+  ],
+  "services": [
+    "Swedish Massage",
+    "Deep Tissue Massage",
+    "Facials",
+    "Body Wraps",
+    "Couples Packages",
+    "Prenatal Massage"
+  ],
+  "tagline": "Your Wellness Journey Starts Here",
+  "description": "Professional Massage Las Vegas provides professional spa services to the Las Vegas area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Las Vegas NV",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "professional-massage-las-vegas"
+}

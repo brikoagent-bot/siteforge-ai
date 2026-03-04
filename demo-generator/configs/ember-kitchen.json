@@ -1,0 +1,37 @@
+{
+  "business_name": "Ember Kitchen",
+  "category": "restaurant",
+  "address": "Latin American restaurant",
+  "phone": "",
+  "email": "contact@ember-kitchen.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Where Every Meal Is a Celebration",
+  "description": "Ember Kitchen brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.294Z",
+  "maps_url": "https://www.google.com/maps/place/Ember+Kitchen/data=!4m7!3m6!1s0x8644b5723cde91d1:0x14bf1e14920af2da!8m2!3d30.266876!4d-97.7528456!16s%2Fg%2F11jt5g77r4!19sChIJ0ZHePHK1RIYR2vIKkhQevxQ?authuser=0&hl=en&rclk=1",
+  "slug": "ember-kitchen"
+}

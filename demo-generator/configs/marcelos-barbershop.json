@@ -1,0 +1,41 @@
+{
+  "business_name": "Marcelo’s Barbershop",
+  "category": "barbershop",
+  "address": "173 NE 22nd St",
+  "phone": "",
+  "email": "contact@marcelos-barbershop.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1200",
+    "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=800",
+    "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=800"
+  ],
+  "services": [
+    "Haircuts",
+    "Beard Trim",
+    "Hot Towel Shave",
+    "Hair Styling",
+    "Kids Cuts",
+    "Straight Razor Shave"
+  ],
+  "tagline": "Classic cuts, modern style",
+  "description": "More than just a haircut, Marcelo’s Barbershop delivers an experience. Our skilled barbers take pride in every detail, ensuring you leave looking and feeling your absolute best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.132Z",
+  "maps_url": "https://www.google.com/maps/place/Marcelo%E2%80%99s+Barbershop/data=!4m7!3m6!1s0x88d9b730875c3e67:0x4dd07f1ea33738d8!8m2!3d25.7981331!4d-80.1917339!16s%2Fg%2F11pzygl9ff!19sChIJZz5chzC32YgR2Dg3ox5_0E0?authuser=0&hl=en&rclk=1",
+  "slug": "marcelos-barbershop"
+}

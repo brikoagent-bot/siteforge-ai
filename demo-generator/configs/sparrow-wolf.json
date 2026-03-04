@@ -1,0 +1,37 @@
+{
+  "business_name": "Sparrow + Wolf",
+  "category": "restaurant",
+  "address": "American restaurant",
+  "phone": "(115) 201-2681",
+  "email": "contact@sparrow-wolf.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back.",
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Where Every Meal Is a Celebration",
+  "description": "Sparrow + Wolf brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.299Z",
+  "maps_url": "https://www.google.com/maps/place/Sparrow+%2B+Wolf/data=!4m7!3m6!1s0x80c8c6baa91b4ba9:0xfb2c0e7788e76825!8m2!3d36.1265479!4d-115.2012681!16s%2Fg%2F11c6y_bpw4!19sChIJqUsbqbrGyIARJWjniHcOLPs?authuser=0&hl=en&rclk=1",
+  "slug": "sparrow-wolf"
+}

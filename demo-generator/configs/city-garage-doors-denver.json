@@ -1,0 +1,37 @@
+{
+  "business_name": "City Garage Doors Denver",
+  "category": "doors",
+  "address": "",
+  "phone": "(720) 377-3915",
+  "email": "",
+  "rating": "4.6",
+  "review_count": 210,
+  "reviews": [
+    "Best doors in town. City Garage Doors Denver really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using City Garage Doors Denver for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800",
+    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+  ],
+  "services": [
+    "Garage Door Installation",
+    "Garage Door Repair",
+    "Spring Replacement",
+    "Opener Installation",
+    "Commercial Doors",
+    "Emergency Service"
+  ],
+  "tagline": "Expert Installation & Repair",
+  "description": "City Garage Doors Denver provides professional doors to the Denver area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Denver CO",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "city-garage-doors-denver"
+}

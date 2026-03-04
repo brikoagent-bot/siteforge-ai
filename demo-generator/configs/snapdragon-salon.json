@@ -1,0 +1,37 @@
+{
+  "business_name": "Snapdragon Salon",
+  "category": "salon",
+  "address": "347 E Camelback Rd",
+  "phone": "(112) 067-4588",
+  "email": "contact@snapdragon-salon.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "Snapdragon Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.298Z",
+  "maps_url": "https://www.google.com/maps/place/Snapdragon+Salon/data=!4m7!3m6!1s0x872b12be27556e5d:0x89e4d3c954002e2!8m2!3d33.5089431!4d-112.0674588!16s%2Fg%2F1tdlhr_7!19sChIJXW5VJ74SK4cR4gJAlTxNngg?authuser=0&hl=en&rclk=1",
+  "slug": "snapdragon-salon"
+}

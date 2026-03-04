@@ -1,0 +1,37 @@
+{
+  "business_name": "Mane Salon",
+  "category": "salon",
+  "address": "1301 Hillsborough St Suite 102",
+  "phone": "",
+  "email": "contact@mane-salon.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "The Art of Beautiful Hair",
+  "description": "Mane Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.305Z",
+  "maps_url": "https://www.google.com/maps/place/Mane+Salon/data=!4m7!3m6!1s0x89ac5f8ddcaeb2d9:0x1b7a3bde1f821fba!8m2!3d35.7831121!4d-78.6561787!16s%2Fg%2F11ldwhymsq!19sChIJ2bKu3I1frIkRuh-CH947ehs?authuser=0&hl=en&rclk=1",
+  "slug": "mane-salon"
+}

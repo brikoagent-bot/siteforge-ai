@@ -1,0 +1,37 @@
+{
+  "business_name": "Hungry AF Downtown",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "",
+  "email": "contact@hungry-af-downtown.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Flavors That Tell a Story",
+  "description": "Hungry AF Downtown brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.070Z",
+  "maps_url": "https://www.google.com/maps/place/Hungry+AF+Downtown/data=!4m7!3m6!1s0x88f503d6ae1fe4d1:0xd3bf9d1ad6f6ff05!8m2!3d33.755302!4d-84.382053!16s%2Fg%2F11y1wt8pfj!19sChIJ0eQfrtYD9YgRBf_21hqdv9M?authuser=0&hl=en&rclk=1",
+  "slug": "hungry-af-downtown"
+}

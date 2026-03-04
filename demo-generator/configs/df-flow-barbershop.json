@@ -1,0 +1,37 @@
+{
+  "business_name": "DF FLOW BARBERSHOP",
+  "category": "barbershop",
+  "address": "5389 S Kirkman Rd Unit 202",
+  "phone": "",
+  "email": "contact@df-flow-barbershop.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Sharp Looks, Every Time",
+  "description": "DF FLOW BARBERSHOP is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.312Z",
+  "maps_url": "https://www.google.com/maps/place/DF+FLOW+BARBERSHOP/data=!4m7!3m6!1s0x88e77f793118b513:0x59b6fa58059e6be2!8m2!3d28.4847036!4d-81.4581959!16s%2Fg%2F11q87_vpxx!19sChIJE7UYMXl_54gR4mueBVj6tlk?authuser=0&hl=en&rclk=1",
+  "slug": "df-flow-barbershop"
+}

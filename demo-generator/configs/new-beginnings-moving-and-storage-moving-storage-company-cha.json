@@ -1,0 +1,37 @@
+{
+  "business_name": "NEW BEGINNINGS MOVING AND STORAGE-Moving & Storage Company Charlotte NC",
+  "category": "moving storage",
+  "address": "",
+  "phone": "(704) 536-6674",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 237,
+  "reviews": [
+    "Best moving storage in town. NEW BEGINNINGS MOVING AND STORAGE-Moving & Storage Company Charlotte NC really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using NEW BEGINNINGS MOVING AND STORAGE-Moving & Storage Company Charlotte NC for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1600518464441-9154a4dea21b?w=800",
+    "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800"
+  ],
+  "services": [
+    "Local Moving",
+    "Long Distance Moving",
+    "Packing Services",
+    "Commercial Moving",
+    "Storage Solutions",
+    "Piano & Specialty Moving"
+  ],
+  "tagline": "Stress-Free Moves, Every Time",
+  "description": "NEW BEGINNINGS MOVING AND STORAGE-Moving & Storage Company Charlotte NC provides professional moving storage to the Charlotte area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Charlotte NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "new-beginnings-moving-and-storage-moving-storage-company-cha"
+}

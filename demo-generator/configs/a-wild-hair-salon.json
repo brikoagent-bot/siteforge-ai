@@ -1,0 +1,37 @@
+{
+  "business_name": "A Wild Hair Salon",
+  "category": "salon",
+  "address": "4343 N Rancho Dr #108",
+  "phone": "(115) 232-7194",
+  "email": "contact@a-wild-hair-salon.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "A Wild Hair Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.309Z",
+  "maps_url": "https://www.google.com/maps/place/A+Wild+Hair+Salon/data=!4m7!3m6!1s0x80c8ea5903165f6f:0x833efdd021ec47a7!8m2!3d36.2385368!4d-115.2327194!16s%2Fg%2F1tls33g5!19sChIJb18WA1nqyIARp0fsIdD9PoM?authuser=0&hl=en&rclk=1",
+  "slug": "a-wild-hair-salon"
+}

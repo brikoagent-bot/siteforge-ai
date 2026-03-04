@@ -1,0 +1,37 @@
+{
+  "business_name": "Summit Roofing of NC, LLC",
+  "category": "contractors",
+  "address": "",
+  "phone": "(919) 457-1117",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 209,
+  "reviews": [
+    "Best contractors in town. Summit Roofing of NC, LLC really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Summit Roofing of NC, LLC for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800",
+    "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800"
+  ],
+  "services": [
+    "General Construction",
+    "Home Remodeling",
+    "Kitchen & Bath Renovation",
+    "Roofing & Siding",
+    "Flooring Installation",
+    "Commercial Build-Outs"
+  ],
+  "tagline": "From Blueprint to Reality",
+  "description": "Summit Roofing of NC, LLC provides professional contractors to the Raleigh area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Raleigh NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "summit-roofing-of-nc-llc"
+}

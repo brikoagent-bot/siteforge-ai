@@ -1,0 +1,37 @@
+{
+  "business_name": "Simple Mobile Mechanic Jacksonville",
+  "category": "auto_repair",
+  "address": "2695 Post St",
+  "phone": "(912) 602-1933",
+  "email": "contact@simple-mobile-mechanic-jacksonville.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "Been bringing both our cars here for two years. Consistent quality and they always go the extra mile.",
+    "Honest mechanics are hard to find. These guys diagnosed the issue in 20 minutes and didn't try to upsell me.",
+    "The diagnostic team found a problem two other shops missed. Saved me thousands in potential damage."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Keeping You on the Road",
+  "description": "Simple Mobile Mechanic Jacksonville provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.298Z",
+  "maps_url": "https://www.google.com/maps/place/Simple+Mobile+Mechanic+Jacksonville/data=!4m7!3m6!1s0x88e5b9a093b32ccb:0x3ea4fe40c219ddfc!8m2!3d30.3134843!4d-81.6952268!16s%2Fg%2F11wb04dxp5!19sChIJyyyzk6C55YgR_N0ZwkD-pD4?authuser=0&hl=en&rclk=1",
+  "slug": "simple-mobile-mechanic-jacksonville"
+}

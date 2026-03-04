@@ -1,0 +1,37 @@
+{
+  "business_name": "Dallas Fades Barbershop",
+  "category": "barbershop",
+  "address": "124 N Peak St",
+  "phone": "",
+  "email": "contact@dallas-fades-barbershop.com",
+  "rating": 4.5,
+  "review_count": 9999,
+  "reviews": [
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "Finally found a barber who actually listens. The attention to detail is unmatched."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Sharp Looks, Every Time",
+  "description": "Dallas Fades Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.299Z",
+  "maps_url": "https://www.google.com/maps/place/Dallas+Fades+Barbershop/data=!4m7!3m6!1s0x864e98b8951c05cd:0x34038a96142cd83!8m2!3d32.790711!4d-96.769492!16s%2Fg%2F11byhmhxcc!19sChIJzQUclbiYToYRg81CYak4QAM?authuser=0&hl=en&rclk=1",
+  "slug": "dallas-fades-barbershop"
+}

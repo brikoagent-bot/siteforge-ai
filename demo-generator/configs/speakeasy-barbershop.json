@@ -1,0 +1,37 @@
+{
+  "business_name": "Speakeasy Barbershop",
+  "category": "barbershop",
+  "address": "1820 Peachtree Rd NE Suite 306",
+  "phone": "",
+  "email": "contact@speakeasy-barbershop.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Sharp Looks, Every Time",
+  "description": "Speakeasy Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.068Z",
+  "maps_url": "https://www.google.com/maps/place/Speakeasy+Barbershop/data=!4m7!3m6!1s0x88f50532a59942b3:0x19c89c373ba2e3e0!8m2!3d33.8054041!4d-84.3944515!16s%2Fg%2F11s_tg03vr!19sChIJs0KZpTIF9YgR4OOiOzecyBk?authuser=0&hl=en&rclk=1",
+  "slug": "speakeasy-barbershop"
+}

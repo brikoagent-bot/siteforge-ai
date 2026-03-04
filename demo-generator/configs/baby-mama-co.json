@@ -1,0 +1,37 @@
+{
+  "business_name": "Baby Mama Co",
+  "category": "hospice home health care",
+  "address": "",
+  "phone": "(720) 369-2440",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 61,
+  "reviews": [
+    "Best hospice home health care in town. Baby Mama Co really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Baby Mama Co for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800",
+    "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800"
+  ],
+  "services": [
+    "Oil Change & Filter",
+    "Brake Repair",
+    "Engine Diagnostics",
+    "Transmission Service",
+    "AC Repair",
+    "Tire Rotation & Balance"
+  ],
+  "tagline": "Expert Auto Care You Can Count On",
+  "description": "Baby Mama Co provides professional hospice home health care to the Denver area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Denver CO",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "baby-mama-co"
+}

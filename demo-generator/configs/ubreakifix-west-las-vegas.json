@@ -1,0 +1,37 @@
+{
+  "business_name": "uBreakiFix - West Las Vegas",
+  "category": "electronics services equipment",
+  "address": "",
+  "phone": "(702) 660-3333",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 73,
+  "reviews": [
+    "Best electronics services equipment in town. uBreakiFix - West Las Vegas really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using uBreakiFix - West Las Vegas for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+  ],
+  "services": [
+    "Consultation",
+    "Custom Solutions",
+    "Maintenance & Support",
+    "Emergency Service",
+    "Free Estimates",
+    "Satisfaction Guaranteed"
+  ],
+  "tagline": "Professional Service You Can Trust",
+  "description": "uBreakiFix - West Las Vegas provides professional electronics services equipment to the Las Vegas area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Las Vegas NV",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "ubreakifix-west-las-vegas"
+}

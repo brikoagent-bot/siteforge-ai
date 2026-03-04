@@ -1,0 +1,42 @@
+{
+  "business_name": "Spacehead Salon",
+  "category": "salon",
+  "address": "2017 Central Ave Suite 101",
+  "phone": "",
+  "email": "contact@spacehead-salon.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!",
+    "Friendly staff and top-notch service. Love this place!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "10am-5pm"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200",
+    "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=800",
+    "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?w=800"
+  ],
+  "services": [
+    "Haircuts & Styling",
+    "Hair Color",
+    "Highlights",
+    "Blowouts",
+    "Hair Treatments",
+    "Special Occasion Styling"
+  ],
+  "tagline": "Your style, our passion",
+  "description": "Spacehead Salon is your destination for expert hair care and styling. Our talented stylists stay current with the latest trends and techniques to give you the perfect look.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/Spacehead+Salon/data=!4m7!3m6!1s0x88541fe73ae0c0f5:0xa0e9d492bd481878!8m2!3d35.2201985!4d-80.8068281!16s%2Fg%2F11sbw4flxt!19sChIJ9cDgOucfVIgReBhIvZLU6aA?authuser=0&hl=en&rclk=1",
+  "slug": "spacehead-salon"
+}

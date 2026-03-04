@@ -1,0 +1,37 @@
+{
+  "business_name": "Ross Avenue Family Dental of Dallas",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@ross-avenue-family-dental-of-dallas.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Modern Dentistry, Compassionate Care",
+  "description": "Ross Avenue Family Dental of Dallas provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.301Z",
+  "maps_url": "https://www.google.com/maps/place/Ross+Avenue+Family+Dental+of+Dallas/data=!4m7!3m6!1s0x864e99df87ff8a41:0xe62115686f568405!8m2!3d32.8033607!4d-96.7789398!16s%2Fg%2F11q21kyx55!19sChIJQYr_h9-ZToYRBYRWb2gVIeY?authuser=0&hl=en&rclk=1",
+  "slug": "ross-avenue-family-dental-of-dallas"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Wise Guys Barbershop",
+  "category": "barbershop",
+  "address": "7950 E Mississippi Ave Ste B",
+  "phone": "(104) 895-7292",
+  "email": "contact@wise-guys-barbershop.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Your Style, Perfected",
+  "description": "Wise Guys Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.309Z",
+  "maps_url": "https://www.google.com/maps/place/Wise+Guys+Barbershop/data=!4m7!3m6!1s0x876c7da6e7e190f5:0x108b48d2fbea5f55!8m2!3d39.6956751!4d-104.8957292!16s%2Fg%2F1tfh547v!19sChIJ9ZDh56Z9bIcRVV_q-9JIixA?authuser=0&hl=en&rclk=1",
+  "slug": "wise-guys-barbershop"
+}

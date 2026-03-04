@@ -1,0 +1,37 @@
+{
+  "business_name": "Mosaic Dental Center",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@mosaic-dental-center.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Where Dental Excellence Meets Comfort",
+  "description": "Mosaic Dental Center provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.302Z",
+  "maps_url": "https://www.google.com/maps/place/Mosaic+Dental+Center/data=!4m7!3m6!1s0x88e7791f9cf89beb:0xa53bcc3f6085e0ba!8m2!3d28.5221372!4d-81.4697052!16s%2Fg%2F1tfstp_l!19sChIJ65v4nB9554gRuuCFYD_MO6U?authuser=0&hl=en&rclk=1",
+  "slug": "mosaic-dental-center"
+}

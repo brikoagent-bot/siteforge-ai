@@ -1,0 +1,37 @@
+{
+  "business_name": "Barbon's Barbershop",
+  "category": "barbershop",
+  "address": "1912 E 7th St ste c",
+  "phone": "",
+  "email": "contact@barbons-barbershop.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Where Tradition Meets Modern Grooming",
+  "description": "Barbon's Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.307Z",
+  "maps_url": "https://www.google.com/maps/place/Barbon%27s+Barbershop/data=!4m7!3m6!1s0x8644b5b633846dcd:0x6292855e090de918!8m2!3d30.2626233!4d-97.7208363!16s%2Fg%2F11dfgs8l39!19sChIJzW2EM7a1RIYRGOkNCV6FkmI?authuser=0&hl=en&rclk=1",
+  "slug": "barbons-barbershop"
+}

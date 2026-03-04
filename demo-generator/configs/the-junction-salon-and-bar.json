@@ -1,0 +1,37 @@
+{
+  "business_name": "The Junction Salon and Bar",
+  "category": "salon",
+  "address": "209 S West St",
+  "phone": "",
+  "email": "contact@the-junction-salon-and-bar.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Elevate Your Look",
+  "description": "The Junction Salon and Bar is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.309Z",
+  "maps_url": "https://www.google.com/maps/place/The+Junction+Salon+and+Bar/data=!4m7!3m6!1s0x89ac5f7062876afd:0xee64a93a861ae39d!8m2!3d35.7778382!4d-78.6459664!16s%2Fg%2F11_v3sb_y!19sChIJ_WqHYnBfrIkRneMahjqpZO4?authuser=0&hl=en&rclk=1",
+  "slug": "the-junction-salon-and-bar"
+}

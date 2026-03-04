@@ -1,0 +1,37 @@
+{
+  "business_name": "Deep Roots ATX Salon, 360",
+  "category": "salon",
+  "address": "6203 N Capital of Texas Hwy Suite 450",
+  "phone": "",
+  "email": "contact@deep-roots-atx-salon-360.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Deep Roots ATX Salon, 360 is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.305Z",
+  "maps_url": "https://www.google.com/maps/place/Deep+Roots+ATX+Salon,+360/data=!4m7!3m6!1s0x865b34cbc707ce0d:0xae41fb9104cae253!8m2!3d30.3611443!4d-97.7892915!16s%2Fg%2F11f31488qc!19sChIJDc4Hx8s0W4YRU-LKBJH7Qa4?authuser=0&hl=en&rclk=1",
+  "slug": "deep-roots-atx-salon-360"
+}

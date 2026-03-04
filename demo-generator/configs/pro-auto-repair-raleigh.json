@@ -1,0 +1,37 @@
+{
+  "business_name": "Pro Auto Repair - Raleigh",
+  "category": "auto_repair",
+  "address": "2412 Paula St",
+  "phone": "(919) 803-5253",
+  "email": "contact@pro-auto-repair-raleigh.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Been bringing both our cars here for two years. Consistent quality and they always go the extra mile.",
+    "Honest mechanics are hard to find. These guys diagnosed the issue in 20 minutes and didn't try to upsell me.",
+    "No-nonsense auto shop. Fair prices, quality work, and they actually explain what they're doing."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Expert Care, Fair Prices",
+  "description": "Pro Auto Repair - Raleigh provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.304Z",
+  "maps_url": "https://www.google.com/maps/place/Pro+Auto+Repair+-+Raleigh/data=!4m7!3m6!1s0x89ac5f427e60bfe1:0xa62f8545baa9031b!8m2!3d35.8138214!4d-78.6247623!16s%2Fg%2F12mkzjgcp!19sChIJ4b9gfkJfrIkRGwOpukWFL6Y?authuser=0&hl=en&rclk=1",
+  "slug": "pro-auto-repair-raleigh"
+}

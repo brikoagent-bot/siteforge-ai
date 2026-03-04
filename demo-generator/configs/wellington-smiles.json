@@ -1,0 +1,37 @@
+{
+  "business_name": "Wellington Smiles",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@wellington-smiles.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe.",
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Modern Dentistry, Compassionate Care",
+  "description": "Wellington Smiles provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.073Z",
+  "maps_url": "https://www.google.com/maps/place/Wellington+Smiles/data=!4m7!3m6!1s0x88d92f9622a99f63:0x61c3e2623cc44e54!8m2!3d26.673175!4d-80.247309!16s%2Fg%2F1tkvbkkz!19sChIJY5-pIpYv2YgRVE7EPGLiw2E?authuser=0&hl=en&rclk=1",
+  "slug": "wellington-smiles"
+}

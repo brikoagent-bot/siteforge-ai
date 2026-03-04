@@ -1,0 +1,37 @@
+{
+  "business_name": "Restoration Dental",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "(508) 968-6074",
+  "email": "contact@restoration-dental.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Where Dental Excellence Meets Comfort",
+  "description": "Restoration Dental provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.073Z",
+  "maps_url": "https://www.google.com/maps/place/Restoration+Dental/data=!4m7!3m6!1s0x88f5089686074f97:0xf233940365b98626!8m2!3d33.8606772!4d-84.3302128!16s%2Fg%2F11g_fl4nf!19sChIJl08HhpYI9YgRJoa5ZQOUM_I?authuser=0&hl=en&rclk=1",
+  "slug": "restoration-dental"
+}

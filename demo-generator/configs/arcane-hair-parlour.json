@@ -1,0 +1,37 @@
+{
+  "business_name": "Arcane Hair Parlour",
+  "category": "salon",
+  "address": "600 North 4th Street #146 (Storefront faces E Pierce St, 600 N 4th St",
+  "phone": "",
+  "email": "contact@arcane-hair-parlour.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Where Beauty Meets Artistry",
+  "description": "Arcane Hair Parlour is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.291Z",
+  "maps_url": "https://www.google.com/maps/place/Arcane+Hair+Parlour/data=!4m7!3m6!1s0x872b12182f28ab21:0x479364a20ced710d!8m2!3d33.4553855!4d-112.069492!16s%2Fg%2F11c1qj6m_l!19sChIJIasoLxgSK4cRDXHtDKJkk0c?authuser=0&hl=en&rclk=1",
+  "slug": "arcane-hair-parlour"
+}

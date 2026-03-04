@@ -1,0 +1,37 @@
+{
+  "business_name": "Flair 55 Hair Salon",
+  "category": "salon",
+  "address": "San Antonio TX",
+  "phone": "",
+  "email": "contact@flair-55-hair-salon.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Flair 55 Hair Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.311Z",
+  "maps_url": "https://www.google.com/maps/place/Flair+55+Hair+Salon/data=!4m7!3m6!1s0x865c652d02c931e5:0xad89b876a710779b!8m2!3d29.6312644!4d-98.613036!16s%2Fg%2F11ljw870f0!19sChIJ5THJAi1lXIYRm3cQp3a4ia0?authuser=0&hl=en&rclk=1",
+  "slug": "flair-55-hair-salon"
+}

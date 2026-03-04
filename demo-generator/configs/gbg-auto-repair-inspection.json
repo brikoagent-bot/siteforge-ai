@@ -1,0 +1,37 @@
+{
+  "business_name": "GBG Auto Repair & Inspection",
+  "category": "auto_repair",
+  "address": "110 N Peak St",
+  "phone": "(214) 370-0375",
+  "email": "contact@gbg-auto-repair-inspection.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "No-nonsense auto shop. Fair prices, quality work, and they actually explain what they're doing.",
+    "Been bringing both our cars here for two years. Consistent quality and they always go the extra mile.",
+    "Fast, fair, and thorough. They showed me exactly what was wrong and had me back on the road same day."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Precision Auto Care You Can Trust",
+  "description": "GBG Auto Repair & Inspection provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.309Z",
+  "maps_url": "https://www.google.com/maps/place/GBG+Auto+Repair+%26+Inspection/data=!4m7!3m6!1s0x864e98b8c016d9f9:0xb56b9622a11e86cb!8m2!3d32.7905261!4d-96.7693961!16s%2Fg%2F1tdkmn12!19sChIJ-dkWwLiYToYRy4YeoSKWa7U?authuser=0&hl=en&rclk=1",
+  "slug": "gbg-auto-repair-inspection"
+}

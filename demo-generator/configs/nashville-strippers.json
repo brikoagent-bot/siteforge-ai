@@ -1,0 +1,37 @@
+{
+  "business_name": "Nashville Strippers",
+  "category": "adult entertainment",
+  "address": "",
+  "phone": "(615) 704-8267",
+  "email": "",
+  "rating": "4.7",
+  "review_count": 243,
+  "reviews": [
+    "Best adult entertainment in town. Nashville Strippers really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Nashville Strippers for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800",
+    "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=800"
+  ],
+  "services": [
+    "Live Performances",
+    "DJ Services",
+    "Event Entertainment",
+    "Private Parties",
+    "Corporate Events",
+    "Wedding Entertainment"
+  ],
+  "tagline": "Bringing the Party to You",
+  "description": "Nashville Strippers provides professional adult entertainment to the Nashville area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Nashville TN",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "nashville-strippers"
+}

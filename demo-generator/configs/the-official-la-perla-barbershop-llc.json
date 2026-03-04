@@ -1,0 +1,37 @@
+{
+  "business_name": "The Official La Perla Barbershop llc",
+  "category": "barbershop",
+  "address": "8311 N Armenia Ave",
+  "phone": "(602) 288-1154",
+  "email": "contact@the-official-la-perla-barbershop-llc.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Sharp Looks, Every Time",
+  "description": "The Official La Perla Barbershop llc is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.311Z",
+  "maps_url": "https://www.google.com/maps/place/The+Official+La+Perla+Barbershop+llc/data=!4m7!3m6!1s0x88c2c137c5020c7d:0x9243e6022881154d!8m2!3d28.0241557!4d-82.4839963!16s%2Fg%2F12qfrd9x9!19sChIJfQwCxTfBwogRTRWBKALmQ5I?authuser=0&hl=en&rclk=1",
+  "slug": "the-official-la-perla-barbershop-llc"
+}

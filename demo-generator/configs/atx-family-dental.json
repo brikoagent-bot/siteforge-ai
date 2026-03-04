@@ -1,0 +1,37 @@
+{
+  "business_name": "ATX Family Dental",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@atx-family-dental.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Your Smile, Our Priority",
+  "description": "ATX Family Dental provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.305Z",
+  "maps_url": "https://www.google.com/maps/place/ATX+Family+Dental/data=!4m7!3m6!1s0x8644b4eb0b01986f:0x6b241d4769ed491e!8m2!3d30.2482229!4d-97.7559705!16s%2Fg%2F11cn2mvqwc!19sChIJb5gBC-u0RIYRHkntaUcdJGs?authuser=0&hl=en&rclk=1",
+  "slug": "atx-family-dental"
+}

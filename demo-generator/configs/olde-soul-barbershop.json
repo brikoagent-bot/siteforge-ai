@@ -1,0 +1,37 @@
+{
+  "business_name": "Olde Soul Barbershop",
+  "category": "barbershop",
+  "address": "1614 E 6th St Unit 115",
+  "phone": "",
+  "email": "contact@olde-soul-barbershop.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Finally found a barber who actually listens. The attention to detail is unmatched."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Sharp Looks, Every Time",
+  "description": "Olde Soul Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.305Z",
+  "maps_url": "https://www.google.com/maps/place/Olde+Soul+Barbershop/data=!4m7!3m6!1s0x8644b5e4d56f833b:0xe9b1c0a54d63ab7c!8m2!3d30.2627363!4d-97.7252883!16s%2Fg%2F11flgbqkg5!19sChIJO4Nv1eS1RIYRfKtjTaXAsek?authuser=0&hl=en&rclk=1",
+  "slug": "olde-soul-barbershop"
+}

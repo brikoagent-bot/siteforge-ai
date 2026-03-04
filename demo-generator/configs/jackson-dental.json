@@ -1,0 +1,37 @@
+{
+  "business_name": "Jackson Dental",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@jackson-dental.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Creating Confident Smiles",
+  "description": "Jackson Dental provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.302Z",
+  "maps_url": "https://www.google.com/maps/place/Jackson+Dental/data=!4m7!3m6!1s0x88c2c489558a1a0d:0x80821f43aaad6f16!8m2!3d27.9468568!4d-82.4590997!16s%2Fg%2F1jkxmm4j5!19sChIJDRqKVYnEwogRFm-tqkMfgoA?authuser=0&hl=en&rclk=1",
+  "slug": "jackson-dental"
+}

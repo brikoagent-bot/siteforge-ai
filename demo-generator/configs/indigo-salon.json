@@ -1,0 +1,37 @@
+{
+  "business_name": "Indigo Salon",
+  "category": "salon",
+  "address": "1217 E 9th Ave",
+  "phone": "(104) 972-4439",
+  "email": "contact@indigo-salon.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "The Art of Beautiful Hair",
+  "description": "Indigo Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.312Z",
+  "maps_url": "https://www.google.com/maps/place/Indigo+Salon/data=!4m7!3m6!1s0x876c7ecf8d1fc213:0xb276cefcb668dcc7!8m2!3d39.7306613!4d-104.9724439!16s%2Fg%2F1tsbmm1p!19sChIJE8Ifjc9-bIcRx9xotvzOdrI?authuser=0&hl=en&rclk=1",
+  "slug": "indigo-salon"
+}

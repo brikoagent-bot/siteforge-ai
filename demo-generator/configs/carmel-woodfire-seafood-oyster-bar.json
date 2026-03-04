@@ -1,0 +1,37 @@
+{
+  "business_name": "Carmel - Woodfire Seafood & Oyster Bar",
+  "category": "restaurant",
+  "address": "Seafood restaurant",
+  "phone": "",
+  "email": "contact@carmel-woodfire-seafood-oyster-bar.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Taste the Difference",
+  "description": "Carmel - Woodfire Seafood & Oyster Bar brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.071Z",
+  "maps_url": "https://www.google.com/maps/place/Carmel+-+Woodfire+Seafood+%26+Oyster+Bar/data=!4m7!3m6!1s0x88f505783c48d1a9:0x7f3e37c126f361db!8m2!3d33.8374466!4d-84.380624!16s%2Fg%2F11tdlw9y5b!19sChIJqdFIPHgF9YgR22HzJsE3Pn8?authuser=0&hl=en&rclk=1",
+  "slug": "carmel-woodfire-seafood-oyster-bar"
+}

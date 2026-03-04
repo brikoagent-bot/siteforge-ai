@@ -1,0 +1,37 @@
+{
+  "business_name": "D&D Luxury Barbershop",
+  "category": "barbershop",
+  "address": "1648 N Market Dr Suite B",
+  "phone": "",
+  "email": "contact@dd-luxury-barbershop.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Where Tradition Meets Modern Grooming",
+  "description": "D&D Luxury Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.312Z",
+  "maps_url": "https://www.google.com/maps/place/D%26D+Luxury+Barbershop/data=!4m7!3m6!1s0x89ac59fa50ba924d:0xbd4d77689ccf73cb!8m2!3d35.8394785!4d-78.6081785!16s%2Fg%2F11wnz3w__8!19sChIJTZK6UPpZrIkRy3PPnGh3Tb0?authuser=0&hl=en&rclk=1",
+  "slug": "dd-luxury-barbershop"
+}

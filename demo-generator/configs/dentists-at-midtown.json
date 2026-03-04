@@ -1,0 +1,37 @@
+{
+  "business_name": "Dentists at Midtown",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@dentists-at-midtown.com",
+  "rating": 4.2,
+  "review_count": 9999,
+  "reviews": [
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing.",
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning.",
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Gentle Care for the Whole Family",
+  "description": "Dentists at Midtown provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.072Z",
+  "maps_url": "https://www.google.com/maps/place/Dentists+at+Midtown/data=!4m7!3m6!1s0x88d9b160aa8490a7:0x46fd246d184bf20a!8m2!3d25.806067!4d-80.1953081!16s%2Fg%2F11h721vtj6!19sChIJp5CEqmCx2YgRCvJLGG0k_UY?authuser=0&hl=en&rclk=1",
+  "slug": "dentists-at-midtown"
+}

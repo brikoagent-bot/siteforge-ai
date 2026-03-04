@@ -1,0 +1,37 @@
+{
+  "business_name": "Perry Monge Salon Spa",
+  "category": "salon",
+  "address": "11 W Washington St Suite 240",
+  "phone": "(112) 074-2088",
+  "email": "contact@perry-monge-salon-spa.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "The Art of Beautiful Hair",
+  "description": "Perry Monge Salon Spa is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.306Z",
+  "maps_url": "https://www.google.com/maps/place/Perry+Monge+Salon+Spa/data=!4m7!3m6!1s0x872b121f789ae98f:0x75c5d39cc933928!8m2!3d33.4480348!4d-112.0742088!16s%2Fg%2F1tdnfqn5!19sChIJj-maeB8SK4cRKDmTzDldXAc?authuser=0&hl=en&rclk=1",
+  "slug": "perry-monge-salon-spa"
+}

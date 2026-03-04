@@ -1,0 +1,37 @@
+{
+  "business_name": "Tampa Commercial Real Estate",
+  "category": "real estate agents brokers",
+  "address": "",
+  "phone": "(813) 785-3665",
+  "email": "",
+  "rating": "4.9",
+  "review_count": 142,
+  "reviews": [
+    "Best real estate agents brokers in town. Tampa Commercial Real Estate really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Tampa Commercial Real Estate for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800",
+    "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=800"
+  ],
+  "services": [
+    "Residential Sales",
+    "Property Management",
+    "Commercial Real Estate",
+    "Investment Consulting",
+    "Home Staging",
+    "Market Analysis"
+  ],
+  "tagline": "Expert Guidance, Every Step",
+  "description": "Tampa Commercial Real Estate provides professional real estate agents brokers to the Tampa area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Tampa FL",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "tampa-commercial-real-estate"
+}

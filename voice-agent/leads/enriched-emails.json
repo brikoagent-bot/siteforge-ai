@@ -1,0 +1,217 @@
+{
+  "generated": "2026-03-04",
+  "notes": "Email enrichment via Google browser search. Most small local businesses don't publish email addresses publicly. Brave Search API key was missing so web_search was unavailable. Google/Yelp/DDG were used via browser and web_fetch where possible.",
+  "leads": [
+    {
+      "name": "A Good Mechanic",
+      "phone": "(210) 614-1444",
+      "city": "San Antonio TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "yelp",
+      "notes": "Owner William S. explicitly states 'Contact via phone only. not email please.' on Yelp. No website. GOOD PROSPECT - no web presence."
+    },
+    {
+      "name": "Allstar Auto",
+      "phone": "(210) 999-1788",
+      "city": "San Antonio TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Could not find Yelp page (404). Google results mixed with other 'Allstar Auto' businesses. No email found. GOOD PROSPECT."
+    },
+    {
+      "name": "On The Road Again",
+      "phone": "(210) 360-0633",
+      "city": "San Antonio TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Yelp blocked (403). No email found. GOOD PROSPECT."
+    },
+    {
+      "name": "Santiago's Auto & Truck Service",
+      "phone": "(813) 542-3469",
+      "city": "Tampa FL",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "yelp",
+      "notes": "Found on Yelp. Christian shop. Also lists (813) 542-7420. No email or website listed. GOOD PROSPECT."
+    },
+    {
+      "name": "Motor City Auto Repair",
+      "phone": "(214) 565-5550",
+      "city": "Dallas TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Found on businessyab at 2939 S Ervay St, Dallas TX 75215. No email. No website. GOOD PROSPECT."
+    },
+    {
+      "name": "Dallas Auto Service",
+      "phone": "(214) 330-5400",
+      "city": "Dallas TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Found on CoParking at 4331 S Hampton Rd, Dallas TX 75232. Listed in Dallas city records. No email or website found. GOOD PROSPECT."
+    },
+    {
+      "name": "GBG Auto Repair",
+      "phone": "(214) 370-0375",
+      "city": "Dallas TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Search engines rate-limited. No email found. GOOD PROSPECT."
+    },
+    {
+      "name": "Joe's Auto Repair",
+      "phone": "(713) 662-0428",
+      "city": "Houston TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Search engines rate-limited. No email found. Likely GOOD PROSPECT."
+    },
+    {
+      "name": "Nick's Auto Repair",
+      "phone": "(704) 374-0205",
+      "city": "Charlotte NC",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Search engines rate-limited. No email found. Likely GOOD PROSPECT."
+    },
+    {
+      "name": "King Auto Repair",
+      "phone": "(704) 344-0000",
+      "city": "Charlotte NC",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Search engines rate-limited. No email found. Likely GOOD PROSPECT."
+    },
+    {
+      "name": "All Out Automotive",
+      "phone": "(615) 866-9296",
+      "city": "Nashville TN",
+      "email": null,
+      "facebook": "https://www.facebook.com/profile.php?id=1556194181346467",
+      "website": null,
+      "source": "google_browser",
+      "notes": "Full name: All Out Automotive & Transmission. Has Yelp page (3.7 stars, 12 reviews) and Facebook page. At 2701 Cruzen St, Nashville TN 37211. No email found. Has Facebook but no website. GOOD PROSPECT."
+    },
+    {
+      "name": "Pro Auto Repair Raleigh",
+      "phone": "(919) 803-5253",
+      "city": "Raleigh NC",
+      "email": null,
+      "facebook": null,
+      "website": "www.proautorepairraleigh.com",
+      "website_status": "DOWN (404 - site not published)",
+      "source": "google_browser",
+      "notes": "Has a website listed (proautorepairraleigh.com) but it's DOWN/not published. At 2412 Paula St, Raleigh NC 27608. 4.9 stars, 153 reviews on Google. Listed on ZoomInfo/Datanyze. Website is dead - GOOD PROSPECT for web rebuild."
+    },
+    {
+      "name": "Simple Mobile Mechanic Jacksonville",
+      "phone": "(912) 602-1933",
+      "city": "Jacksonville FL",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Could not search (rate-limited). No email found. Likely GOOD PROSPECT."
+    },
+    {
+      "name": "All Construction Services Orlando",
+      "phone": "(407) 516-3434",
+      "city": "Orlando FL",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Could not search (rate-limited). No email found. Likely GOOD PROSPECT."
+    },
+    {
+      "name": "Naples Italian Ristorante",
+      "phone": "(205) 321-3979",
+      "city": "San Antonio TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Phone area code (205) is Birmingham AL, not San Antonio TX (210). May be mismatched data. Could not search. Status UNCLEAR."
+    },
+    {
+      "name": "AquaMan Mobile Mechanic Houston",
+      "phone": "(832) 774-7884",
+      "city": "Houston TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Could not search (rate-limited). Mobile mechanic - likely no website. GOOD PROSPECT."
+    },
+    {
+      "name": "Arturo's Mobile Mechanic Houston",
+      "phone": "(832) 808-1049",
+      "city": "Houston TX",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Could not search (rate-limited). Mobile mechanic - likely no website. GOOD PROSPECT."
+    },
+    {
+      "name": "White Raven Mobile Mechanic Charlotte",
+      "phone": "(980) 226-1676",
+      "city": "Charlotte NC",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Could not search (rate-limited). Mobile mechanic - likely no website. GOOD PROSPECT."
+    },
+    {
+      "name": "Ruiz Salon",
+      "phone": "(512) 364-2904",
+      "city": "Austin TX",
+      "email": "careers@ruizsalon.com",
+      "facebook": null,
+      "website": "https://ruizsalon.com",
+      "source": "google_browser",
+      "notes": "WARNING: Ruiz Salon is a well-established luxury Aveda salon with ~30 employees, website, app, and multiple locations. Phone (512) 364-2904 from lead list does NOT match their listed number (512) 478-7744. careers@ email is for hiring only. HAS WEBSITE - BAD PROSPECT (already has strong web presence). May be wrong business match."
+    },
+    {
+      "name": "The Official La Perla Barbershop",
+      "phone": "(602) 288-1154",
+      "city": "Tampa FL",
+      "email": null,
+      "facebook": null,
+      "website": null,
+      "source": "web_search",
+      "notes": "Phone area code (602) is Phoenix AZ, not Tampa FL (813). May be mismatched data. Could not search. Status UNCLEAR."
+    }
+  ],
+  "summary": {
+    "total": 20,
+    "emails_found": 1,
+    "facebook_found": 1,
+    "has_website": 2,
+    "good_prospects": 16,
+    "unclear": 2,
+    "bad_prospects": 2,
+    "limitations": "Brave Search API key missing. Google/Yelp/DuckDuckGo rate-limited after a few searches. Facebook blocks web_fetch. Most small local businesses don't publish email addresses online - they rely on phone calls. To find more emails, consider: 1) Configure Brave API key for web_search, 2) Use a lead enrichment API (Hunter.io, Apollo, etc.), 3) Check Facebook pages via browser (requires login), 4) Call businesses directly to ask for email."
+  }
+}

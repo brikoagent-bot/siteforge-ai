@@ -1,0 +1,37 @@
+{
+  "business_name": "Swoon Salon + Boutique",
+  "category": "salon",
+  "address": "1710 N 16th St Suite B",
+  "phone": "(112) 048-0224",
+  "email": "contact@swoon-salon-boutique.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "The Art of Beautiful Hair",
+  "description": "Swoon Salon + Boutique is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.291Z",
+  "maps_url": "https://www.google.com/maps/place/Swoon+Salon+%2B+Boutique/data=!4m7!3m6!1s0x872b74936196d65f:0x525b737214a0cc3!8m2!3d33.4671159!4d-112.0480224!16s%2Fg%2F11bbrlzmz9!19sChIJX9aWYZN0K4cRwwxKITe3JQU?authuser=0&hl=en&rclk=1",
+  "slug": "swoon-salon-boutique"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Salon Thirty Eight",
+  "category": "salon",
+  "address": "3390 W 38th Ave",
+  "phone": "(105) 031-9138",
+  "email": "contact@salon-thirty-eight.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Where Beauty Meets Artistry",
+  "description": "Salon Thirty Eight is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.312Z",
+  "maps_url": "https://www.google.com/maps/place/Salon+Thirty+Eight/data=!4m7!3m6!1s0x876c79cfccaff427:0x40f5ba195fc56c11!8m2!3d39.7692381!4d-105.0319138!16s%2Fg%2F11jz6fvvnc!19sChIJJ_SvzM95bIcREWzFXxm69UA?authuser=0&hl=en&rclk=1",
+  "slug": "salon-thirty-eight"
+}

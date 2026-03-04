@@ -1,0 +1,37 @@
+{
+  "business_name": "the CUT Barbershop",
+  "category": "barbershop",
+  "address": "121 W Trade St",
+  "phone": "",
+  "email": "contact@the-cut-barbershop.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a barber who actually listens. The attention to detail is unmatched.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Crafted Cuts, Timeless Style",
+  "description": "the CUT Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.070Z",
+  "maps_url": "https://www.google.com/maps/place/the+CUT+Barbershop/data=!4m7!3m6!1s0x8856a02f8758b6eb:0x9eddd0ea91a7aad5!8m2!3d35.2275803!4d-80.8437256!16s%2Fg%2F1tjhyc9m!19sChIJ67ZYhy-gVogR1aqnkerQ3Z4?authuser=0&hl=en&rclk=1",
+  "slug": "the-cut-barbershop"
+}

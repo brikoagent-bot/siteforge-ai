@@ -1,0 +1,37 @@
+{
+  "business_name": "Whiskey Den Barbershop",
+  "category": "barbershop",
+  "address": "3321 Oak Lawn Ave",
+  "phone": "",
+  "email": "contact@whiskey-den-barbershop.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Your Style, Perfected",
+  "description": "Whiskey Den Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.288Z",
+  "maps_url": "https://www.google.com/maps/place/Whiskey+Den+Barbershop/data=!4m7!3m6!1s0x864e9f792412a453:0xede5b2286cb3981f!8m2!3d32.8108394!4d-96.8073323!16s%2Fg%2F11yjpclyr6!19sChIJU6QSJHmfToYRH5izbCiy5e0?authuser=0&hl=en&rclk=1",
+  "slug": "whiskey-den-barbershop"
+}

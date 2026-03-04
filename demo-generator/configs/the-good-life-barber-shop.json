@@ -1,0 +1,37 @@
+{
+  "business_name": "The Good Life Barber Shop",
+  "category": "barbershop",
+  "address": "1717 W 6th St Suite 130R",
+  "phone": "",
+  "email": "contact@the-good-life-barber-shop.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a barber who actually listens. The attention to detail is unmatched.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Crafted Cuts, Timeless Style",
+  "description": "The Good Life Barber Shop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.305Z",
+  "maps_url": "https://www.google.com/maps/place/The+Good+Life+Barber+Shop/data=!4m7!3m6!1s0x8644b5a7854b893b:0xd945f7511fd473cd!8m2!3d30.2762154!4d-97.7658641!16s%2Fg%2F1tr7d5nb!19sChIJO4lLhae1RIYRzXPUH1H3Rdk?authuser=0&hl=en&rclk=1",
+  "slug": "the-good-life-barber-shop"
+}

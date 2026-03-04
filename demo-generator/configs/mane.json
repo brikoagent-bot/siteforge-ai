@@ -1,0 +1,37 @@
+{
+  "business_name": "MANE",
+  "category": "salon",
+  "address": "5321 E Mockingbird Ln #140",
+  "phone": "",
+  "email": "contact@mane.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "MANE is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.290Z",
+  "maps_url": "https://www.google.com/maps/place/MANE/data=!4m7!3m6!1s0x864e9f4e122fa5bb:0x48360435b2c319cb!8m2!3d32.8380987!4d-96.7758846!16s%2Fg%2F11c1vkrttk!19sChIJu6UvEk6fToYRyxnDsjUENkg?authuser=0&hl=en&rclk=1",
+  "slug": "mane"
+}

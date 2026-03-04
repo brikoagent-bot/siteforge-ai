@@ -1,0 +1,37 @@
+{
+  "business_name": "Floyd's 99 Barbershop",
+  "category": "barbershop",
+  "address": "3636 McKinney Ave #140",
+  "phone": "",
+  "email": "contact@floyds-99-barbershop.com",
+  "rating": 4.3,
+  "review_count": 9999,
+  "reviews": [
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Walked in looking rough, walked out looking like a million bucks. These guys are artists.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Crafted Cuts, Timeless Style",
+  "description": "Floyd's 99 Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.301Z",
+  "maps_url": "https://www.google.com/maps/place/Floyd%27s+99+Barbershop/data=!4m7!3m6!1s0x864e9ed48ca04a69:0x9db119d2acdc9f59!8m2!3d32.8073188!4d-96.7966329!16s%2Fg%2F1tf36cd8!19sChIJaUqgjNSeToYRWZ_crNIZsZ0?authuser=0&hl=en&rclk=1",
+  "slug": "floyds-99-barbershop"
+}

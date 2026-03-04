@@ -1,0 +1,37 @@
+{
+  "business_name": "Kona Grill - Boca Park",
+  "category": "restaurant",
+  "address": "American restaurant",
+  "phone": "(115) 289-9996",
+  "email": "contact@kona-grill-boca-park.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Flavors That Tell a Story",
+  "description": "Kona Grill - Boca Park brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.294Z",
+  "maps_url": "https://www.google.com/maps/place/Kona+Grill+-+Boca+Park/data=!4m7!3m6!1s0x80c8bfb91ab2af83:0xeb0328f181ef8260!8m2!3d36.1638277!4d-115.2899996!16s%2Fg%2F11vjlz9yn1!19sChIJg6-yGrm_yIARYILvgfEoA-s?authuser=0&hl=en&rclk=1",
+  "slug": "kona-grill-boca-park"
+}

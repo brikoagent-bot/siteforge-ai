@@ -1,0 +1,37 @@
+{
+  "business_name": "Matsuhisa Denver",
+  "category": "restaurants",
+  "address": "",
+  "phone": "(303) 329-6628",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 101,
+  "reviews": [
+    "Best restaurants in town. Matsuhisa Denver really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Matsuhisa Denver for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering Services",
+    "Private Events",
+    "Online Ordering",
+    "Family Meals"
+  ],
+  "tagline": "Where Every Meal Is an Experience",
+  "description": "Matsuhisa Denver provides professional restaurants to the Denver area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Denver CO",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "matsuhisa-denver"
+}

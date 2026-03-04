@@ -1,0 +1,37 @@
+{
+  "business_name": "Omni Charlotte Hotel",
+  "category": "hotels lodging",
+  "address": "",
+  "phone": "(704) 377-0400",
+  "email": "",
+  "rating": "4.5",
+  "review_count": 117,
+  "reviews": [
+    "Best hotels lodging in town. Omni Charlotte Hotel really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Omni Charlotte Hotel for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+    "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800"
+  ],
+  "services": [
+    "Rooms & Suites",
+    "Event Spaces",
+    "Concierge Service",
+    "Room Service",
+    "Airport Shuttle",
+    "Business Center"
+  ],
+  "tagline": "Rest, Relax, Recharge",
+  "description": "Omni Charlotte Hotel provides professional hotels lodging to the Charlotte area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Charlotte NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "omni-charlotte-hotel"
+}

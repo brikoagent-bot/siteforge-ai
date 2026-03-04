@@ -1,0 +1,41 @@
+{
+  "business_name": "FRESH & FADED BARBERSHOP",
+  "category": "barbershop",
+  "address": "2605 W Flagler St",
+  "phone": "",
+  "email": "contact@fresh-faded-barbershop.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1200",
+    "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=800",
+    "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=800"
+  ],
+  "services": [
+    "Haircuts",
+    "Beard Trim",
+    "Hot Towel Shave",
+    "Hair Styling",
+    "Kids Cuts",
+    "Straight Razor Shave"
+  ],
+  "tagline": "Your grooming destination",
+  "description": "FRESH & FADED BARBERSHOP is your premier barbershop offering classic cuts and modern styles. Our experienced barbers provide personalized service in a relaxed, professional atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/FRESH+%26+FADED+BARBERSHOP/data=!4m7!3m6!1s0x88d9b71b5078f4b1:0xc16900e0f78c6f4d!8m2!3d25.772551!4d-80.2382621!16s%2Fg%2F11fzfcqbtz!19sChIJsfR4UBu32YgRTW-M9-AAacE?authuser=0&hl=en&rclk=1",
+  "slug": "fresh-faded-barbershop"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Aspen Dental - Nashville, TN - West",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@aspen-dental-nashville-tn-west.com",
+  "rating": 4,
+  "review_count": 9999,
+  "reviews": [
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing.",
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly.",
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Where Dental Excellence Meets Comfort",
+  "description": "Aspen Dental - Nashville, TN - West provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.310Z",
+  "maps_url": "https://www.google.com/maps/place/Aspen+Dental+-+Nashville,+TN+-+West/data=!4m7!3m6!1s0x886461f59b2dd753:0xc7907331e25a579a!8m2!3d36.1368987!4d-86.8853029!16s%2Fg%2F11b620btc8!19sChIJU9ctm_VhZIgRmlda4jFzkMc?authuser=0&hl=en&rclk=1",
+  "slug": "aspen-dental-nashville-tn-west"
+}

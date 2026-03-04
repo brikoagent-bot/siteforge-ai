@@ -1,0 +1,37 @@
+{
+  "business_name": "CBD American Shaman Las Vegas - CBD Oil Store",
+  "category": "general",
+  "address": "5135 S Fort Apache Rd #105, Las Vegas, NV, 89148",
+  "phone": "(702) 507-1594",
+  "email": "",
+  "rating": "4.7",
+  "review_count": 189,
+  "reviews": [
+    "Best general in town. CBD American Shaman Las Vegas - CBD Oil Store really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using CBD American Shaman Las Vegas - CBD Oil Store for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+  ],
+  "services": [
+    "Consultation",
+    "Custom Solutions",
+    "Maintenance & Support",
+    "Emergency Service",
+    "Free Estimates",
+    "Satisfaction Guaranteed"
+  ],
+  "tagline": "Excellence in Every Detail",
+  "description": "CBD American Shaman Las Vegas - CBD Oil Store provides professional general to the Las Vegas area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Las Vegas NV",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "cbd-american-shaman-las-vegas-cbd-oil-store"
+}

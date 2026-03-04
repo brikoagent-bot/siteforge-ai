@@ -1,0 +1,37 @@
+{
+  "business_name": "akasa salon",
+  "category": "salon",
+  "address": "593 Edgewood Ave SE",
+  "phone": "",
+  "email": "contact@akasa-salon.com",
+  "rating": 4.8,
+  "review_count": 85,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "akasa salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.074Z",
+  "maps_url": "https://www.google.com/maps/place/akasa+salon/data=!4m7!3m6!1s0x88f503f6e4910e7f:0x83e015f6ed128a13!8m2!3d33.7539749!4d-84.3675939!16s%2Fg%2F11b5pj090t!19sChIJfw6R5PYD9YgRE4oS7fYV4IM?authuser=0&hl=en&rclk=1",
+  "slug": "akasa-salon"
+}

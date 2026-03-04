@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "city": "Miami FL",
+    "niche": "restaurants",
+    "timestamp": "2026-03-03T20:40:53.475Z",
+    "total_results": 5,
+    "filters": {
+      "min_rating": 4,
+      "min_reviews": 20,
+      "require_no_website": true
+    }
+  },
+  "results": [
+    {
+      "name": "Sal's Authentic Pizza",
+      "address": "1234 Ocean Drive, Miami Beach, FL 33139",
+      "phone": "(305) 555-0101",
+      "rating": 4.6,
+      "review_count": 342,
+      "website": null,
+      "category": "restaurant",
+      "types": [
+        "restaurant",
+        "food",
+        "meal_delivery",
+        "point_of_interest"
+      ],
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=MOCK_PHOTO_1",
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=MOCK_PHOTO_2"
+      ],
+      "reviews": [
+        {
+          "author": "Maria G.",
+          "rating": 5,
+          "text": "Best pizza in Miami! Family owned and operated for 30 years. The margherita pizza is incredible!",
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "James T.",
+          "rating": 5,
+          "text": "Hidden gem! Cash only but totally worth it. The sauce is homemade and you can taste the difference.",
+          "time": "1 month ago"
+        },
+        {
+          "author": "Lisa M.",
+          "rating": 4,
+          "text": "Great authentic Italian pizza. The owner is super friendly. Only downside is limited seating.",
+          "time": "3 weeks ago"
+        }
+      ],
+      "place_id": "ChIJMOCK123456789",
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMOCK123456789"
+    },
+    {
+      "name": "Miami Fresh Seafood Market",
+      "address": "789 Biscayne Blvd, Miami, FL 33132",
+      "phone": "(305) 555-0202",
+      "rating": 4.8,
+      "review_count": 567,
+      "website": null,
+      "category": "seafood_market",
+      "types": [
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=MOCK_PHOTO_3"
+      ],
+      "reviews": [
+        {
+          "author": "Carlos R.",
+          "rating": 5,
+          "text": "Freshest fish in town! They get daily shipments from local fishermen. Staff is very knowledgeable.",
+          "time": "1 week ago"
+        },
+        {
+          "author": "Jennifer K.",
+          "rating": 5,
+          "text": "Been coming here for years. Fair prices and they'll clean and fillet your fish for free!",
+          "time": "2 days ago"
+        },
+        {
+          "author": "Mike D.",
+          "rating": 4,
+          "text": "Great selection. Can get crowded on weekends but worth the wait.",
+          "time": "1 month ago"
+        }
+      ],
+      "place_id": "ChIJMOCK987654321",
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMOCK987654321"
+    },
+    {
+      "name": "Little Havana Cuban Cafe",
+      "address": "456 SW 8th Street, Miami, FL 33130",
+      "phone": "(305) 555-0303",
+      "rating": 4.7,
+      "review_count": 892,
+      "website": null,
+      "category": "cafe",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest"
+      ],
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=MOCK_PHOTO_4",
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=MOCK_PHOTO_5",
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=MOCK_PHOTO_6"
+      ],
+      "reviews": [
+        {
+          "author": "Roberto S.",
+          "rating": 5,
+          "text": "Best Cuban coffee in Miami! The media noche sandwich is amazing. Authentic family recipes.",
+          "time": "3 days ago"
+        },
+        {
+          "author": "Ana P.",
+          "rating": 5,
+          "text": "This place is a treasure. The owners are so warm and welcoming. Try the pastelitos!",
+          "time": "1 week ago"
+        },
+        {
+          "author": "David L.",
+          "rating": 4,
+          "text": "Great atmosphere and food. Cash only so bring cash. The cortadito is perfect.",
+          "time": "2 weeks ago"
+        }
+      ],
+      "place_id": "ChIJMOCK555555555",
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMOCK555555555"
+    },
+    {
+      "name": "Tony's Auto Repair & Body Shop",
+      "address": "2100 NW 36th Street, Miami, FL 33142",
+      "phone": "(305) 555-0404",
+      "rating": 4.9,
+      "review_count": 234,
+      "website": null,
+      "category": "car_repair",
+      "types": [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=MOCK_PHOTO_7"
+      ],
+      "reviews": [
+        {
+          "author": "Susan W.",
+          "rating": 5,
+          "text": "Honest mechanic! Fixed my AC for half what the dealer quoted. Tony is trustworthy and fair.",
+          "time": "5 days ago"
+        },
+        {
+          "author": "Mark B.",
+          "rating": 5,
+          "text": "Been bringing my car here for 10 years. Always reliable, always fair prices. Highly recommend!",
+          "time": "2 weeks ago"
+        },
+        {
+          "author": "Rachel G.",
+          "rating": 5,
+          "text": "Great service! They explain everything clearly and never try to upsell. Will definitely return.",
+          "time": "1 month ago"
+        }
+      ],
+      "place_id": "ChIJMOCK777777777",
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMOCK777777777"
+    },
+    {
+      "name": "Sunrise Bakery",
+      "address": "567 Alton Road, Miami Beach, FL 33139",
+      "phone": "(305) 555-0505",
+      "rating": 4.5,
+      "review_count": 428,
+      "website": null,
+      "category": "bakery",
+      "types": [
+        "bakery",
+        "food",
+        "store",
+        "point_of_interest"
+      ],
+      "photos": [
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=MOCK_PHOTO_8",
+        "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=MOCK_PHOTO_9"
+      ],
+      "reviews": [
+        {
+          "author": "Emily R.",
+          "rating": 5,
+          "text": "Fresh bread every morning! Their croissants are flaky and buttery perfection. Worth waking up early for!",
+          "time": "1 day ago"
+        },
+        {
+          "author": "Peter K.",
+          "rating": 4,
+          "text": "Traditional bakery with amazing pastries. The tres leches cake is incredible. Cash preferred.",
+          "time": "1 week ago"
+        },
+        {
+          "author": "Diana M.",
+          "rating": 5,
+          "text": "Family-run bakery with generations of recipes. Everything is made from scratch. My favorite spot!",
+          "time": "2 weeks ago"
+        }
+      ],
+      "place_id": "ChIJMOCK999999999",
+      "maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJMOCK999999999"
+    }
+  ]
+}

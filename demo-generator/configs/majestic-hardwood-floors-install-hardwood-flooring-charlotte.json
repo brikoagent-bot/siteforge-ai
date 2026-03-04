@@ -1,0 +1,37 @@
+{
+  "business_name": "Majestic Hardwood Floors-Install Hardwood Flooring Charlotte NC",
+  "category": "carpet flooring",
+  "address": "",
+  "phone": "(704) 497-4424",
+  "email": "",
+  "rating": "4.6",
+  "review_count": 90,
+  "reviews": [
+    "Best carpet flooring in town. Majestic Hardwood Floors-Install Hardwood Flooring Charlotte NC really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Majestic Hardwood Floors-Install Hardwood Flooring Charlotte NC for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800",
+    "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800"
+  ],
+  "services": [
+    "Oil Change & Filter",
+    "Brake Repair",
+    "Engine Diagnostics",
+    "Transmission Service",
+    "AC Repair",
+    "Tire Rotation & Balance"
+  ],
+  "tagline": "Your Trusted Local Mechanic",
+  "description": "Majestic Hardwood Floors-Install Hardwood Flooring Charlotte NC provides professional carpet flooring to the Charlotte area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Charlotte NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "majestic-hardwood-floors-install-hardwood-flooring-charlotte"
+}

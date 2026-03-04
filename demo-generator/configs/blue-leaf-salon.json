@@ -1,0 +1,37 @@
+{
+  "business_name": "Blue Leaf Salon",
+  "category": "salon",
+  "address": "421 E Church St unit 508",
+  "phone": "",
+  "email": "contact@blue-leaf-salon.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Blue Leaf Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.308Z",
+  "maps_url": "https://www.google.com/maps/place/Blue+Leaf+Salon/data=!4m7!3m6!1s0x88e5c372752804ff:0xa3bfe9d9183c56a3!8m2!3d30.331439!4d-81.6626212!16s%2Fg%2F11b63vplxn!19sChIJ_wQodXLD5YgRo1Y8GNnpv6M?authuser=0&hl=en&rclk=1",
+  "slug": "blue-leaf-salon"
+}

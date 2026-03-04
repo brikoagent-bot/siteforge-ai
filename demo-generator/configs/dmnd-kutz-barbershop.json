@@ -1,0 +1,37 @@
+{
+  "business_name": "Dmnd Kutz Barbershop",
+  "category": "barbershop",
+  "address": "2322 E Thomas Rd #104",
+  "phone": "",
+  "email": "contact@dmnd-kutz-barbershop.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Crafted Cuts, Timeless Style",
+  "description": "Dmnd Kutz Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.311Z",
+  "maps_url": "https://www.google.com/maps/place/Dmnd+Kutz+Barbershop/data=!4m7!3m6!1s0x872b11a71f76d0e9:0xf0a7a6b2fe58bf84!8m2!3d33.4807364!4d-112.031452!16s%2Fg%2F11plxjwsx1!19sChIJ6dB2H6cRK4cRhL9Y_rKmp_A?authuser=0&hl=en&rclk=1",
+  "slug": "dmnd-kutz-barbershop"
+}

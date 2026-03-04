@@ -1,0 +1,43 @@
+{
+  "business_name": "Zavva Holdings",
+  "category": "contractor",
+  "address": "Greenville, SC",
+  "phone": "+1 7282193918",
+  "email": "contact@zavva-holdings.com",
+  "rating": 4.8,
+  "review_count": 42,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!",
+    "Friendly staff and top-notch service. Love this place!",
+    "Quality work at reasonable prices. Couldn't ask for more!"
+  ],
+  "hours": {
+    "mon-fri": "7am-6pm",
+    "saturday": "8am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=1200",
+    "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=800",
+    "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=800"
+  ],
+  "services": [
+    "Kitchen Remodeling",
+    "Bathroom Renovation",
+    "Room Additions",
+    "Roofing",
+    "Painting",
+    "Flooring"
+  ],
+  "tagline": "Quality craftsmanship, reliable service",
+  "description": "From kitchen remodels to room additions, Zavva Holdings delivers exceptional craftsmanship and reliable service. Our skilled team works closely with you to ensure your project exceeds expectations.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:36:38.027Z",
+  "maps_url": "",
+  "slug": "zavva-holdings"
+}

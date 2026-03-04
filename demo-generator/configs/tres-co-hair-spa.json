@@ -1,0 +1,37 @@
+{
+  "business_name": "Tres & Co. Hair Spa",
+  "category": "salon",
+  "address": "203 E Whitaker Mill Rd",
+  "phone": "",
+  "email": "contact@tres-co-hair-spa.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "Tres & Co. Hair Spa is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.310Z",
+  "maps_url": "https://www.google.com/maps/place/Tres+%26+Co.+Hair+Spa/data=!4m7!3m6!1s0x89ac5f69fe658c83:0x713cc064a3c7c651!8m2!3d35.8066885!4d-78.6389875!16s%2Fg%2F11b5_1rmrj!19sChIJg4xl_mlfrIkRUcbHo2TAPHE?authuser=0&hl=en&rclk=1",
+  "slug": "tres-co-hair-spa"
+}

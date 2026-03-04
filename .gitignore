@@ -1,0 +1,7 @@
+node_modules/
+*.log
+voice-agent/twilio-config.json
+voice-agent/vapi-config.json
+voice-agent/vapi-org-token.txt
+voice-agent/email-blast-log.json
+voice-agent/call-log.json

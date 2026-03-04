@@ -1,0 +1,37 @@
+{
+  "business_name": "Vinx Pest Control - Raleigh",
+  "category": "pest control",
+  "address": "",
+  "phone": "(984) 600-8469",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 203,
+  "reviews": [
+    "Best pest control in town. Vinx Pest Control - Raleigh really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Vinx Pest Control - Raleigh for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1632935190845-4b9ed23a4930?w=800",
+    "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800"
+  ],
+  "services": [
+    "Termite Treatment",
+    "Rodent Control",
+    "Bed Bug Removal",
+    "Mosquito Treatment",
+    "Wildlife Removal",
+    "Commercial Pest Control"
+  ],
+  "tagline": "Pest-Free Guaranteed",
+  "description": "Vinx Pest Control - Raleigh provides professional pest control to the Raleigh area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Raleigh NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "vinx-pest-control-raleigh"
+}

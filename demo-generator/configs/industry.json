@@ -1,0 +1,37 @@
+{
+  "business_name": "Industry",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "",
+  "email": "contact@industry.com",
+  "rating": 4.5,
+  "review_count": 9999,
+  "reviews": [
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Taste the Difference",
+  "description": "Industry brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.300Z",
+  "maps_url": "https://www.google.com/maps/place/Industry/data=!4m7!3m6!1s0x8644b505051e539b:0x3cbf9685f92c1fff!8m2!3d30.2629956!4d-97.7301213!16s%2Fg%2F11td8y8jrl!19sChIJm1MeBQW1RIYR_x8s-YWWvzw?authuser=0&hl=en&rclk=1",
+  "slug": "industry"
+}

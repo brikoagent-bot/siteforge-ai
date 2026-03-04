@@ -1,0 +1,37 @@
+{
+  "business_name": "White Raven Mobile Mechanic",
+  "category": "auto_repair",
+  "address": "1501 N Davidson St",
+  "phone": "(980) 226-1676",
+  "email": "contact@white-raven-mobile-mechanic.com",
+  "rating": 4.7,
+  "review_count": 188,
+  "reviews": [
+    "Honest mechanics are hard to find. These guys diagnosed the issue in 20 minutes and didn't try to upsell me.",
+    "Fast, fair, and thorough. They showed me exactly what was wrong and had me back on the road same day.",
+    "Been bringing both our cars here for two years. Consistent quality and they always go the extra mile."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Keeping You on the Road",
+  "description": "White Raven Mobile Mechanic provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.074Z",
+  "maps_url": "https://www.google.com/maps/place/White+Raven+Mobile+Mechanic/data=!4m7!3m6!1s0x8856a01217703da3:0xd0d0cc5ff2dd2d3d!8m2!3d35.2343267!4d-80.8223467!16s%2Fg%2F11c54y999n!19sChIJoz1wFxKgVogRPS3d8l_M0NA?authuser=0&hl=en&rclk=1",
+  "slug": "white-raven-mobile-mechanic"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Onyx and Co Salon ✂",
+  "category": "salon",
+  "address": "1720 Wazee St",
+  "phone": "(104) 998-1223",
+  "email": "contact@onyx-and-co-salon-.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Elevate Your Look",
+  "description": "Onyx and Co Salon ✂ is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.310Z",
+  "maps_url": "https://www.google.com/maps/place/Onyx+and+Co+Salon+%E2%9C%82/data=!4m7!3m6!1s0x876c7905a2a6630d:0x947af35926c4dd91!8m2!3d39.7524662!4d-104.9981223!16s%2Fg%2F11x33mkzzw!19sChIJDWOmogV5bIcRkd3EJlnzepQ?authuser=0&hl=en&rclk=1",
+  "slug": "onyx-and-co-salon-"
+}

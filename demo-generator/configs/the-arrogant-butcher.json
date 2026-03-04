@@ -1,0 +1,37 @@
+{
+  "business_name": "The Arrogant Butcher",
+  "category": "restaurant",
+  "address": "2 E Jefferson St #150",
+  "phone": "(112) 072-8342",
+  "email": "contact@the-arrogant-butcher.com",
+  "rating": 4.4,
+  "review_count": 5416,
+  "reviews": [
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Fresh Ingredients, Bold Flavors",
+  "description": "The Arrogant Butcher brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.314Z",
+  "maps_url": "https://www.google.com/maps/place/The+Arrogant+Butcher/data=!4m7!3m6!1s0x872b1221aff644d9:0xe829d22d1e9704d6!8m2!3d33.4474!4d-112.0728342!16s%2Fg%2F1th7ytck!19sChIJ2UT2ryESK4cR1gSXHi3SKeg?authuser=0&hl=en&rclk=1",
+  "slug": "the-arrogant-butcher"
+}

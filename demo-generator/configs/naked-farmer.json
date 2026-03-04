@@ -1,0 +1,37 @@
+{
+  "business_name": "Naked Farmer",
+  "category": "restaurant",
+  "address": "1001 Water St",
+  "phone": "",
+  "email": "contact@naked-farmer.com",
+  "rating": 4.8,
+  "review_count": 2221,
+  "reviews": [
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Taste the Difference",
+  "description": "Naked Farmer brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.314Z",
+  "maps_url": "https://www.google.com/maps/place/Naked+Farmer/data=!4m7!3m6!1s0x88c2c5e2d8cf3091:0xed2f08168d046df5!8m2!3d27.9437958!4d-82.4498324!16s%2Fg%2F11smg1t0kp!19sChIJkTDP2OLFwogR9W0EjRYIL-0?authuser=0&hl=en&rclk=1",
+  "slug": "naked-farmer"
+}

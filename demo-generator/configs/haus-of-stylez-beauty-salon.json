@@ -1,0 +1,37 @@
+{
+  "business_name": "Haus of Stylez Beauty Salon",
+  "category": "salon",
+  "address": "1200 S 4th St Ste 109",
+  "phone": "(115) 150-3317",
+  "email": "contact@haus-of-stylez-beauty-salon.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "Haus of Stylez Beauty Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.290Z",
+  "maps_url": "https://www.google.com/maps/place/Haus+of+Stylez+Beauty+Salon/data=!4m7!3m6!1s0x80c8c1b0d6d5d091:0x4e13a7de37081693!8m2!3d36.1576715!4d-115.1503317!16s%2Fg%2F11vhwm5h9m!19sChIJkdDV1rDByIARkxYIN96nE04?authuser=0&hl=en&rclk=1",
+  "slug": "haus-of-stylez-beauty-salon"
+}

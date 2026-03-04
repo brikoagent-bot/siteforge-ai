@@ -1,0 +1,37 @@
+{
+  "business_name": "Animal clinic in Charlotte",
+  "category": "animal hospitals",
+  "address": "",
+  "phone": "(980) 202-6767",
+  "email": "",
+  "rating": "4.5",
+  "review_count": 152,
+  "reviews": [
+    "Best animal hospitals in town. Animal clinic in Charlotte really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Animal clinic in Charlotte for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800",
+    "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800"
+  ],
+  "services": [
+    "Consultation",
+    "Custom Solutions",
+    "Maintenance & Support",
+    "Emergency Service",
+    "Free Estimates",
+    "Satisfaction Guaranteed"
+  ],
+  "tagline": "Your Local Experts",
+  "description": "Animal clinic in Charlotte provides professional animal hospitals to the Charlotte area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Charlotte NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "animal-clinic-in-charlotte"
+}

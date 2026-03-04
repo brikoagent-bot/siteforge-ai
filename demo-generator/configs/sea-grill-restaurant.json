@@ -1,0 +1,37 @@
+{
+  "business_name": "Sea Grill Restaurant",
+  "category": "restaurant",
+  "address": "Seafood restaurant",
+  "phone": "",
+  "email": "contact@sea-grill-restaurant.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Flavors That Tell a Story",
+  "description": "Sea Grill Restaurant brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.069Z",
+  "maps_url": "https://www.google.com/maps/place/Sea+Grill+Restaurant/data=!4m7!3m6!1s0x8856a1007b609fa3:0x870a0471b8c63792!8m2!3d35.2257798!4d-80.8423477!16s%2Fg%2F11w9x4b4kx!19sChIJo59gewChVogRkjfGuHEECoc?authuser=0&hl=en&rclk=1",
+  "slug": "sea-grill-restaurant"
+}

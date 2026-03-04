@@ -1,0 +1,37 @@
+{
+  "business_name": "Emergency Dental of Nashville",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@emergency-dental-of-nashville.com",
+  "rating": 4.7,
+  "review_count": 50,
+  "reviews": [
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly.",
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning.",
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Where Dental Excellence Meets Comfort",
+  "description": "Emergency Dental of Nashville provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.317Z",
+  "maps_url": "https://www.google.com/maps/place/Emergency+Dental+of+Nashville/data=!4m7!3m6!1s0x88647beb60e4dfc5:0x8185d3e07d81d418!8m2!3d36.0410771!4d-86.7428357!16s%2Fg%2F11nxc5hl3f!19sChIJxd_kYOt7ZIgRGNSBfeDThYE?authuser=0&hl=en&rclk=1",
+  "slug": "emergency-dental-of-nashville"
+}

@@ -1,0 +1,167 @@
+{
+  "generated_at": "2026-03-03T21:35:51.133Z",
+  "total_generated": 20,
+  "failed": 0,
+  "configs": [
+    {
+      "name": "Miami Vip Barbershop",
+      "slug": "miami-vip-barbershop",
+      "rating": 5,
+      "category": "barbershop",
+      "filename": "miami-vip-barbershop.json",
+      "success": true
+    },
+    {
+      "name": "Nicest Barbers Barbershop",
+      "slug": "nicest-barbers-barbershop",
+      "rating": 5,
+      "category": "barbershop",
+      "filename": "nicest-barbers-barbershop.json",
+      "success": true
+    },
+    {
+      "name": "Armando Palacios Barber Studio - Brickell",
+      "slug": "armando-palacios-barber-studio-brickell",
+      "rating": 5,
+      "category": "barbershop",
+      "filename": "armando-palacios-barber-studio-brickell.json",
+      "success": true
+    },
+    {
+      "name": "Marcelo’s Barbershop",
+      "slug": "marcelos-barbershop",
+      "rating": 5,
+      "category": "barbershop",
+      "filename": "marcelos-barbershop.json",
+      "success": true
+    },
+    {
+      "name": "Dantes Construction",
+      "slug": "dantes-construction",
+      "rating": 5,
+      "category": "contractor",
+      "filename": "dantes-construction.json",
+      "success": true
+    },
+    {
+      "name": "Dentistry of Miami",
+      "slug": "dentistry-of-miami",
+      "rating": 5,
+      "category": "dentist",
+      "filename": "dentistry-of-miami.json",
+      "success": true
+    },
+    {
+      "name": "Elite Smiles Dental Center",
+      "slug": "elite-smiles-dental-center",
+      "rating": 5,
+      "category": "dentist",
+      "filename": "elite-smiles-dental-center.json",
+      "success": true
+    },
+    {
+      "name": "Alfonso Dental Miami",
+      "slug": "alfonso-dental-miami",
+      "rating": 5,
+      "category": "dentist",
+      "filename": "alfonso-dental-miami.json",
+      "success": true
+    },
+    {
+      "name": "Clippers ATL Barbershop",
+      "slug": "clippers-atl-barbershop",
+      "rating": 5,
+      "category": "barbershop",
+      "filename": "clippers-atl-barbershop.json",
+      "success": true
+    },
+    {
+      "name": "BST Automotive Mobile Brake Repair and More",
+      "slug": "bst-automotive-mobile-brake-repair-and-more",
+      "rating": 5,
+      "category": "restaurant",
+      "filename": "bst-automotive-mobile-brake-repair-and-more.json",
+      "success": true
+    },
+    {
+      "name": "Uptown Cuts",
+      "slug": "uptown-cuts",
+      "rating": 5,
+      "category": "barbershop",
+      "filename": "uptown-cuts.json",
+      "success": true
+    },
+    {
+      "name": "Dentistry On Monroe",
+      "slug": "dentistry-on-monroe",
+      "rating": 5,
+      "category": "dentist",
+      "filename": "dentistry-on-monroe.json",
+      "success": true
+    },
+    {
+      "name": "Spacehead Salon",
+      "slug": "spacehead-salon",
+      "rating": 5,
+      "category": "salon",
+      "filename": "spacehead-salon.json",
+      "success": true
+    },
+    {
+      "name": "Lane Salon",
+      "slug": "lane-salon",
+      "rating": 5,
+      "category": "salon",
+      "filename": "lane-salon.json",
+      "success": true
+    },
+    {
+      "name": "Meraki Luxury Salon",
+      "slug": "meraki-luxury-salon",
+      "rating": 5,
+      "category": "salon",
+      "filename": "meraki-luxury-salon.json",
+      "success": true
+    },
+    {
+      "name": "The M Factor Style Company Salon Uptown",
+      "slug": "the-m-factor-style-company-salon-uptown",
+      "rating": 5,
+      "category": "salon",
+      "filename": "the-m-factor-style-company-salon-uptown.json",
+      "success": true
+    },
+    {
+      "name": "Uptown Charlotte Smiles",
+      "slug": "uptown-charlotte-smiles",
+      "rating": 5,
+      "category": "dentist",
+      "filename": "uptown-charlotte-smiles.json",
+      "success": true
+    },
+    {
+      "name": "Barber & Co Miami",
+      "slug": "barber-co-miami",
+      "rating": 4.9,
+      "category": "barbershop",
+      "filename": "barber-co-miami.json",
+      "success": true
+    },
+    {
+      "name": "FRESH & FADED BARBERSHOP",
+      "slug": "fresh-faded-barbershop",
+      "rating": 4.9,
+      "category": "barbershop",
+      "filename": "fresh-faded-barbershop.json",
+      "success": true
+    },
+    {
+      "name": "Energy Barbershop",
+      "slug": "energy-barbershop",
+      "rating": 4.9,
+      "category": "barbershop",
+      "filename": "energy-barbershop.json",
+      "success": true
+    }
+  ]
+}

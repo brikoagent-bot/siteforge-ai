@@ -1,0 +1,37 @@
+{
+  "business_name": "Treasure Styles - Eyelash Services Raleigh NC",
+  "category": "salons",
+  "address": "",
+  "phone": "(919) 723-8504",
+  "email": "",
+  "rating": "4.6",
+  "review_count": 125,
+  "reviews": [
+    "Best salons in town. Treasure Styles - Eyelash Services Raleigh NC really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Treasure Styles - Eyelash Services Raleigh NC for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800"
+  ],
+  "services": [
+    "Haircuts & Styling",
+    "Color & Highlights",
+    "Blowouts",
+    "Hair Treatments",
+    "Bridal Packages",
+    "Men's Grooming"
+  ],
+  "tagline": "Where Beauty Meets Artistry",
+  "description": "Treasure Styles - Eyelash Services Raleigh NC provides professional salons to the Raleigh area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Raleigh NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "treasure-styles-eyelash-services-raleigh-nc"
+}

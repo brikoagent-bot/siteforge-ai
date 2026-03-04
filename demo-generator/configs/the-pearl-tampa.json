@@ -1,0 +1,37 @@
+{
+  "business_name": "The Pearl Tampa",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "(056) 727-0308",
+  "email": "contact@the-pearl-tampa.com",
+  "rating": 4.4,
+  "review_count": 1411,
+  "reviews": [
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Taste the Difference",
+  "description": "The Pearl Tampa brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.315Z",
+  "maps_url": "https://www.google.com/maps/place/The+Pearl+Tampa/data=!4m7!3m6!1s0x88c2c5d7c42d804b:0x4a541a7381b46e78!8m2!3d27.9433114!4d-82.4500879!16s%2Fg%2F11k3hnwgfb!19sChIJS4AtxNfFwogReG60gXMaVEo?authuser=0&hl=en&rclk=1",
+  "slug": "the-pearl-tampa"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Gino's Classic Barbers",
+  "category": "barbershop",
+  "address": "1170 Crescent Ave NE P2",
+  "phone": "",
+  "email": "contact@ginos-classic-barbers.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Your Style, Perfected",
+  "description": "Gino's Classic Barbers is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.068Z",
+  "maps_url": "https://www.google.com/maps/place/Gino%27s+Classic+Barbers/data=!4m7!3m6!1s0x88f505f96ab05617:0x4b28880af440c704!8m2!3d33.7864151!4d-84.3844268!16s%2Fg%2F11r1_8_zvq!19sChIJF1awavkF9YgRBMdA9AqIKEs?authuser=0&hl=en&rclk=1",
+  "slug": "ginos-classic-barbers"
+}

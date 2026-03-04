@@ -1,0 +1,37 @@
+{
+  "business_name": "Tampa Fl Homes",
+  "category": "real estate services",
+  "address": "",
+  "phone": "(813) 699-5529",
+  "email": "",
+  "rating": "4.9",
+  "review_count": 131,
+  "reviews": [
+    "Best real estate services in town. Tampa Fl Homes really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Tampa Fl Homes for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800",
+    "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=800"
+  ],
+  "services": [
+    "Residential Sales",
+    "Property Management",
+    "Commercial Real Estate",
+    "Investment Consulting",
+    "Home Staging",
+    "Market Analysis"
+  ],
+  "tagline": "Find Your Dream Home",
+  "description": "Tampa Fl Homes provides professional real estate services to the Tampa area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Tampa FL",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "tampa-fl-homes"
+}

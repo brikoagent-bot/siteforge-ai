@@ -1,0 +1,37 @@
+{
+  "business_name": "Brewery Bhavana - Downtown",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "",
+  "email": "contact@brewery-bhavana-downtown.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Taste the Difference",
+  "description": "Brewery Bhavana - Downtown brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.296Z",
+  "maps_url": "https://www.google.com/maps/place/Brewery+Bhavana+-+Downtown/data=!4m7!3m6!1s0x89ac5f7280e90571:0x4780439dae415239!8m2!3d35.7774132!4d-78.6369174!16s%2Fg%2F11g6x8d_zq!19sChIJcQXpgHJfrIkROVJBrp1DgEc?authuser=0&hl=en&rclk=1",
+  "slug": "brewery-bhavana-downtown"
+}

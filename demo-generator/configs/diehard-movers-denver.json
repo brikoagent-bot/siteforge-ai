@@ -1,0 +1,37 @@
+{
+  "business_name": "DieHard Movers Denver",
+  "category": "moving and storage",
+  "address": "",
+  "phone": "(720) 525-3565",
+  "email": "",
+  "rating": "4.9",
+  "review_count": 146,
+  "reviews": [
+    "Best moving and storage in town. DieHard Movers Denver really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using DieHard Movers Denver for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1600518464441-9154a4dea21b?w=800",
+    "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800"
+  ],
+  "services": [
+    "Local Moving",
+    "Long Distance Moving",
+    "Packing Services",
+    "Commercial Moving",
+    "Storage Solutions",
+    "Piano & Specialty Moving"
+  ],
+  "tagline": "Your Belongings, Our Priority",
+  "description": "DieHard Movers Denver provides professional moving and storage to the Denver area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Denver CO",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "diehard-movers-denver"
+}

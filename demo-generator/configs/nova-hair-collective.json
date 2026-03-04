@@ -1,0 +1,37 @@
+{
+  "business_name": "Nova Hair Collective",
+  "category": "salon",
+  "address": "2124 E 6th St UNIT 108",
+  "phone": "",
+  "email": "contact@nova-hair-collective.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Elevate Your Look",
+  "description": "Nova Hair Collective is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.301Z",
+  "maps_url": "https://www.google.com/maps/place/Nova+Hair+Collective/data=!4m7!3m6!1s0x8644b5c9f26aaaab:0xacc392ef86bcd2e6!8m2!3d30.2604774!4d-97.7187009!16s%2Fg%2F11gcx_zq3l!19sChIJq6pq8sm1RIYR5tK8hu-Sw6w?authuser=0&hl=en&rclk=1",
+  "slug": "nova-hair-collective"
+}

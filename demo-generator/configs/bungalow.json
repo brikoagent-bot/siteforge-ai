@@ -1,0 +1,37 @@
+{
+  "business_name": "Bungalow",
+  "category": "restaurant",
+  "address": "Steak house",
+  "phone": "",
+  "email": "contact@bungalow.com",
+  "rating": 4.5,
+  "review_count": 9999,
+  "reviews": [
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Flavors That Tell a Story",
+  "description": "Bungalow brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.299Z",
+  "maps_url": "https://www.google.com/maps/place/Bungalow/data=!4m7!3m6!1s0x8640bfe1d8062c53:0xf7ee9544b89e52!8m2!3d29.7612067!4d-95.3614033!16s%2Fg%2F11p4qljzk4!19sChIJUywG2OG_QIYRUp64RJXu9wA?authuser=0&hl=en&rclk=1",
+  "slug": "bungalow"
+}

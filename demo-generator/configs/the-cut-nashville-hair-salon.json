@@ -1,0 +1,37 @@
+{
+  "business_name": "THE CUT Nashville Hair Salon",
+  "category": "salon",
+  "address": "2823 Columbine Pl",
+  "phone": "",
+  "email": "contact@the-cut-nashville-hair-salon.com",
+  "rating": 4.9,
+  "review_count": 103,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "I've been to dozens of salons and this one is by far the best. The attention to detail is remarkable."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Where Beauty Meets Artistry",
+  "description": "THE CUT Nashville Hair Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.316Z",
+  "maps_url": "https://www.google.com/maps/place/THE+CUT+Nashville+Hair+Salon/data=!4m7!3m6!1s0x886465ae039496e5:0xc70434a4f8373c03!8m2!3d36.1141322!4d-86.7660114!16s%2Fg%2F11q34d6gd0!19sChIJ5ZaUA65lZIgRAzw3-KQ0BMc?authuser=0&hl=en&rclk=1",
+  "slug": "the-cut-nashville-hair-salon"
+}

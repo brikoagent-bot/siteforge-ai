@@ -1,0 +1,37 @@
+{
+  "business_name": "Rn construction & remodeling",
+  "category": "contractor",
+  "address": "Concrete contractor",
+  "phone": "(112) 202-5806",
+  "email": "contact@rn-construction-remodeling.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Best contractor we've ever worked with. They handled permits, timeline, and quality like true pros.",
+    "They transformed our outdated kitchen into a modern masterpiece. On time, on budget, and incredible craftsmanship.",
+    "Professional from day one. The crew was respectful, clean, and the results exceeded every expectation."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800",
+    "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800"
+  ],
+  "services": [
+    "Kitchen Remodeling",
+    "Bathroom Renovation",
+    "Room Additions",
+    "Roofing & Siding",
+    "Flooring Installation",
+    "Custom Decks & Patios"
+  ],
+  "tagline": "Building Excellence, One Project at a Time",
+  "description": "Rn construction & remodeling delivers quality construction and renovation services with integrity and precision. From concept to completion, our licensed team treats every project as if it were our own home.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.301Z",
+  "maps_url": "https://www.google.com/maps/place/Rn+construction+%26+remodeling/data=!4m7!3m6!1s0xa266baa8f6b79da9:0x4fa1544c6f785e56!8m2!3d33.5041973!4d-112.2025806!16s%2Fg%2F11vzbc13bp!19sChIJqZ239qi6ZqIRVl54b0xUoU8?authuser=0&hl=en&rclk=1",
+  "slug": "rn-construction-remodeling"
+}

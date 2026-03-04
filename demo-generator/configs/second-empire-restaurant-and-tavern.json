@@ -1,0 +1,37 @@
+{
+  "business_name": "Second Empire Restaurant and Tavern",
+  "category": "restaurant",
+  "address": "American restaurant",
+  "phone": "",
+  "email": "contact@second-empire-restaurant-and-tavern.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Fresh Ingredients, Bold Flavors",
+  "description": "Second Empire Restaurant and Tavern brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.294Z",
+  "maps_url": "https://www.google.com/maps/place/Second+Empire+Restaurant+and+Tavern/data=!4m7!3m6!1s0x89ac5f6f9b539223:0x4077c73445e09c3e!8m2!3d35.7809386!4d-78.6446948!16s%2Fg%2F11b6g99p80!19sChIJI5JTm29frIkRPpzgRTTHd0A?authuser=0&hl=en&rclk=1",
+  "slug": "second-empire-restaurant-and-tavern"
+}

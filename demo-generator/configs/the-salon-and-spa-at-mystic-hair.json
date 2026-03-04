@@ -1,0 +1,37 @@
+{
+  "business_name": "The Salon and Spa at Mystic Hair",
+  "category": "salon",
+  "address": "13801 N Dale Mabry Hwy",
+  "phone": "",
+  "email": "contact@the-salon-and-spa-at-mystic-hair.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Elevate Your Look",
+  "description": "The Salon and Spa at Mystic Hair is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.292Z",
+  "maps_url": "https://www.google.com/maps/place/The+Salon+and+Spa+at+Mystic+Hair/data=!4m7!3m6!1s0x88c2c092ce742777:0xebee52d6e5e0216e!8m2!3d28.0718063!4d-82.5060261!16s%2Fg%2F1tjdmjf2!19sChIJdyd0zpLAwogRbiHg5dZS7us?authuser=0&hl=en&rclk=1",
+  "slug": "the-salon-and-spa-at-mystic-hair"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Denver Hair Design",
+  "category": "salon",
+  "address": "55 E 1st Ave",
+  "phone": "(104) 986-6902",
+  "email": "contact@denver-hair-design.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "The Art of Beautiful Hair",
+  "description": "Denver Hair Design is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.305Z",
+  "maps_url": "https://www.google.com/maps/place/Denver+Hair+Design/data=!4m7!3m6!1s0x876c7edddd229f67:0xdb4b55f50a4e4869!8m2!3d39.7184931!4d-104.9866902!16s%2Fg%2F1td7cmzq!19sChIJZ58i3d1-bIcRaUhOCvVVS9s?authuser=0&hl=en&rclk=1",
+  "slug": "denver-hair-design"
+}

@@ -1,0 +1,42 @@
+{
+  "business_name": "Dentistry On Monroe",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "(885) 421-9188",
+  "email": "contact@dentistry-on-monroe.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!",
+    "Friendly staff and top-notch service. Love this place!"
+  ],
+  "hours": {
+    "mon-fri": "8am-5pm",
+    "saturday": "9am-1pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=1200",
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Fillings & Restorations",
+    "Teeth Whitening",
+    "Crowns & Bridges",
+    "Root Canals",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Where healthy smiles begin",
+  "description": "Dentistry On Monroe offers comprehensive dental care in a comfortable, welcoming environment. Our experienced team provides everything from routine cleanings to advanced cosmetic procedures.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/Dentistry+On+Monroe/data=!4m7!3m6!1s0x885421918802edcf:0x7be0d3fd875077c4!8m2!3d35.1937637!4d-80.7817459!16s%2Fg%2F11k6fnxm04!19sChIJz-0CiJEhVIgRxHdQh_3T4Hs?authuser=0&hl=en&rclk=1",
+  "slug": "dentistry-on-monroe"
+}

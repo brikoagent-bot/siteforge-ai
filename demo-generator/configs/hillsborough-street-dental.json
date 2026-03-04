@@ -1,0 +1,37 @@
+{
+  "business_name": "Hillsborough Street Dental",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@hillsborough-street-dental.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe.",
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Gentle Care for the Whole Family",
+  "description": "Hillsborough Street Dental provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.304Z",
+  "maps_url": "https://www.google.com/maps/place/Hillsborough+Street+Dental/data=!4m7!3m6!1s0x89ac5f5de1bde667:0xeb8525cfe5fd0402!8m2!3d35.783677!4d-78.6573939!16s%2Fg%2F1tz96m7q!19sChIJZ-a94V1frIkRAgT95c8lhes?authuser=0&hl=en&rclk=1",
+  "slug": "hillsborough-street-dental"
+}

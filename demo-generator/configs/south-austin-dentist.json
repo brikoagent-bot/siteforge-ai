@@ -1,0 +1,37 @@
+{
+  "business_name": "South Austin Dentist",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@south-austin-dentist.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Got my veneers done here and I couldn't be happier. Professional, detailed, and the results are stunning.",
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Modern Dentistry, Compassionate Care",
+  "description": "South Austin Dentist provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.305Z",
+  "maps_url": "https://www.google.com/maps/place/South+Austin+Dentist/data=!4m7!3m6!1s0x865b4b5e859f967f:0x38deff12e0bdefcb!8m2!3d30.237324!4d-97.790252!16s%2Fg%2F11kh_3g55b!19sChIJf5afhV5LW4YRy--94BL_3jg?authuser=0&hl=en&rclk=1",
+  "slug": "south-austin-dentist"
+}

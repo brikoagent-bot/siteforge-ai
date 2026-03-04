@@ -1,0 +1,37 @@
+{
+  "business_name": "Pat's Mobile Auto Repair LLC Mechanic",
+  "category": "auto_repair",
+  "address": "3704 Ibis Dr",
+  "phone": "(561) 504-5452",
+  "email": "contact@pats-mobile-auto-repair-llc-mechanic.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Been bringing both our cars here for two years. Consistent quality and they always go the extra mile.",
+    "No-nonsense auto shop. Fair prices, quality work, and they actually explain what they're doing.",
+    "Fast, fair, and thorough. They showed me exactly what was wrong and had me back on the road same day."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Keeping You on the Road",
+  "description": "Pat's Mobile Auto Repair LLC Mechanic provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.306Z",
+  "maps_url": "https://www.google.com/maps/place/Pat%27s+Mobile+Auto+Repair+LLC+Mechanic/data=!4m7!3m6!1s0x88e765c11c6773cb:0x3f4660f83fc82815!8m2!3d28.5624675!4d-81.3389459!16s%2Fg%2F11l5104mw8!19sChIJy3NnHMFl54gRFSjIP_hgRj8?authuser=0&hl=en&rclk=1",
+  "slug": "pats-mobile-auto-repair-llc-mechanic"
+}

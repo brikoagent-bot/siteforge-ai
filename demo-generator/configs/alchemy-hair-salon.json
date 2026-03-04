@@ -1,0 +1,37 @@
+{
+  "business_name": "Alchemy Hair Salon",
+  "category": "salon",
+  "address": "600 N Bumby Ave",
+  "phone": "",
+  "email": "contact@alchemy-hair-salon.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Alchemy Hair Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.295Z",
+  "maps_url": "https://www.google.com/maps/place/Alchemy+Hair+Salon/data=!4m7!3m6!1s0x88e77a7b7b404e63:0xd9d19237e1174bc4!8m2!3d28.5516177!4d-81.3522926!16s%2Fg%2F1tm69r_b!19sChIJY05Ae3t654gRxEsX4TeS0dk?authuser=0&hl=en&rclk=1",
+  "slug": "alchemy-hair-salon"
+}

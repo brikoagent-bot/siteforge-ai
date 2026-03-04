@@ -1,0 +1,40 @@
+{
+  "business_name": "Lane Salon",
+  "category": "salon",
+  "address": "2400 Park Rd Suite G-2",
+  "phone": "",
+  "email": "contact@lane-salon.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "10am-5pm"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200",
+    "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=800",
+    "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?w=800"
+  ],
+  "services": [
+    "Haircuts & Styling",
+    "Hair Color",
+    "Highlights",
+    "Blowouts",
+    "Hair Treatments",
+    "Special Occasion Styling"
+  ],
+  "tagline": "Where beauty meets expertise",
+  "description": "At Lane Salon, we believe great hair can change your day. Our passionate team listens to your needs and delivers personalized service that leaves you looking and feeling amazing.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/Lane+Salon/data=!4m7!3m6!1s0x88569fb23ad90539:0x28924f5716a0a817!8m2!3d35.1984145!4d-80.8529222!16s%2Fg%2F11sq57z2df!19sChIJOQXZOrKfVogRF6igFldPkig?authuser=0&hl=en&rclk=1",
+  "slug": "lane-salon"
+}

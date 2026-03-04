@@ -1,0 +1,37 @@
+{
+  "business_name": "Polynesian Fire Luau in Orlando",
+  "category": "restaurants",
+  "address": "",
+  "phone": "(843) 424-1978",
+  "email": "",
+  "rating": "4.6",
+  "review_count": 181,
+  "reviews": [
+    "Best restaurants in town. Polynesian Fire Luau in Orlando really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Polynesian Fire Luau in Orlando for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering Services",
+    "Private Events",
+    "Online Ordering",
+    "Family Meals"
+  ],
+  "tagline": "Authentic Taste, Every Plate",
+  "description": "Polynesian Fire Luau in Orlando provides professional restaurants to the Orlando area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Orlando FL",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "polynesian-fire-luau-in-orlando"
+}

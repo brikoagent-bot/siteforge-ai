@@ -1,0 +1,37 @@
+{
+  "business_name": "Gentleman’s Style Barbershop",
+  "category": "barbershop",
+  "address": "3620 W Sahara Ave Suite W-5",
+  "phone": "(115) 190-1703",
+  "email": "contact@gentlemans-style-barbershop.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Crafted Cuts, Timeless Style",
+  "description": "Gentleman’s Style Barbershop is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.292Z",
+  "maps_url": "https://www.google.com/maps/place/Gentleman%E2%80%99s+Style+Barbershop/data=!4m7!3m6!1s0x80c8c72236ef9845:0xff853165c6c28ad!8m2!3d36.1456528!4d-115.1901703!16s%2Fg%2F11rx4lyxs8!19sChIJRZjvNiLHyIARrShsXBZT-A8?authuser=0&hl=en&rclk=1",
+  "slug": "gentlemans-style-barbershop"
+}

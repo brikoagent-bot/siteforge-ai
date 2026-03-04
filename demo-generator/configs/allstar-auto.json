@@ -1,0 +1,37 @@
+{
+  "business_name": "Allstar Auto",
+  "category": "auto_repair",
+  "address": "San Antonio TX",
+  "phone": "(210) 999-1788",
+  "email": "contact@allstar-auto.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "Honest mechanics are hard to find. These guys diagnosed the issue in 20 minutes and didn't try to upsell me.",
+    "The diagnostic team found a problem two other shops missed. Saved me thousands in potential damage.",
+    "No-nonsense auto shop. Fair prices, quality work, and they actually explain what they're doing."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Honest Service, Expert Repair",
+  "description": "Allstar Auto provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.298Z",
+  "maps_url": "https://www.google.com/maps/place/Allstar+Auto/data=!4m7!3m6!1s0x865c69e96715fbdb:0x157a1a9bed63aa99!8m2!3d29.5086986!4d-98.455441!16s%2Fg%2F1hhjw58dj!19sChIJ2_sVZ-lpXIYRmapj7ZsaehU?authuser=0&hl=en&rclk=1",
+  "slug": "allstar-auto"
+}

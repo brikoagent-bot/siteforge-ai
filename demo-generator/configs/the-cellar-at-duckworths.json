@@ -1,0 +1,37 @@
+{
+  "business_name": "The Cellar at Duckworth's",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "",
+  "email": "contact@the-cellar-at-duckworths.com",
+  "rating": 4.6,
+  "review_count": 9999,
+  "reviews": [
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back.",
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Taste the Difference",
+  "description": "The Cellar at Duckworth's brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.071Z",
+  "maps_url": "https://www.google.com/maps/place/The+Cellar+at+Duckworth%27s/data=!4m7!3m6!1s0x8856a024cef8e279:0x498518c382007af6!8m2!3d35.2292585!4d-80.8397251!16s%2Fg%2F11bv1c2cyt!19sChIJeeL4ziSgVogR9noAgsMYhUk?authuser=0&hl=en&rclk=1",
+  "slug": "the-cellar-at-duckworths"
+}

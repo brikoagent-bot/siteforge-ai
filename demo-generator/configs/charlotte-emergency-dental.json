@@ -1,0 +1,37 @@
+{
+  "business_name": "Charlotte Emergency Dental",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@charlotte-emergency-dental.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Best dental experience I've ever had. They take the time to explain everything and the results are amazing.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe.",
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Gentle Care for the Whole Family",
+  "description": "Charlotte Emergency Dental provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.070Z",
+  "maps_url": "https://www.google.com/maps/place/Charlotte+Emergency+Dental/data=!4m7!3m6!1s0x88569fab2b38741d:0xfa8b151805fd61cb!8m2!3d35.175922!4d-80.85137!16s%2Fg%2F1vg_dktf!19sChIJHXQ4K6ufVogRy2H9BRgVi_o?authuser=0&hl=en&rclk=1",
+  "slug": "charlotte-emergency-dental"
+}

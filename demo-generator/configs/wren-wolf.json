@@ -1,0 +1,37 @@
+{
+  "business_name": "Wren & Wolf",
+  "category": "restaurant",
+  "address": "Steak",
+  "phone": "(112) 074-9091",
+  "email": "contact@wren-wolf.com",
+  "rating": 4.5,
+  "review_count": 1638,
+  "reviews": [
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Fresh Ingredients, Bold Flavors",
+  "description": "Wren & Wolf brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.315Z",
+  "maps_url": "https://www.google.com/maps/place/Wren+%26+Wolf/data=!4m7!3m6!1s0x872b13dda631de2d:0x87297a7bf56486aa!8m2!3d33.448415!4d-112.0749091!16s%2Fg%2F11rj_ydbyj!19sChIJLd4xpt0TK4cRqoZk9Xt6KYc?authuser=0&hl=en&rclk=1",
+  "slug": "wren-wolf"
+}

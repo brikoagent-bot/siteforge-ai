@@ -1,0 +1,37 @@
+{
+  "business_name": "NuLife Dental: Cosmetic Dentist Orlando",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "(767) 206-2759",
+  "email": "contact@nulife-dental-cosmetic-dentist-orlando.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "I was terrified of dentists until I came here. The staff is so patient and gentle. Now I actually look forward to my appointments.",
+    "Dr. and the team made my root canal completely painless. The office is immaculate and everyone is so friendly.",
+    "My kids love coming here. The pediatric team is incredible and the office has a great vibe."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Teeth Whitening",
+    "Dental Implants",
+    "Crowns & Bridges",
+    "Root Canal Therapy",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Modern Dentistry, Compassionate Care",
+  "description": "NuLife Dental: Cosmetic Dentist Orlando provides comprehensive dental care in a warm, modern environment. Our experienced team combines cutting-edge technology with a gentle approach to help you achieve and maintain your healthiest smile.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.302Z",
+  "maps_url": "https://www.google.com/maps/place/NuLife+Dental:+Cosmetic+Dentist+Orlando/data=!4m7!3m6!1s0x88e76720627591b5:0x5815bc58adb73d0c!8m2!3d28.543865!4d-81.2447481!16s%2Fg%2F11h0_n5v_8!19sChIJtZF1YiBn54gRDD23rVi8FVg?authuser=0&hl=en&rclk=1",
+  "slug": "nulife-dental-cosmetic-dentist-orlando"
+}

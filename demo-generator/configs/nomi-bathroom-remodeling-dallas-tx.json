@@ -1,0 +1,37 @@
+{
+  "business_name": "NOMI - Bathroom Remodeling Dallas Tx",
+  "category": "home improvement",
+  "address": "",
+  "phone": "(800) 371-8970",
+  "email": "",
+  "rating": "4.9",
+  "review_count": 176,
+  "reviews": [
+    "Best home improvement in town. NOMI - Bathroom Remodeling Dallas Tx really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using NOMI - Bathroom Remodeling Dallas Tx for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+    "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800"
+  ],
+  "services": [
+    "Kitchen Remodeling",
+    "Bathroom Renovation",
+    "Flooring",
+    "Painting",
+    "Deck & Patio",
+    "Basement Finishing"
+  ],
+  "tagline": "Transform Your Home",
+  "description": "NOMI - Bathroom Remodeling Dallas Tx provides professional home improvement to the Dallas area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Dallas TX",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "nomi-bathroom-remodeling-dallas-tx"
+}

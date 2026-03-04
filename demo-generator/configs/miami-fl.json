@@ -1,0 +1,37 @@
+{
+  "business_name": "Miami, FL",
+  "category": "real estate agents brokers",
+  "address": "",
+  "phone": "(954) 608-7014",
+  "email": "",
+  "rating": "4.6",
+  "review_count": 234,
+  "reviews": [
+    "Best real estate agents brokers in town. Miami, FL really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Miami, FL for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800",
+    "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=800"
+  ],
+  "services": [
+    "Residential Sales",
+    "Property Management",
+    "Commercial Real Estate",
+    "Investment Consulting",
+    "Home Staging",
+    "Market Analysis"
+  ],
+  "tagline": "Expert Guidance, Every Step",
+  "description": "Miami, FL provides professional real estate agents brokers to the Miami area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Miami FL",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "miami-fl"
+}

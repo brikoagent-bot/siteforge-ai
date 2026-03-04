@@ -1,0 +1,37 @@
+{
+  "business_name": "South Charlotte Magic Maids",
+  "category": "cleaning services",
+  "address": "",
+  "phone": "(980) 580-8282",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 173,
+  "reviews": [
+    "Best cleaning services in town. South Charlotte Magic Maids really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using South Charlotte Magic Maids for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=800",
+    "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?w=800"
+  ],
+  "services": [
+    "Residential Cleaning",
+    "Commercial Cleaning",
+    "Deep Cleaning",
+    "Move-In/Move-Out Cleaning",
+    "Carpet Cleaning",
+    "Window Cleaning"
+  ],
+  "tagline": "A Cleaner Space, A Better Life",
+  "description": "South Charlotte Magic Maids provides professional cleaning services to the Charlotte area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Charlotte NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "south-charlotte-magic-maids"
+}

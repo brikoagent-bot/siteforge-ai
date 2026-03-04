@@ -1,0 +1,37 @@
+{
+  "business_name": "HairPeace",
+  "category": "salon",
+  "address": "2534 Oak St",
+  "phone": "",
+  "email": "contact@hairpeace.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "HairPeace is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.313Z",
+  "maps_url": "https://www.google.com/maps/place/HairPeace/data=!4m7!3m6!1s0x88e5b779e6f886c9:0xf79e8cd8e7514fa3!8m2!3d30.310034!4d-81.689132!16s%2Fg%2F1ttphq5f!19sChIJyYb45nm35YgRo09R59iMnvc?authuser=0&hl=en&rclk=1",
+  "slug": "hairpeace"
+}

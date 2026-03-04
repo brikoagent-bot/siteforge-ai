@@ -1,0 +1,37 @@
+{
+  "business_name": "All Out Automotive & Transmission",
+  "category": "auto_repair",
+  "address": "2701 Cruzen St",
+  "phone": "(615) 866-9296",
+  "email": "contact@all-out-automotive-transmission.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "No-nonsense auto shop. Fair prices, quality work, and they actually explain what they're doing.",
+    "Fast, fair, and thorough. They showed me exactly what was wrong and had me back on the road same day.",
+    "The diagnostic team found a problem two other shops missed. Saved me thousands in potential damage."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800",
+    "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?w=800"
+  ],
+  "services": [
+    "Oil Change & Fluids",
+    "Brake Service",
+    "Engine Diagnostics",
+    "Transmission Repair",
+    "AC & Heating",
+    "Tire Service & Alignment"
+  ],
+  "tagline": "Your Car Deserves the Best",
+  "description": "All Out Automotive & Transmission provides expert auto repair and maintenance with transparency and integrity. Our certified technicians use state-of-the-art diagnostics to keep your vehicle running at its best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.303Z",
+  "maps_url": "https://www.google.com/maps/place/All+Out+Automotive+%26+Transmission/data=!4m7!3m6!1s0x88646673a3695a81:0x4d843c2d1ee6387e!8m2!3d36.1143977!4d-86.7533696!16s%2Fg%2F11f15c39yv!19sChIJgVppo3NmZIgRfjjmHi08hE0?authuser=0&hl=en&rclk=1",
+  "slug": "all-out-automotive-transmission"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "Mr. Plumber Charlotte NC Inc",
+  "category": "contractors",
+  "address": "",
+  "phone": "(704) 610-4192",
+  "email": "",
+  "rating": "4.9",
+  "review_count": 149,
+  "reviews": [
+    "Best contractors in town. Mr. Plumber Charlotte NC Inc really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Mr. Plumber Charlotte NC Inc for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800",
+    "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=800"
+  ],
+  "services": [
+    "General Construction",
+    "Home Remodeling",
+    "Kitchen & Bath Renovation",
+    "Roofing & Siding",
+    "Flooring Installation",
+    "Commercial Build-Outs"
+  ],
+  "tagline": "From Blueprint to Reality",
+  "description": "Mr. Plumber Charlotte NC Inc provides professional contractors to the Charlotte area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Charlotte NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "mr-plumber-charlotte-nc-inc"
+}

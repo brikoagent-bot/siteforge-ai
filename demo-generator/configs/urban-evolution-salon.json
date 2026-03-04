@@ -1,0 +1,37 @@
+{
+  "business_name": "Urban Evolution Salon",
+  "category": "salon",
+  "address": "1042 N Highland Ave NE",
+  "phone": "",
+  "email": "contact@urban-evolution-salon.com",
+  "rating": 4.8,
+  "review_count": 528,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Urban Evolution Salon is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.074Z",
+  "maps_url": "https://www.google.com/maps/place/Urban+Evolution+Salon/data=!4m7!3m6!1s0x88f503f7dd94f403:0xc521f4bb08b977fa!8m2!3d33.7829732!4d-84.3546157!16s%2Fg%2F124styyhf!19sChIJA_SU3fcD9YgR-ne5CLv0IcU?authuser=0&hl=en&rclk=1",
+  "slug": "urban-evolution-salon"
+}

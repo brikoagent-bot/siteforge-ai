@@ -1,0 +1,37 @@
+{
+  "business_name": "Caroline",
+  "category": "restaurant",
+  "address": "American restaurant",
+  "phone": "",
+  "email": "contact@caroline.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special.",
+    "Great food, great service, great vibes. This place has become our family's favorite spot."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Fresh Ingredients, Bold Flavors",
+  "description": "Caroline brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.294Z",
+  "maps_url": "https://www.google.com/maps/place/Caroline/data=!4m7!3m6!1s0x8644b509e7e92743:0x38cd855b7c17b277!8m2!3d30.2688157!4d-97.7422982!16s%2Fg%2F11d_9jgz28!19sChIJQyfp5wm1RIYRd7IXfFuFzTg?authuser=0&hl=en&rclk=1",
+  "slug": "caroline"
+}

@@ -1,0 +1,37 @@
+{
+  "business_name": "T,C & S Real Estate in Atlanta, GA",
+  "category": "real estate services",
+  "address": "",
+  "phone": "(404) 920-8578",
+  "email": "",
+  "rating": "4.5",
+  "review_count": 57,
+  "reviews": [
+    "Best real estate services in town. T,C & S Real Estate in Atlanta, GA really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using T,C & S Real Estate in Atlanta, GA for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800",
+    "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=800"
+  ],
+  "services": [
+    "Residential Sales",
+    "Property Management",
+    "Commercial Real Estate",
+    "Investment Consulting",
+    "Home Staging",
+    "Market Analysis"
+  ],
+  "tagline": "Find Your Dream Home",
+  "description": "T,C & S Real Estate in Atlanta, GA provides professional real estate services to the Atlanta area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Atlanta GA",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "tc-s-real-estate-in-atlanta-ga"
+}

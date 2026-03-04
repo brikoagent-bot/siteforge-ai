@@ -1,0 +1,37 @@
+{
+  "business_name": "Sell My House Fast Miami FL",
+  "category": "real estate services",
+  "address": "",
+  "phone": "(786) 550-2930",
+  "email": "",
+  "rating": "4.8",
+  "review_count": 213,
+  "reviews": [
+    "Best real estate services in town. Sell My House Fast Miami FL really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Sell My House Fast Miami FL for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800",
+    "https://images.unsplash.com/photo-1582407947304-fd86f028f716?w=800"
+  ],
+  "services": [
+    "Residential Sales",
+    "Property Management",
+    "Commercial Real Estate",
+    "Investment Consulting",
+    "Home Staging",
+    "Market Analysis"
+  ],
+  "tagline": "Find Your Dream Home",
+  "description": "Sell My House Fast Miami FL provides professional real estate services to the Miami area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Miami FL",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "sell-my-house-fast-miami-fl"
+}

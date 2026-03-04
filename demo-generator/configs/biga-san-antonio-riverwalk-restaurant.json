@@ -1,0 +1,37 @@
+{
+  "business_name": "Biga - San Antonio Riverwalk Restaurant",
+  "category": "restaurant",
+  "address": "American restaurant",
+  "phone": "",
+  "email": "contact@biga-san-antonio-riverwalk-restaurant.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "We had our anniversary dinner here and it was magical. The staff went above and beyond to make it special.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Fresh Ingredients, Bold Flavors",
+  "description": "Biga - San Antonio Riverwalk Restaurant brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.295Z",
+  "maps_url": "https://www.google.com/maps/place/Biga+-+San+Antonio+Riverwalk+Restaurant/data=!4m7!3m6!1s0x865c58ace70cd653:0xde7f0cd847409803!8m2!3d29.423704!4d-98.492007!16s%2Fm%2F0zc7flc!19sChIJU9YM56xYXIYRA5hAR9gMf94?authuser=0&hl=en&rclk=1",
+  "slug": "biga-san-antonio-riverwalk-restaurant"
+}

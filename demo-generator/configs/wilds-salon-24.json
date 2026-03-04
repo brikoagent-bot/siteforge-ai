@@ -1,0 +1,37 @@
+{
+  "business_name": "Wilds Salon 24",
+  "category": "salon",
+  "address": "20811 N Cave Creek Rd",
+  "phone": "",
+  "email": "contact@wilds-salon-24.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Wilds Salon 24 is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.293Z",
+  "maps_url": "https://www.google.com/maps/place/Wilds+Salon+24/data=!4m7!3m6!1s0x872b6f3fc60e8845:0x4063efb3351f3d8d!8m2!3d33.675256!4d-112.030441!16s%2Fg%2F1thxljjq!19sChIJRYgOxj9vK4cRjT0fNbPvY0A?authuser=0&hl=en&rclk=1",
+  "slug": "wilds-salon-24"
+}

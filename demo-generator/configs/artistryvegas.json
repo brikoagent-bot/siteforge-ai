@@ -1,0 +1,37 @@
+{
+  "business_name": "Artistry.Vegas",
+  "category": "salon",
+  "address": "3000 Paradise Rd",
+  "phone": "(115) 151-2471",
+  "email": "contact@artistryvegas.com",
+  "rating": 4.1,
+  "review_count": 9999,
+  "reviews": [
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Beauty Refined",
+  "description": "Artistry.Vegas is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.313Z",
+  "maps_url": "https://www.google.com/maps/place/Artistry.Vegas/data=!4m7!3m6!1s0x80c8c68a36ec362d:0xc545e5ffb12687cc!8m2!3d36.1362073!4d-115.1512471!16s%2Fg%2F1hc4vmxr9!19sChIJLTbsNorGyIARzIcmsf_lRcU?authuser=0&hl=en&rclk=1",
+  "slug": "artistryvegas"
+}

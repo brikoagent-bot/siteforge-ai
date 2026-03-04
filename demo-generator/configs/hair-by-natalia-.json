@@ -1,0 +1,37 @@
+{
+  "business_name": "Hair by Natalia ✂",
+  "category": "salon",
+  "address": "2700 E 2nd Ave Studio #24",
+  "phone": "(104) 955-4096",
+  "email": "contact@hair-by-natalia-.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "The atmosphere is serene, the team is talented, and the results speak for themselves."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Your Personal Style Sanctuary",
+  "description": "Hair by Natalia ✂ is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.308Z",
+  "maps_url": "https://www.google.com/maps/place/Hair+by+Natalia+%E2%9C%82/data=!4m7!3m6!1s0x876c7e978c135909:0xc8e117dd418dc222!8m2!3d39.7192604!4d-104.9554096!16s%2Fg%2F1hm1zl0nj!19sChIJCVkTjJd-bIcRIsKNQd0X4cg?authuser=0&hl=en&rclk=1",
+  "slug": "hair-by-natalia-"
+}

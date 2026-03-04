@@ -1,0 +1,18 @@
+{
+  "name": "siteforge-demo-generator",
+  "version": "1.0.0",
+  "description": "Automated demo site generator for SiteForge AI web agency",
+  "main": "serve-demo.js",
+  "scripts": {
+    "serve": "node serve-demo.js",
+    "generate": "node generate-demo.js",
+    "generate-all": "node generate-all-demos.js",
+    "test": "node generate-demo.js 'Zavva Holdings' --config-only && node serve-demo.js"
+  },
+  "keywords": ["demo", "generator", "web-agency", "siteforge"],
+  "author": "SiteForge AI",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

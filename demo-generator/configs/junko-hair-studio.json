@@ -1,0 +1,37 @@
+{
+  "business_name": "Junko Hair Studio",
+  "category": "salon",
+  "address": "2391 Peachtree Rd B3D",
+  "phone": "(857) 626-4026",
+  "email": "contact@junko-hair-studio.com",
+  "rating": 4.8,
+  "review_count": 1749,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Where Beauty Meets Artistry",
+  "description": "Junko Hair Studio is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.073Z",
+  "maps_url": "https://www.google.com/maps/place/Junko+Hair+Studio/data=!4m7!3m6!1s0x88f505a3770068ad:0x85762640266d08c1!8m2!3d33.8201963!4d-84.3879068!16s%2Fg%2F1thk9l7q!19sChIJrWgAd6MF9YgRwQhtJkAmdoU?authuser=0&hl=en&rclk=1",
+  "slug": "junko-hair-studio"
+}

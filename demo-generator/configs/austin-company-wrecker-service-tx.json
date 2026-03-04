@@ -1,0 +1,37 @@
+{
+  "business_name": "Austin Company Wrecker Service  TX",
+  "category": "roadside assistance",
+  "address": "",
+  "phone": "(512) 953-5427",
+  "email": "",
+  "rating": "4.7",
+  "review_count": 125,
+  "reviews": [
+    "Best roadside assistance in town. Austin Company Wrecker Service  TX really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using Austin Company Wrecker Service  TX for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800",
+    "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800"
+  ],
+  "services": [
+    "Jump Start",
+    "Flat Tire Change",
+    "Fuel Delivery",
+    "Towing Service",
+    "Lockout Assistance",
+    "Winch-Out Service"
+  ],
+  "tagline": "Help When You Need It Most",
+  "description": "Austin Company Wrecker Service  TX provides professional roadside assistance to the Austin area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Austin TX",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "austin-company-wrecker-service-tx"
+}

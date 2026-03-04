@@ -1,0 +1,37 @@
+{
+  "business_name": "Stay Handsome Barber Studio",
+  "category": "barbershop",
+  "address": "813 Hodges St",
+  "phone": "",
+  "email": "contact@stay-handsome-barber-studio.com",
+  "rating": 4.5,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a barber who actually listens. The attention to detail is unmatched.",
+    "My go-to spot. Consistent quality every single time. The hot towel shave is a must-try.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "Where Tradition Meets Modern Grooming",
+  "description": "Stay Handsome Barber Studio is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.310Z",
+  "maps_url": "https://www.google.com/maps/place/Stay+Handsome+Barber+Studio/data=!4m7!3m6!1s0x89ac59cc521b2867:0x253d7cd81d264ac3!8m2!3d35.815114!4d-78.624793!16s%2Fg%2F11s9ggckqq!19sChIJZygbUsxZrIkRw0omHdh8PSU?authuser=0&hl=en&rclk=1",
+  "slug": "stay-handsome-barber-studio"
+}

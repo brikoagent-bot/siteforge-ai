@@ -1,0 +1,37 @@
+{
+  "business_name": "Utopia Restaurant at the Underground Atlanta",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "",
+  "email": "contact@utopia-restaurant-at-the-underground-atlanta.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The food was absolutely incredible. Every dish was beautifully presented and bursting with flavor.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Flavors That Tell a Story",
+  "description": "Utopia Restaurant at the Underground Atlanta brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.068Z",
+  "maps_url": "https://www.google.com/maps/place/Utopia+Restaurant+at+the+Underground+Atlanta/data=!4m7!3m6!1s0x88f50313151d6f1b:0xd59873fb09010244!8m2!3d33.7527854!4d-84.3902686!16s%2Fg%2F11x8_l86lm!19sChIJG28dFRMD9YgRRAIBCftzmNU?authuser=0&hl=en&rclk=1",
+  "slug": "utopia-restaurant-at-the-underground-atlanta"
+}

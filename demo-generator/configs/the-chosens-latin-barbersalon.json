@@ -1,0 +1,37 @@
+{
+  "business_name": "The Chosens Latin Barbersalon",
+  "category": "barbershop",
+  "address": "3225 Southside Blvd #3",
+  "phone": "",
+  "email": "contact@the-chosens-latin-barbersalon.com",
+  "rating": 4.8,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a barber who actually listens. The attention to detail is unmatched.",
+    "Best fade in the city, hands down. Been coming here for three years and never been disappointed.",
+    "The vibe in here is incredible. Great music, cold drinks, and the most precise lineups I've ever gotten."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1585747860019-24e16c60506e?w=800",
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=800"
+  ],
+  "services": [
+    "Classic Haircuts",
+    "Beard Trim & Shape",
+    "Hot Towel Shave",
+    "Fade & Taper",
+    "Hair Design",
+    "Kids Cuts"
+  ],
+  "tagline": "The Art of the Perfect Cut",
+  "description": "The Chosens Latin Barbersalon is more than a barbershop — it's an experience. Our skilled barbers combine traditional techniques with modern styles to deliver precision cuts in a relaxed, welcoming atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.294Z",
+  "maps_url": "https://www.google.com/maps/place/The+Chosens+Latin+Barbersalon/data=!4m7!3m6!1s0x88e44adb698eec9b:0x7331f93b2ac12e4a!8m2!3d30.2878227!4d-81.5586398!16s%2Fg%2F11f00d165n!19sChIJm-yOadtK5IgRSi7BKjv5MXM?authuser=0&hl=en&rclk=1",
+  "slug": "the-chosens-latin-barbersalon"
+}

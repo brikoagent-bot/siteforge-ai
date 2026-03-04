@@ -1,0 +1,37 @@
+{
+  "business_name": "South Charlotte Services",
+  "category": "home improvement",
+  "address": "",
+  "phone": "(704) 442-7019",
+  "email": "",
+  "rating": "4.5",
+  "review_count": 53,
+  "reviews": [
+    "Best home improvement in town. South Charlotte Services really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using South Charlotte Services for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+    "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800"
+  ],
+  "services": [
+    "Kitchen Remodeling",
+    "Bathroom Renovation",
+    "Flooring",
+    "Painting",
+    "Deck & Patio",
+    "Basement Finishing"
+  ],
+  "tagline": "Your Dream Home Awaits",
+  "description": "South Charlotte Services provides professional home improvement to the Charlotte area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Charlotte NC",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "south-charlotte-services"
+}

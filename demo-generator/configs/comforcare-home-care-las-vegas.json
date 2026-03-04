@@ -1,0 +1,37 @@
+{
+  "business_name": "ComForCare Home Care (Las Vegas)",
+  "category": "elder care",
+  "address": "",
+  "phone": "(702) 356-4036",
+  "email": "",
+  "rating": "4.6",
+  "review_count": 172,
+  "reviews": [
+    "Best elder care in town. ComForCare Home Care (Las Vegas) really knows what they're doing.",
+    "Called them on short notice and they delivered. Professional, on time, fair pricing.",
+    "Been using ComForCare Home Care (Las Vegas) for years. Wouldn't go anywhere else. Highly recommend."
+  ],
+  "hours": {
+    "Mon-Fri": "8:00 AM - 6:00 PM",
+    "Saturday": "9:00 AM - 3:00 PM",
+    "Sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?w=800",
+    "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800"
+  ],
+  "services": [
+    "Oil Change & Filter",
+    "Brake Repair",
+    "Engine Diagnostics",
+    "Transmission Service",
+    "AC Repair",
+    "Tire Rotation & Balance"
+  ],
+  "tagline": "Honest Service, Fair Prices",
+  "description": "ComForCare Home Care (Las Vegas) provides professional elder care to the Las Vegas area. With years of experience and a commitment to quality, we deliver results that exceed expectations. Contact us today for a free consultation.",
+  "city": "Las Vegas NV",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T23:59:59.000Z",
+  "slug": "comforcare-home-care-las-vegas"
+}

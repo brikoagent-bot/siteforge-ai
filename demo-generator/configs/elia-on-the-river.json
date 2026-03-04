@@ -1,0 +1,37 @@
+{
+  "business_name": "Elia on the River",
+  "category": "restaurant",
+  "address": "Restaurant",
+  "phone": "",
+  "email": "contact@elia-on-the-river.com",
+  "rating": 4.7,
+  "review_count": 9999,
+  "reviews": [
+    "Great food, great service, great vibes. This place has become our family's favorite spot.",
+    "Best dining experience in the area. The atmosphere is perfect for date night and the menu never disappoints.",
+    "The chef's special was out of this world. Fresh, creative, and perfectly executed. Will definitely be back."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800"
+  ],
+  "services": [
+    "Dine-In",
+    "Takeout & Delivery",
+    "Catering",
+    "Private Events",
+    "Full Bar",
+    "Weekend Brunch"
+  ],
+  "tagline": "Flavors That Tell a Story",
+  "description": "Elia on the River brings you a dining experience crafted with passion and the finest ingredients. From our kitchen to your table, every dish tells a story of flavor, tradition, and culinary artistry.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:10:12.070Z",
+  "maps_url": "https://www.google.com/maps/place/Elia+on+the+River/data=!4m7!3m6!1s0x88d9b6c3223dc5e5:0x51442116e51269bc!8m2!3d25.7850982!4d-80.2204292!16s%2Fg%2F11w1w064gp!19sChIJ5cU9IsO22YgRvGkS5RYhRFE?authuser=0&hl=en&rclk=1",
+  "slug": "elia-on-the-river"
+}

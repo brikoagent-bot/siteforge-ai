@@ -1,0 +1,37 @@
+{
+  "business_name": "Hush Raleigh",
+  "category": "salon",
+  "address": "419 N Harrington St",
+  "phone": "",
+  "email": "contact@hush-raleigh.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut.",
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Elevate Your Look",
+  "description": "Hush Raleigh is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.312Z",
+  "maps_url": "https://www.google.com/maps/place/Hush+Raleigh/data=!4m7!3m6!1s0x89ac5f7ec6130e45:0x65cb9903d05e1099!8m2!3d35.7862835!4d-78.6446296!16s%2Fg%2F11tt8m1pgs!19sChIJRQ4Txn5frIkRmRBe0AOZy2U?authuser=0&hl=en&rclk=1",
+  "slug": "hush-raleigh"
+}

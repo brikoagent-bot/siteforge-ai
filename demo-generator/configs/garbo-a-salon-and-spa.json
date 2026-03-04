@@ -1,0 +1,37 @@
+{
+  "business_name": "Garbo A Salon and Spa",
+  "category": "salon",
+  "address": "1330 Shore District Dr #300",
+  "phone": "",
+  "email": "contact@garbo-a-salon-and-spa.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "The color work here is incredible. My balayage looks natural and beautiful — exactly what I envisioned.",
+    "Pure luxury from start to finish. My stylist understood exactly what I wanted and delivered perfection.",
+    "Finally found a salon that truly listens. Every visit feels like self-care, not just a haircut."
+  ],
+  "hours": {
+    "mon-fri": "9am-6pm",
+    "saturday": "10am-4pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=800",
+    "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800"
+  ],
+  "services": [
+    "Precision Cuts",
+    "Color Services",
+    "Balayage & Highlights",
+    "Keratin Treatments",
+    "Styling & Updos",
+    "Hair Extensions"
+  ],
+  "tagline": "Where Beauty Meets Artistry",
+  "description": "Garbo A Salon and Spa is a sanctuary for self-care and style. Our expert stylists combine artistry with the finest products to create looks that are uniquely you. Experience beauty at its finest.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-18T01:39:25.305Z",
+  "maps_url": "https://www.google.com/maps/place/Garbo+A+Salon+and+Spa/data=!4m7!3m6!1s0x8644b44f0d22e84b:0x4e3c716b0ab4093f!8m2!3d30.2438342!4d-97.7274505!16s%2Fg%2F11c2qtc095!19sChIJS-giDU-0RIYRPwm0CmtxPE4?authuser=0&hl=en&rclk=1",
+  "slug": "garbo-a-salon-and-spa"
+}
