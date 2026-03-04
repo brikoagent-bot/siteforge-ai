@@ -10,7 +10,7 @@ const { execSync } = require('child_process');
 const path = require('path');
 
 const FROM_EMAIL = 'zavvaadmin@zavvaholdings.com';
-const PORT = 3003;
+const PORT = process.env.PORT || 3003;
 const DEMO_SERVER_PATH = path.join(__dirname, '..', 'demo-generator', 'serve-demo.js');
 
 // Import demo HTML generator from serve-demo.js
