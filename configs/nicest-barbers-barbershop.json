@@ -1,0 +1,41 @@
+{
+  "business_name": "Nicest Barbers Barbershop",
+  "category": "barbershop",
+  "address": "2020 Ponce de Leon Blvd STE 108",
+  "phone": "",
+  "email": "contact@nicest-barbers-barbershop.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1200",
+    "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=800",
+    "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=800"
+  ],
+  "services": [
+    "Haircuts",
+    "Beard Trim",
+    "Hot Towel Shave",
+    "Hair Styling",
+    "Kids Cuts",
+    "Straight Razor Shave"
+  ],
+  "tagline": "Looking good never goes out of style",
+  "description": "Step into Nicest Barbers Barbershop for a grooming experience that combines traditional barbering techniques with contemporary trends. We specialize in precision cuts, hot towel shaves, and premium grooming services.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.132Z",
+  "maps_url": "https://www.google.com/maps/place/Nicest+Barbers+Barbershop/data=!4m7!3m6!1s0x88d9b75c76e675f7:0x3f5be3fb0240e572!8m2!3d25.7539413!4d-80.2598401!16s%2Fg%2F11f631x_nn!19sChIJ93Xmdly32YgRcuVAAvvjWz8?authuser=0&hl=en&rclk=1",
+  "slug": "nicest-barbers-barbershop"
+}

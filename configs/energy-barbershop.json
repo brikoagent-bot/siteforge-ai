@@ -1,0 +1,42 @@
+{
+  "business_name": "Energy Barbershop",
+  "category": "barbershop",
+  "address": "2901 SW 8th St #202",
+  "phone": "",
+  "email": "contact@energy-barbershop.com",
+  "rating": 4.9,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!",
+    "Friendly staff and top-notch service. Love this place!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1200",
+    "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=800",
+    "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=800"
+  ],
+  "services": [
+    "Haircuts",
+    "Beard Trim",
+    "Hot Towel Shave",
+    "Hair Styling",
+    "Kids Cuts",
+    "Straight Razor Shave"
+  ],
+  "tagline": "Classic cuts, modern style",
+  "description": "More than just a haircut, Energy Barbershop delivers an experience. Our skilled barbers take pride in every detail, ensuring you leave looking and feeling your absolute best.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/Energy+Barbershop/data=!4m7!3m6!1s0x88d9b70665657a79:0x220f47366207eb2f!8m2!3d25.765303!4d-80.241152!16s%2Fg%2F11c1nqlkpq!19sChIJeXplZQa32YgRL-sHYjZHDyI?authuser=0&hl=en&rclk=1",
+  "slug": "energy-barbershop"
+}

@@ -1,0 +1,41 @@
+{
+  "business_name": "Elite Smiles Dental Center",
+  "category": "dentist",
+  "address": "Dentist",
+  "phone": "",
+  "email": "contact@elite-smiles-dental-center.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!"
+  ],
+  "hours": {
+    "mon-fri": "8am-5pm",
+    "saturday": "9am-1pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?w=1200",
+    "https://images.unsplash.com/photo-1629909613654-28e377c37b09?w=800",
+    "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=800"
+  ],
+  "services": [
+    "Cleanings & Prevention",
+    "Fillings & Restorations",
+    "Teeth Whitening",
+    "Crowns & Bridges",
+    "Root Canals",
+    "Cosmetic Dentistry"
+  ],
+  "tagline": "Where healthy smiles begin",
+  "description": "Trust Elite Smiles Dental Center for all your dental needs. We combine clinical excellence with compassionate care, ensuring you and your family receive the best possible treatment in a friendly atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.132Z",
+  "maps_url": "https://www.google.com/maps/place/Elite+Smiles+Dental+Center/data=!4m7!3m6!1s0x88d9b72312ebe395:0xe1be209ca2b2d244!8m2!3d25.757676!4d-80.254484!16s%2Fg%2F11ln5r6qst!19sChIJlePrEiO32YgRRNKyopwgvuE?authuser=0&hl=en&rclk=1",
+  "slug": "elite-smiles-dental-center"
+}

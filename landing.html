@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SiteForge AI - Your Business Deserves a Website. We Already Built Yours.</title>
+    <meta name="description" content="Professional websites for local businesses. $2,000 setup + $700/month. We find you, build it, and help you grow.">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --electric-blue: #00d4ff;
+            --purple: #a855f7;
+            --dark-bg: #0a0a0f;
+            --dark-card: #1a1a24;
+            --dark-border: #2a2a3a;
+            --text-primary: #ffffff;
+            --text-secondary: #a0a0b0;
+            --gradient: linear-gradient(135deg, var(--electric-blue), var(--purple));
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background-color: var(--dark-bg);
+            color: var(--text-primary);
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Navigation */
+        nav {
+            padding: 20px 0;
+            position: sticky;
+            top: 0;
+            background: rgba(10, 10, 15, 0.95);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            border-bottom: 1px solid var(--dark-border);
+        }
+
+        .nav-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: 800;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-cta {
+            padding: 12px 28px;
+            background: var(--gradient);
+            border: none;
+            border-radius: 8px;
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .nav-cta:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(0, 212, 255, 0.3);
+        }
+
+        /* Hero Section */
+        .hero {
+            padding: 120px 0;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(0, 212, 255, 0.15), transparent);
+            top: -300px;
+            left: 50%;
+            transform: translateX(-50%);
+            pointer-events: none;
+        }
+
+        .hero h1 {
+            font-size: 56px;
+            font-weight: 900;
+            line-height: 1.2;
+            margin-bottom: 24px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .hero .highlight {
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero p {
+            font-size: 20px;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto 40px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .cta-primary {
+            padding: 18px 48px;
+            background: var(--gradient);
+            border: none;
+            border-radius: 12px;
+            color: white;
+            font-size: 18px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.3s;
+            text-decoration: none;
+            display: inline-block;
+            position: relative;
+            z-index: 1;
+        }
+
+        .cta-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 20px 40px rgba(0, 212, 255, 0.4);
+        }
+
+        /* Section Headers */
+        .section {
+            padding: 80px 0;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .section-header h2 {
+            font-size: 42px;
+            font-weight: 800;
+            margin-bottom: 16px;
+        }
+
+        .section-header p {
+            font-size: 18px;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* How It Works */
+        .steps {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+            margin-top: 40px;
+        }
+
+        .step {
+            background: var(--dark-card);
+            border: 1px solid var(--dark-border);
+            border-radius: 16px;
+            padding: 40px;
+            text-align: center;
+            transition: transform 0.3s, border-color 0.3s;
+            position: relative;
+        }
+
+        .step:hover {
+            transform: translateY(-8px);
+            border-color: var(--electric-blue);
+        }
+
+        .step-number {
+            width: 60px;
+            height: 60px;
+            background: var(--gradient);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 28px;
+            font-weight: 800;
+            margin: 0 auto 20px;
+        }
+
+        .step h3 {
+            font-size: 24px;
+            margin-bottom: 12px;
+        }
+
+        .step p {
+            color: var(--text-secondary);
+            line-height: 1.8;
+        }
+
+        /* Pricing */
+        .pricing-card {
+            background: var(--dark-card);
+            border: 2px solid var(--electric-blue);
+            border-radius: 20px;
+            padding: 60px;
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .pricing-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: var(--gradient);
+        }
+
+        .pricing-badge {
+            display: inline-block;
+            background: var(--gradient);
+            color: white;
+            padding: 8px 20px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+
+        .pricing-amount {
+            font-size: 64px;
+            font-weight: 900;
+            margin: 20px 0;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .pricing-details {
+            list-style: none;
+            margin: 30px 0;
+            text-align: left;
+        }
+
+        .pricing-details li {
+            padding: 16px 0;
+            border-bottom: 1px solid var(--dark-border);
+            display: flex;
+            align-items: center;
+        }
+
+        .pricing-details li:last-child {
+            border-bottom: none;
+        }
+
+        .pricing-details li::before {
+            content: '✓';
+            color: var(--electric-blue);
+            font-weight: bold;
+            margin-right: 12px;
+            font-size: 20px;
+        }
+
+        .roi-note {
+            background: rgba(0, 212, 255, 0.1);
+            border: 1px solid var(--electric-blue);
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 30px;
+            font-size: 16px;
+        }
+
+        .roi-note strong {
+            color: var(--electric-blue);
+        }
+
+        /* Portfolio */
+        .portfolio-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .portfolio-item {
+            background: var(--dark-card);
+            border: 1px solid var(--dark-border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: transform 0.3s, border-color 0.3s;
+            cursor: pointer;
+        }
+
+        .portfolio-item:hover {
+            transform: translateY(-8px);
+            border-color: var(--purple);
+        }
+
+        .portfolio-image {
+            width: 100%;
+            height: 240px;
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.2), rgba(168, 85, 247, 0.2));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            border-bottom: 1px solid var(--dark-border);
+        }
+
+        .portfolio-info {
+            padding: 24px;
+        }
+
+        .portfolio-info h3 {
+            font-size: 20px;
+            margin-bottom: 8px;
+        }
+
+        .portfolio-info p {
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        /* Testimonials */
+        .testimonials-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .testimonial {
+            background: var(--dark-card);
+            border: 1px solid var(--dark-border);
+            border-radius: 16px;
+            padding: 32px;
+        }
+
+        .testimonial-stars {
+            color: #fbbf24;
+            font-size: 20px;
+            margin-bottom: 16px;
+        }
+
+        .testimonial-text {
+            font-style: italic;
+            color: var(--text-secondary);
+            margin-bottom: 20px;
+            line-height: 1.8;
+        }
+
+        .testimonial-author {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .testimonial-avatar {
+            width: 48px;
+            height: 48px;
+            background: var(--gradient);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+        }
+
+        .testimonial-name {
+            font-weight: 600;
+        }
+
+        .testimonial-title {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        /* FAQ */
+        .faq-list {
+            max-width: 800px;
+            margin: 40px auto 0;
+        }
+
+        .faq-item {
+            background: var(--dark-card);
+            border: 1px solid var(--dark-border);
+            border-radius: 12px;
+            margin-bottom: 16px;
+            overflow: hidden;
+            transition: border-color 0.3s;
+        }
+
+        .faq-item:hover {
+            border-color: var(--electric-blue);
+        }
+
+        .faq-question {
+            padding: 24px;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .faq-answer {
+            padding: 0 24px 24px;
+            color: var(--text-secondary);
+            line-height: 1.8;
+            display: none;
+        }
+
+        .faq-item.active .faq-answer {
+            display: block;
+        }
+
+        .faq-toggle {
+            color: var(--electric-blue);
+            font-size: 24px;
+            transition: transform 0.3s;
+        }
+
+        .faq-item.active .faq-toggle {
+            transform: rotate(45deg);
+        }
+
+        /* Contact */
+        .contact-box {
+            background: var(--dark-card);
+            border: 1px solid var(--dark-border);
+            border-radius: 20px;
+            padding: 60px;
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .contact-box h3 {
+            font-size: 32px;
+            margin-bottom: 16px;
+        }
+
+        .contact-box p {
+            color: var(--text-secondary);
+            margin-bottom: 30px;
+        }
+
+        .contact-email {
+            display: inline-block;
+            font-size: 24px;
+            color: var(--electric-blue);
+            text-decoration: none;
+            font-weight: 600;
+            padding: 16px 32px;
+            border: 2px solid var(--electric-blue);
+            border-radius: 12px;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        .contact-email:hover {
+            background: var(--electric-blue);
+            color: var(--dark-bg);
+        }
+
+        /* Footer */
+        footer {
+            background: var(--dark-card);
+            border-top: 1px solid var(--dark-border);
+            padding: 40px 0;
+            text-align: center;
+        }
+
+        footer .logo {
+            font-size: 28px;
+            margin-bottom: 16px;
+            display: block;
+        }
+
+        footer p {
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 36px;
+            }
+
+            .hero p {
+                font-size: 18px;
+            }
+
+            .section-header h2 {
+                font-size: 32px;
+            }
+
+            .pricing-card,
+            .contact-box {
+                padding: 40px 24px;
+            }
+
+            .pricing-amount {
+                font-size: 48px;
+            }
+
+            .steps {
+                grid-template-columns: 1fr;
+            }
+
+            .nav-cta {
+                padding: 10px 20px;
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav>
+        <div class="container">
+            <div class="nav-container">
+                <div class="logo">SiteForge AI</div>
+                <a href="#contact" class="nav-cta">Get Started</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <h1>Your Business Deserves a Website.<br><span class="highlight">We Already Built Yours.</span></h1>
+            <p>Professional websites for local businesses. No tech skills needed. We handle everything from design to deployment.</p>
+            <a href="#pricing" class="cta-primary">See Pricing</a>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section class="section" style="background: rgba(0, 212, 255, 0.02);">
+        <div class="container">
+            <div class="section-header">
+                <h2>How It Works</h2>
+                <p>Three simple steps to getting your business online</p>
+            </div>
+            <div class="steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <h3>We Find You</h3>
+                    <p>We identify local businesses that need a web presence and reach out with a custom solution already built for your industry.</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <h3>We Build It</h3>
+                    <p>Our AI-powered platform creates a stunning, conversion-optimized website tailored to your business. Fast turnaround, zero hassle.</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <h3>You Grow</h3>
+                    <p>Launch your site and start attracting customers. We handle hosting, updates, and support so you can focus on your business.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing -->
+    <section class="section" id="pricing">
+        <div class="container">
+            <div class="section-header">
+                <h2>Simple, Transparent Pricing</h2>
+                <p>Everything you need to dominate online</p>
+            </div>
+            <div class="pricing-card">
+                <div class="pricing-badge">BEST VALUE</div>
+                <div class="pricing-amount">$2,000</div>
+                <p style="color: var(--text-secondary); margin-bottom: 10px;">One-time setup fee</p>
+                <p style="font-size: 24px; font-weight: 600; margin-bottom: 30px;">+ $700<span style="font-size: 18px; font-weight: 400; color: var(--text-secondary);">/month</span></p>
+                
+                <ul class="pricing-details">
+                    <li>Custom Website Design</li>
+                    <li>Mobile-Responsive Layout</li>
+                    <li>Premium Hosting & SSL</li>
+                    <li>SEO Optimization</li>
+                    <li>Contact Forms & Analytics</li>
+                    <li>Monthly Updates & Maintenance</li>
+                    <li>24/7 Technical Support</li>
+                    <li>Free Domain for 1 Year</li>
+                </ul>
+
+                <div class="roi-note">
+                    <strong>ROI Reality Check:</strong> One new customer pays for itself. Most of our clients see 3-5x ROI within the first 90 days.
+                </div>
+
+                <a href="#contact" class="cta-primary" style="margin-top: 30px;">Get Started Today</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio -->
+    <section class="section" style="background: rgba(168, 85, 247, 0.02);">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our Work</h2>
+                <p>Websites that convert visitors into customers</p>
+            </div>
+            <div class="portfolio-grid">
+                <div class="portfolio-item">
+                    <div class="portfolio-image">🍕</div>
+                    <div class="portfolio-info">
+                        <h3>Local Pizzeria</h3>
+                        <p>Online ordering increased revenue by 40% in the first month</p>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">💈</div>
+                    <div class="portfolio-info">
+                        <h3>Barber Shop</h3>
+                        <p>Automated booking system reduced no-shows by 60%</p>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">🏋️</div>
+                    <div class="portfolio-info">
+                        <h3>Fitness Studio</h3>
+                        <p>New member signups tripled with online class schedule</p>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">🔧</div>
+                    <div class="portfolio-info">
+                        <h3>Plumbing Service</h3>
+                        <p>Emergency call requests up 85% with mobile-friendly site</p>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">☕</div>
+                    <div class="portfolio-info">
+                        <h3>Coffee Shop</h3>
+                        <p>Loyalty program drove 120+ repeat customers in 3 months</p>
+                    </div>
+                </div>
+                <div class="portfolio-item">
+                    <div class="portfolio-image">🏡</div>
+                    <div class="portfolio-info">
+                        <h3>Real Estate Agent</h3>
+                        <p>Property inquiries increased 200% with virtual tours</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="section">
+        <div class="container">
+            <div class="section-header">
+                <h2>What Our Clients Say</h2>
+                <p>Real results from real businesses</p>
+            </div>
+            <div class="testimonials-grid">
+                <div class="testimonial">
+                    <div class="testimonial-stars">★★★★★</div>
+                    <p class="testimonial-text">"I had no idea how many customers I was losing without a website. Within two weeks of launching, we had 15 new bookings. Best investment I've made."</p>
+                    <div class="testimonial-author">
+                        <div class="testimonial-avatar">MR</div>
+                        <div>
+                            <div class="testimonial-name">Maria Rodriguez</div>
+                            <div class="testimonial-title">Owner, Bella Hair Salon</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial">
+                    <div class="testimonial-stars">★★★★★</div>
+                    <p class="testimonial-text">"SiteForge AI made the whole process painless. They built exactly what I needed, and now I can take orders online 24/7. Revenue is up 35%."</p>
+                    <div class="testimonial-author">
+                        <div class="testimonial-avatar">JC</div>
+                        <div>
+                            <div class="testimonial-name">James Chen</div>
+                            <div class="testimonial-title">Owner, Dragon Wok Restaurant</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial">
+                    <div class="testimonial-stars">★★★★★</div>
+                    <p class="testimonial-text">"Finally, a web company that actually delivers. My phone hasn't stopped ringing since we went live. The ROI is insane."</p>
+                    <div class="testimonial-author">
+                        <div class="testimonial-avatar">DW</div>
+                        <div>
+                            <div class="testimonial-name">David Williams</div>
+                            <div class="testimonial-title">Owner, QuickFix Plumbing</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section" style="background: rgba(0, 212, 255, 0.02);">
+        <div class="container">
+            <div class="section-header">
+                <h2>Frequently Asked Questions</h2>
+                <p>Everything you need to know</p>
+            </div>
+            <div class="faq-list">
+                <div class="faq-item">
+                    <div class="faq-question" onclick="toggleFAQ(this)">
+                        <span>What's included in the $2,000 setup fee?</span>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        Everything you need to launch: custom design, content creation, mobile optimization, SEO setup, contact forms, analytics integration, and a free domain for one year. You get a complete, ready-to-convert website.
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question" onclick="toggleFAQ(this)">
+                        <span>What does the $700/month cover?</span>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        Premium hosting, SSL certificate, daily backups, security monitoring, monthly content updates, technical support, and performance optimization. Think of it as having a full web team on retainer for less than hiring one employee.
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question" onclick="toggleFAQ(this)">
+                        <span>How long does it take to launch?</span>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        Most websites go live within 7-14 days. We move fast because we've streamlined the process. You'll see previews within 48 hours of signing up.
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question" onclick="toggleFAQ(this)">
+                        <span>Can I cancel anytime?</span>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        Yes, no long-term contracts. If you're not happy, you can cancel with 30 days notice. That said, 95% of our clients stick around because the results speak for themselves.
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question" onclick="toggleFAQ(this)">
+                        <span>Do I own the website?</span>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        You own all the content and branding. If you ever leave, we'll provide you with all files and help you migrate. We believe in building long-term partnerships, not holding your site hostage.
+                    </div>
+                </div>
+                <div class="faq-item">
+                    <div class="faq-question" onclick="toggleFAQ(this)">
+                        <span>What if I need changes or updates?</span>
+                        <span class="faq-toggle">+</span>
+                    </div>
+                    <div class="faq-answer">
+                        That's included in your monthly plan. Need to update business hours? Add a new service? Change photos? Just email us and we'll handle it within 24-48 hours.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="section" id="contact">
+        <div class="container">
+            <div class="section-header">
+                <h2>Ready to Grow Your Business?</h2>
+                <p>Let's build your website today</p>
+            </div>
+            <div class="contact-box">
+                <h3>Get Started Now</h3>
+                <p>Email us and we'll have your custom proposal ready within 24 hours.</p>
+                <a href="mailto:brikoagent@gmail.com" class="contact-email">brikoagent@gmail.com</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="logo">SiteForge AI</div>
+            <p>&copy; 2026 SiteForge AI. Building the future of local business websites.</p>
+        </div>
+    </footer>
+
+    <script>
+        // FAQ Toggle
+        function toggleFAQ(element) {
+            const faqItem = element.parentElement;
+            const wasActive = faqItem.classList.contains('active');
+            
+            // Close all FAQs
+            document.querySelectorAll('.faq-item').forEach(item => {
+                item.classList.remove('active');
+            });
+            
+            // Open clicked FAQ if it wasn't active
+            if (!wasActive) {
+                faqItem.classList.add('active');
+            }
+        }
+
+        // Smooth scroll for anchor links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

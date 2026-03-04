@@ -1,0 +1,41 @@
+{
+  "business_name": "The M Factor Style Company Salon Uptown",
+  "category": "salon",
+  "address": "210 E Trade St",
+  "phone": "",
+  "email": "contact@the-m-factor-style-company-salon-uptown.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "10am-5pm"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200",
+    "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=800",
+    "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?w=800"
+  ],
+  "services": [
+    "Haircuts & Styling",
+    "Hair Color",
+    "Highlights",
+    "Blowouts",
+    "Hair Treatments",
+    "Special Occasion Styling"
+  ],
+  "tagline": "Transforming hair, boosting confidence",
+  "description": "Experience the difference at The M Factor Style Company Salon Uptown. From precision cuts to stunning color, we offer a full range of services in a relaxing, upscale atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/The+M+Factor+Style+Company+Salon+Uptown/data=!4m7!3m6!1s0x8856a15efaa5b883:0xcc7f2c8d7b8598a!8m2!3d35.2255399!4d-80.8423199!16s%2Fg%2F11kvrzpn79!19sChIJg7il-l6hVogRilm418jyxww?authuser=0&hl=en&rclk=1",
+  "slug": "the-m-factor-style-company-salon-uptown"
+}

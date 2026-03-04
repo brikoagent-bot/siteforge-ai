@@ -1,0 +1,43 @@
+{
+  "business_name": "Miami Vip Barbershop",
+  "category": "barbershop",
+  "address": "407 SW 12th Ave H",
+  "phone": "",
+  "email": "contact@miami-vip-barbershop.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!",
+    "Friendly staff and top-notch service. Love this place!",
+    "Quality work at reasonable prices. Couldn't ask for more!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1200",
+    "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=800",
+    "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=800"
+  ],
+  "services": [
+    "Haircuts",
+    "Beard Trim",
+    "Hot Towel Shave",
+    "Hair Styling",
+    "Kids Cuts",
+    "Straight Razor Shave"
+  ],
+  "tagline": "Where tradition meets style",
+  "description": "Miami Vip Barbershop is your premier barbershop offering classic cuts and modern styles. Our experienced barbers provide personalized service in a relaxed, professional atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.131Z",
+  "maps_url": "https://www.google.com/maps/place/Miami+Vip+Barbershop/data=!4m7!3m6!1s0x88d9b7d776f95c25:0xc99530f4c20790a0!8m2!3d25.7692463!4d-80.2143866!16s%2Fg%2F11vt6x8380!19sChIJJVz5dte32YgRoJAHwvQwlck?authuser=0&hl=en&rclk=1",
+  "slug": "miami-vip-barbershop"
+}

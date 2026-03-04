@@ -1,0 +1,40 @@
+{
+  "business_name": "Clippers ATL Barbershop",
+  "category": "barbershop",
+  "address": "Inside Phenix Salons, 2329 Cheshire Bridge Rd NE Suite 123",
+  "phone": "",
+  "email": "contact@clippers-atl-barbershop.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!"
+  ],
+  "hours": {
+    "mon-fri": "9am-7pm",
+    "saturday": "9am-6pm",
+    "sunday": "Closed"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1200",
+    "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=800",
+    "https://images.unsplash.com/photo-1585747860715-2ba37e788b70?w=800"
+  ],
+  "services": [
+    "Haircuts",
+    "Beard Trim",
+    "Hot Towel Shave",
+    "Hair Styling",
+    "Kids Cuts",
+    "Straight Razor Shave"
+  ],
+  "tagline": "Classic cuts, modern style",
+  "description": "Clippers ATL Barbershop is your premier barbershop offering classic cuts and modern styles. Our experienced barbers provide personalized service in a relaxed, professional atmosphere.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/Clippers+ATL+Barbershop/data=!4m7!3m6!1s0x88f50507acbb3fb7:0x5dc192735b04b63f!8m2!3d33.8188655!4d-84.3492343!16s%2Fg%2F11wc1yxvqk!19sChIJtz-7rAcF9YgRP7YEW3OSwV0?authuser=0&hl=en&rclk=1",
+  "slug": "clippers-atl-barbershop"
+}

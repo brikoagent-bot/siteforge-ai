@@ -1,0 +1,41 @@
+{
+  "business_name": "BST Automotive Mobile Brake Repair and More",
+  "category": "restaurant",
+  "address": "1700 Northside Dr NW suite A7 #3486",
+  "phone": "(470) 979-6634",
+  "email": "contact@bst-automotive-mobile-brake-repair-and-more.com",
+  "rating": 5,
+  "review_count": 9999,
+  "reviews": [
+    "Excellent service and great quality! Highly recommend.",
+    "Very professional and friendly. Will definitely be back!",
+    "Amazing experience from start to finish. Five stars!",
+    "Best in the area. You won't be disappointed!",
+    "Outstanding work and fair prices. Very satisfied!",
+    "Exceeded my expectations. Great attention to detail!",
+    "Friendly staff and top-notch service. Love this place!",
+    "Quality work at reasonable prices. Couldn't ask for more!"
+  ],
+  "hours": {
+    "mon-fri": "11am-10pm",
+    "sat-sun": "12pm-11pm"
+  },
+  "photos": [
+    "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200",
+    "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800",
+    "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?w=800"
+  ],
+  "services": [
+    "Dine-in",
+    "Takeout",
+    "Delivery",
+    "Catering",
+    "Outdoor Seating"
+  ],
+  "tagline": "Where great food meets great service",
+  "description": "Experience the finest Brake shop cuisine in a welcoming atmosphere. We pride ourselves on exceptional service and dishes made fresh daily with locally-sourced ingredients.",
+  "demo_mode": true,
+  "demo_expires": "2026-03-05T21:35:51.133Z",
+  "maps_url": "https://www.google.com/maps/place/BST+Automotive+Mobile+Brake+Repair+and+More/data=!4m7!3m6!1s0x2f7bb0f31bc626d5:0x1a635b0eb0af4fa5!8m2!3d33.8011174!4d-84.4081614!16s%2Fg%2F11k39d4n3m!19sChIJ1SbGG_Owey8RpU-vsA5bYxo?authuser=0&hl=en&rclk=1",
+  "slug": "bst-automotive-mobile-brake-repair-and-more"
+}
